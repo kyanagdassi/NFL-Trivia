@@ -1,0 +1,4510 @@
+Player,#,Pos,HT,WT,Age,Exp,College,Team,Division,Popularity
+"
+Ameer Abdullah",22,RB,5-9,203,28,8,Nebraska,Raiders,,
+"
+Johnathan Abram",24,S,6-0,205,25,4,Mississippi State,Raiders,,
+"
+Davante Adams",17,WR,6-1,215,29,9,Fresno State,Raiders,,
+"
+Anthony Averett",29,CB,5-11,185,27,5,Alabama,Raiders,,
+"
+Alex Bars",64,OL,6-5,334,26,4,Notre Dame,Raiders,,
+"
+Jackson Barton",78,T,6-7,302,26,4,Utah,Raiders,,
+"
+Andrew Billings",97,DT,6-1,311,27,6,Baylor,Raiders,,
+"
+Brandon Bolden",34,RB,5-11,220,32,10,Mississippi,Raiders,,
+"
+Nick Bowers",82,TE,6-4,265,25,2,Penn State,Raiders,,
+"
+Jayon Brown",,LB,6-0,226,27,6,UCLA,Raiders,,
+"
+Vernon Butler",,DT,6-4,325,27,7,Louisiana Tech,Raiders,,
+"
+Daniel Carlson",2,K,6-5,215,27,5,Auburn,Raiders,,
+"
+Derek Carr",4,QB,6-3,210,31,9,Fresno State,Raiders,,
+"
+AJ Cole",6,P,6-4,220,26,4,NC State,Raiders,,
+"
+Lester Cotton Sr.",67,G,6-4,335,26,1,Alabama,Raiders,,
+"
+Maxx Crosby",98,DE,6-5,255,24,4,Eastern Michigan,Raiders,,
+"
+Divine Deablo",5,LB,6-3,226,23,2,Virginia Tech,Raiders,,
+"
+Kenyan Drake",23,RB,6-1,211,28,7,Alabama,Raiders,,
+"
+Bryan Edwards",89,WR,6-3,212,23,3,South Carolina,Raiders,,
+"
+Jermaine Eluemunor",72,OL,6-4,345,27,6,Texas A&M,Raiders,,
+"
+Kyler Fackrell",,LB,6-5,245,30,7,Utah State,Raiders,,
+"
+Clelin Ferrell",99,DE,6-4,265,24,4,Clemson,Raiders,,
+"
+Garrett Gilbert",,QB,6-4,221,30,4,SMU,Raiders,,
+"
+Tyree Gillespie",37,S,6-0,207,24,2,Missouri,Raiders,,
+"
+Denzelle Good",71,G,6-5,340,31,8,Mars Hill,Raiders,,
+"
+Hroniss Grasu",65,OL,6-3,300,30,7,Oregon,Raiders,,
+"
+Gerri Green",56,DE,6-4,250,26,1,Mississippi State,Raiders,,
+"
+Johnathan Hankins",90,DT,6-3,340,30,10,Ohio State,Raiders,,
+"
+Duron Harmon",,S,6-0,205,31,10,Rutgers,Raiders,,
+"
+Brett Heggie",62,C,6-4,310,23,1,Florida,Raiders,,
+"
+Nate Hobbs",39,CB,6-1,195,22,2,Illinois,Raiders,,
+"
+Mack Hollins",10,WR,6-4,221,28,6,North Carolina,Raiders,,
+"
+Jacob Hollister",,TE,6-4,245,28,6,Wyoming,Raiders,,
+"
+Josh Jacobs",28,RB,5-10,220,24,4,Alabama,Raiders,,
+"
+Andre James",68,C,6-4,300,24,4,UCLA,Raiders,,
+"
+Jakob Johnson",45,FB,6-3,255,27,4,Tennessee,Raiders,,
+"
+Tyron Johnson",,WR,6-1,193,26,3,Oklahoma State,Raiders,,
+"
+Chandler Jones",55,DE,6-5,260,32,11,Syracuse,Raiders,,
+"
+Micah Kiser",,LB,6-0,244,27,5,Virginia,Raiders,,
+"
+Malcolm Koonce",51,DE,6-2,250,23,2,Buffalo,Raiders,,
+"
+Alex Leatherwood",70,G/T,6-5,312,23,2,Alabama,Raiders,,
+"
+Dallin Leavitt",32,S,5-10,195,27,4,Utah State,Raiders,,
+"
+Cre'Von LeBlanc",3,CB,5-10,190,27,6,Florida Atlantic,Raiders,,
+"
+Justin March-Lillard",53,LB,6-0,222,28,7,Akron,Raiders,,
+"
+Jordan Meredith",61,OL,6-3,300,24,1,Western Kentucky,Raiders,,
+"
+Kolton Miller",74,T,6-8,325,26,5,UCLA,Raiders,,
+"
+Tre’von Moehrig",25,S,6-2,202,22,2,TCU,Raiders,,
+"
+Foster Moreau",87,TE,6-4,250,24,4,LSU,Raiders,,
+"
+Trayvon Mullen Jr.",27,CB,6-2,200,24,4,Clemson,Raiders,,
+"
+Nick Mullens",,QB,6-1,187,27,4,Southern Mississippi,Raiders,,
+"
+Bilal Nichols",91,DT,6-4,290,25,5,Delaware,Raiders,,
+"
+Brandon Parker",75,T,6-8,320,26,5,North Carolina A&T,Raiders,,
+"
+Kyle Peko",,DT,6-1,305,28,4,Oregon State,Raiders,,
+"
+Denzel Perryman",52,LB,5-11,240,29,8,Miami,Raiders,,
+"
+Darius Phillips",20,CB,5-10,190,26,5,Western Michigan,Raiders,,
+"
+Trey Ragas",36,RB,5-10,214,25,1,Louisiana,Raiders,,
+"
+Hunter Renfrow",13,WR,5-10,185,26,4,Clemson,Raiders,,
+"
+Amik Robertson",21,CB,5-8,187,23,3,Louisiana Tech,Raiders,,
+"
+Demarcus Robinson",,WR,6-1,202,27,7,Florida,Raiders,,
+"
+Kamaal Seymour",63,T,6-6,310,25,1,Rutgers,Raiders,,
+"
+Trent Sieg",47,LS,6-3,240,26,5,Colorado State,Raiders,,
+"
+John Simpson",76,G,6-4,321,24,3,Clemson,Raiders,,
+"
+Sutton Smith",41,FB,6-0,235,26,2,Northern Illinois,Raiders,,
+"
+Dillon Stoner",16,WR,6-0,194,24,2,Oklahoma State,Raiders,,
+"
+Roderic Teamer",33,S,6-0,205,24,3,Tulane,Raiders,,
+"
+DJ Turner",19,WR,5-9,206,25,1,Pittsburgh,Raiders,,
+"
+Kendal Vickers",95,DT,6-3,295,26,3,Tennessee,Raiders,,
+"
+Darren Waller",83,TE,6-6,255,29,6,Georgia Tech,Raiders,,
+"
+Rock Ya-Sin",26,CB,6-0,190,25,4,Temple,Raiders,,
+"
+McTelvin Agim",95,DL,6-3,309,24,3,Arkansas,Broncos,,
+"
+Calvin Anderson",76,T,6-5,300,26,4,Texas,Broncos,,
+"
+Quinn Bailey",75,T,6-6,323,26,1,Arizona State,Broncos,,
+"
+Essang Bassey",,CB,5-10,190,23,3,Wake Forest,Broncos,,
+"
+Andrew Beck",83,FB/TE,6-3,255,25,4,Texas,Broncos,,
+"
+Shaun Beyer",88,TE,6-5,248,25,1,Iowa,Broncos,,
+"
+Jacob Bobenmoyer",46,LS,6-2,235,24,3,Northern Colorado,Broncos,,
+"
+Garett Bolles",72,T,6-5,300,29,6,Utah,Broncos,,
+"
+Mike Boone",26,RB,5-10,206,26,5,Cincinnati,Broncos,,
+"
+Ben Braden",,G,6-6,329,28,3,Michigan,Broncos,,
+"
+Baron Browning",56,ILB,6-3,240,23,2,Ohio State,Broncos,,
+"
+Bradley Chubb",55,OLB,6-4,275,25,5,North Carolina State,Broncos,,
+"
+Tyrie Cleveland",16,WR,6-2,209,24,3,Florida,Broncos,,
+Tom Compton,,T,6-5,308,32,10,South Dakota,Broncos,,
+"
+Cody Conway",60,T,6-6,296,25,2,Syracuse,Broncos,,
+"
+Jonathon Cooper",53,OLB,6-3,254,24,2,Ohio State,Broncos,,
+"
+Damarea Crockett",28,RB,5-11,225,24,2,Missouri,Broncos,,
+"
+Lloyd Cushenberry III",79,C,6-3,312,24,3,LSU,Broncos,,
+"
+Ronald Darby",21,CB,5-11,193,28,8,Florida State,Broncos,,
+Travis Fulgham,17,WR,6-2,215,26,3,Old Dominion,Broncos,,
+"
+Graham Glasgow",61,G,6-6,310,29,7,Michigan,Broncos,,
+"
+Randy Gregory",5,OLB,6-5,255,29,5,Nebraska,Broncos,,
+"
+Jonas Griffith",50,ILB,6-4,250,25,2,Indiana State,Broncos,,
+"
+KJ Hamler",1,WR,5-9,178,22,3,Penn State,Broncos,,
+"
+Jonathan Harris",92,DL,6-5,295,25,2,Lindenwood,Broncos,,
+"
+Drew Himmelman",78,T,6-9,317,25,1,Illinois State,Broncos,,
+"
+Kendall Hinton",9,WR,6-0,195,25,2,Wake Forest,Broncos,,
+"
+Jerry Jeudy",10,WR,6-1,193,22,3,Alabama,Broncos,,
+"
+Josey Jewell",47,ILB,6-1,236,27,5,Iowa,Broncos,,
+"
+Jamar Johnson",49,S,6-1,197,22,2,Indiana,Broncos,,
+Josh Johnson,,QB,6-2,201,35,8,San Diego,Broncos,,
+Zack Johnson,68,G,6-6,301,25,1,North Dakota State,Broncos,,
+"
+D.J. Jones",97,DT,6-0,321,27,6,Mississippi,Broncos,,
+"
+Dre'Mont Jones",93,DE,6-3,281,25,4,Ohio State,Broncos,,
+Jonathan Kongbo,61,DE,6-5,254,26,1,Tennessee,Broncos,,
+"
+Sam Martin",6,P,6-1,211,32,10,Appalachian State,Broncos,,
+"
+Brandon McManus",8,K,6-3,201,30,9,Temple,Broncos,,
+"
+Quinn Meinerz",77,G/C,6-3,320,23,2,Wisconsin-Whitewater,Broncos,,
+"
+Andre Mintze",48,OLB,6-3,249,23,2,Vanderbilt,Broncos,,
+"
+Netane Muti",52,G,6-3,315,23,3,Fresno State,Broncos,,
+"
+Michael Ojemudia",13,CB,6-1,200,24,3,Iowa,Broncos,,
+"
+Albert Okwuegbunam",85,TE,6-5,258,23,3,Missouri,Broncos,,
+"
+Aaron Patrick",94,OLB,6-4,245,29,2,Eastern Kentucky,Broncos,,
+"
+Tim Patrick",81,WR,6-4,212,28,5,Utah,Broncos,,
+"
+Mike Purcell",98,DL,6-3,328,30,7,Wyoming,Broncos,,
+J.R. Reed,,S,6-1,194,26,3,Georgia,Broncos,,
+"
+Dalton Risner",66,G,6-5,312,26,4,Kansas State,Broncos,,
+"
+Justin Simmons",31,S,6-2,202,28,7,Boston College,Broncos,,
+Alex Singleton,,LB,6-2,235,28,4,Montana State,Broncos,,
+"
+Marquiss Spencer",51,DE,6-4,295,24,1,Mississippi State,Broncos,,
+"
+Caden Sterns",30,S,6-1,207,22,2,Texas,Broncos,,
+"
+Justin Strnad",40,LB,6-3,238,25,3,Wake Forest,Broncos,,
+"
+Pat Surtain II",2,CB,6-2,202,21,2,Alabama,Broncos,,
+"
+Courtland Sutton",14,WR,6-4,216,26,5,Southern Methodist,Broncos,,
+Eric Tomlinson,,TE,6-6,263,29,7,Texas-El Paso,Broncos,,
+Casey Tucker,,T,6-6,315,26,1,Arizona State,Broncos,,
+"
+Billy Turner",,OL,6-5,310,30,9,North Dakota State,Broncos,,
+"
+Barrington Wade",54,ILB,6-1,232,24,1,Iowa,Broncos,,
+Corliss Waitman,,P,6-2,210,26,1,South Alabama,Broncos,,
+"
+DeShawn Williams",90,DL,6-1,292,29,4,Clemson,Broncos,,
+"
+Javonte Williams",33,RB,5-10,220,21,2,North Carolina,Broncos,,
+K'Waun Williams,,CB,5-9,183,30,8,Pittsburgh,Broncos,,
+"
+Seth Williams",19,WR,6-2,211,22,1,Auburn,Broncos,,
+"
+Russell Wilson",3,QB,5-11,206,33,11,Wisconsin,Broncos,,
+"
+P.J. Locke",37,S,5-10,202,25,3,Texas,Broncos,,
+"
+Brett Rypien",4,QB,6-2,202,25,3,Boise,Broncos,,
+"
+Easton Stick",2,QB,6-1,224,26,4,North Dakota State,Chargers,,
+"
+Chase Daniel",4,QB,6-0,218,35,14,Missouri,Chargers,,
+"
+Joshua Palmer",5,WR,6-1,210,22,2,Tennessee,Chargers,,
+"
+Dustin Hopkins",6,K,6-2,193,31,9,Florida State,Chargers,,
+"
+Kenneth Murray Jr.",9,LB,6-2,241,23,3,Oklahoma,Chargers,,
+"
+Justin Herbert",10,QB,6-6,237,24,3,Oregon,Chargers,,
+"
+Jason Moore Jr.",11,WR,6-3,215,26,3,Findlay,Chargers,,
+"
+Joe Reed",12,WR,6-0,224,24,2,Virginia,Chargers,,
+"
+Keenan Allen",13,WR,6-2,211,29,10,California,Chargers,,
+"
+Jalen Guyton",15,WR,6-1,212,24,3,North Texas,Chargers,,
+JK Scott,16,P,6-5,208,26,4,Alabama,Chargers,,
+"
+Tevaughn Campbell",20,CB,6-0,200,28,3,Regina (Canada),Chargers,,
+"
+Nasir Adderley",24,S,6-0,206,24,4,Delaware,Chargers,,
+"
+Joshua Kelley",25,RB,5-11,212,24,3,UCLA,Chargers,,
+Asante Samuel,26,CB,5-10,180,22,2,Florida State,Chargers,,
+"
+J.C. Jackson",27,CB,6-1,198,26,5,Maryland,Chargers,,
+"
+Mark Webb Jr.",29,DB,6-1,207,23,2,Georgia,Chargers,,
+"
+Austin Ekeler",30,RB,5-10,200,26,6,Western State Colorado,Chargers,,
+"
+Nick Niemann",31,LB,6-3,244,24,2,Iowa,Chargers,,
+"
+Alohi Gilman",32,S,5-10,201,24,3,Notre Dame,Chargers,,
+"
+Derwin James Jr.",33,S,6-2,215,25,5,Florida State,Chargers,,
+"
+Larry Rountree III",34,RB,5-10,211,23,2,Missouri,Chargers,,
+"
+Kemon Hall",37,CB,5-11,190,24,2,North Texas,Chargers,,
+"
+Gabe Nabers",40,FB,6-3,235,24,3,Florida State,Chargers,,
+"
+Michael Davis",43,CB,6-2,196,27,6,Brigham Young,Chargers,,
+Jamal Davis II,44,OLB,6-4,248,26,1,Akron,Chargers,,
+"
+Ben DeLuca",46,DB,6-1,202,24,1,Charlotte,Chargers,,
+"
+Josh Harris",47,LS,6-1,224,32,11,Auburn,Chargers,,
+"
+Hunter Kampmoyer",48,TE,6-4,243,24,1,Oregon,Chargers,,
+"
+Drue Tranquill",49,LB,6-2,234,26,4,Notre Dame,Chargers,,
+"
+Cole Christiansen",50,LB,6-1,230,24,1,Army,Chargers,,
+"
+Emeke Egbule",51,OLB,6-2,245,25,3,Houston,Chargers,,
+"
+Khalil Mack",52,OLB,6-3,252,31,9,Buffalo,Chargers,,
+"
+Damon Lloyd",53,LB,6-0,235,23,2,"Indiana PA, University of",Chargers,,
+"
+Amen Ogbongbemiga",57,LB,6-0,231,23,2,Oklahoma State,Chargers,,
+"
+Corey Linsley",63,C,6-3,301,30,9,Ohio State,Chargers,,
+"
+Brenden Jaimes",64,G/T,6-5,298,22,2,Nebraska,Chargers,,
+"
+Ryan Hunter",67,Guard,6-3,316,27,1,Bowling Green State,Chargers,,
+"
+Sebastian Joseph-Day",69,DL,6-4,310,27,5,Rutgers,Chargers,,
+"
+Rashawn Slater",70,T,6-4,315,23,2,Northwestern,Chargers,,
+"
+Matt Feiler",71,G,6-6,330,29,6,Bloomsburg,Chargers,,
+"
+Foster Sarell",73,T,6-6,322,23,1,Stanford,Chargers,,
+"
+Storm Norton",74,T,6-7,317,27,3,University of Toledo,Chargers,,
+"
+Trey Pipkins III",79,T,6-6,307,25,4,Sioux Falls,Chargers,,
+"
+Maurice Ffrench",80,WR,5-11,200,24,1,Pittsburgh,Chargers,,
+"
+Mike Williams",81,WR,6-4,218,27,6,Clemson,Chargers,,
+"
+Michael Bandy",83,WR,5-10,190,24,1,San Diego,Chargers,,
+Gerald Everett,84,TE,6-3,245,27,6,South Alabama,Chargers,,
+"
+Tre' McKitty",88,TE,6-4,246,23,2,Georgia,Chargers,,
+"
+Donald Parham Jr.",89,TE,6-8,237,24,3,Stetson University,Chargers,,
+"
+Andrew Brown",90,DT,6-3,296,26,3,Virginia,Chargers,,
+"
+Forrest Merrill",91,DL,6-0,322,25,1,Arkansas State,Chargers,,
+"
+Joe Gaziano",92,DL,6-4,280,25,2,Northwestern,Chargers,,
+"
+Chris Rumph II",94,OLB,6-2,244,23,2,Duke,Chargers,,
+"
+Christian Covington",95,DL,6-2,289,28,8,Rice,Chargers,,
+"
+Breiden Fehoko",96,DL,6-3,300,25,2,Louisiana State,Chargers,,
+"
+Joey Bosa",97,OLB,6-5,280,26,7,Ohio State,Chargers,,
+"
+Austin Johnson",98,DL,6-4,314,27,7,Penn State,Chargers,,
+"
+Jerry Tillery",99,DL,6-6,295,25,4,Notre Dame,Chargers,,
+"
+Ty Long",1,P,6-2,205,29,4,Alabama-Birmingham,Chargers,,
+"
+Trey Marshall",36,DB,6-0,207,26,4,Florida State,Chargers,,
+"
+Oday Aboushi",76,G,6-5,308,30,10,Virginia,Chargers,,
+"
+Stephen Anderson",82,TE,6-3,230,29,5,California,Chargers,,
+"
+Jared Cook",87,TE,6-5,246,35,14,South Carolina,Chargers,,
+"
+Chris Harris Jr.",25,CB,5-10,199,32,12,Kansas,Chargers,,
+"
+Davontae Harris",28,CB,5-11,200,27,5,Illinois State,Chargers,,
+"
+Justin Jackson",22,RB,6-0,200,25,5,Northwestern,Chargers,,
+"
+Linval Joseph",98,DL,6-4,329,33,13,East Carolina,Chargers,,
+"
+Senio Kelemete",68,G,6-3,301,31,10,Washington,Chargers,,
+"
+Matt Overton",54,LS,6-1,254,36,10,Western Washington University,Chargers,,
+"
+Andre Roberts",7,WR,5-11,195,34,13,The Citadel,Chargers,,
+"
+Michael Schofield III",72,G/T,6-6,301,31,9,Michigan,Chargers,,
+"
+Ryan Smith",23,CB,5-11,189,28,7,North Carolina Central,Chargers,,
+"
+Nick Allegretti",73,G,6-4,315,25,4,Illinois,Chiefs,,
+"
+Zayne Anderson",39,DB,6-2,205,25,1,BYU,Chiefs,,
+"
+DeAndre Baker",30,CB,5-11,186,24,3,Georgia,Chiefs,,
+"
+Luq Barcoo",,DB,6-1,175,23,2,San Diego State,Chiefs,,
+"
+Omar Bayless",,WR,6-1,210,25,2,Arkansas State,Chiefs,,
+"
+Blake Bell",81,TE,6-6,260,30,8,Oklahoma,Chiefs,,
+"
+Andrew Billings",,DT,6-1,311,27,6,Baylor,Chiefs,,
+"
+Nick Bolton",54,LB,6-0,237,22,2,Missouri,Chiefs,,
+"
+Dicaprio Bootle",2,DB,5-10,182,24,1,Nebraska,Chiefs,,
+"
+Cortez Broughton",79,DT,6-2,293,25,3,Cincinnati,Chiefs,,
+"
+Orlando Brown",57,T,6-8,363,25,5,Oklahoma,Chiefs,,
+"
+Shane Buechele",6,QB,6-0,208,24,2,SMU,Chiefs,,
+"
+Michael Burton",45,FB,6-0,243,30,8,Rutgers,Chiefs,,
+"
+Deon Bush",,S,6-0,200,28,7,Miami,Chiefs,,
+"
+Matt Bushman",84,TE,6-5,245,26,1,BYU,Chiefs,,
+"
+Harrison Butker",7,K,6-4,196,26,6,Georgia Tech,Chiefs,,
+"
+Shilique Calhoun",92,LB,6-5,260,30,6,Michigan State,Chiefs,,
+"
+Jermaine Carter",,LB,6-1,225,27,5,Maryland,Chiefs,,
+"
+Geron Christian",,T,6-5,302,25,5,Louisville,Chiefs,,
+"
+Frank Clark",55,DE,6-3,261,28,8,Michigan,Chiefs,,
+"
+Corey Coleman",,WR,5-10,185,27,5,Baylor,Chiefs,,
+Brandin Dandridge,,DB,5-10,180,N/A,1,Missouri Western,Chiefs,,
+"
+Mike Danna",51,DE,6-2,255,24,3,Michigan,Chiefs,,
+"
+Gehrig Dieter",12,WR,6-3,208,29,2,Alabama,Chiefs,,
+"
+Austin Edwards",60,DE,6-5,273,24,1,Ferris State,Chiefs,,
+"
+Clyde Edwards-Helaire",25,RB,5-8,205,23,3,LSU,Chiefs,,
+"
+Rashad Fenton",27,CB,5-11,193,25,4,South Carolina,Chiefs,,
+"
+Chris Finke",,WR,5-10,184,25,1,Notre Dame,Chiefs,,
+"
+Jody Fortson",88,TE,6-6,240,26,2,Valdosta State,Chiefs,,
+"
+Daurice Fountain",82,WR,6-1,212,26,4,Northern Iowa,Chiefs,,
+"
+Jordan Franks",,TE,6-4,240,26,2,UCF,Chiefs,,
+"
+Willie Gay",50,LB,6-1,235,24,3,Mississippi State,Chiefs,,
+"
+Josh Gordon",19,WR,6-3,238,31,6,Baylor,Chiefs,,
+"
+Derrick Gore",40,RB,5-10,207,27,2,Louisiana-Monroe,Chiefs,,
+"
+Noah Gray",83,TE,6-4,243,22,2,Duke,Chiefs,,
+"
+Nakia Griffin-Stewart",48,TE,6-5,260,25,1,Pittsburgh,Chiefs,,
+"
+Mecole Hardman",17,WR,5-10,180,24,4,Georgia,Chiefs,,
+"
+Darius Harris",47,LB,6-2,240,26,3,Middle Tennessee,Chiefs,,
+"
+Chad Henne",4,QB,6-3,215,36,15,Michigan,Chiefs,,
+"
+Malik Herring",70,DE,6-3,280,24,1,Georgia,Chiefs,,
+"
+Creed Humphrey",52,OL,6-5,309,22,2,Oklahoma,Chiefs,,
+"
+Joe Jackson",,DE,6-4,285,25,4,Miami,Chiefs,,
+"
+Gary Jennings",,WR,6-1,216,25,2,West Virginia,Chiefs,,
+"
+Roderick Johnson",,T,6-6,300,26,5,Florida State,Chiefs,,
+"
+Chris Jones",95,DT,6-6,298,27,7,Mississippi State,Chiefs,,
+"
+Ronald Jones",,RB,5-11,208,24,5,USC,Chiefs,,
+"
+Joshua Kaindoh",59,DE,6-7,262,23,2,Florida State,Chiefs,,
+"
+Travis Kelce",87,TE,6-5,256,32,10,Cincinnati,Chiefs,,
+"
+Devon Key",24,DB,6-0,204,24,1,Western Kentucky,Chiefs,,
+"
+Brenden Knox",,RB,5-11,220,23,1,Marshall,Chiefs,,
+"
+Elijah Lee",,LB,6-2,229,26,6,Kansas State,Chiefs,,
+"
+Patrick Mahomes",15,QB,6-3,227,26,6,Texas Tech,Chiefs,,
+"
+Lorenzo Neal",,DT,6-3,325,24,1,Purdue,Chiefs,,
+"
+Lucas Niang",67,OL,6-6,339,23,2,TCU,Chiefs,,
+"
+Derrick Nnadi",91,DT,6-1,317,25,5,Florida State,Chiefs,,
+"
+Josh Pederson",,TE,6-5,235,24,1,Louisiana-Monroe,Chiefs,,
+"
+Cornell Powell",14,WR,6-0,210,24,1,Clemson,Chiefs,,
+"
+Justin Reid",20,S,6-1,205,25,5,Stanford,Chiefs,,
+"
+Austin Reiter",62,C,6-3,300,30,7,South Florida,Chiefs,,
+"
+Khalen Saunders",99,DT,6-0,324,25,4,Western Illinois,Chiefs,,
+Mathew Sexton,,WR,5-11,175,24,1,Eastern Michigan,Chiefs,,
+"
+Trey Smith",65,OL,6-6,329,22,2,Tennessee,Chiefs,,
+"
+JuJu Smith-Schuster",9,WR,6-1,215,25,6,USC,Chiefs,,
+"
+L'Jarius Sneed",38,CB,6-1,189,25,3,Louisiana Tech,Chiefs,,
+"
+Taylor Stallworth",,DT,6-2,305,26,4,South Carolina,Chiefs,,
+"
+Darius Stills",,DT,6-0,278,23,1,West Virginia,Chiefs,,
+"
+Darwin Thompson",34,RB,5-8,200,25,3,Utah State,Chiefs,,
+"
+Juan Thornhill",22,S,6-0,203,26,4,Virginia,Chiefs,,
+"
+Joe Thuney",62,OL,6-5,304,29,7,N.C. State,Chiefs,,
+"
+Tommy Townsend",5,P,6-1,194,25,3,Florida,Chiefs,,
+"
+Marquez Valdes-Scantling",,WR,6-4,206,27,5,University of South Florida,Chiefs,,
+"
+Mark Vital",80,TE,6-5,250,25,1,Baylor,Chiefs,,
+"
+Prince Tega Wanogho",70,T,6-5,303,24,2,Auburn,Chiefs,,
+"
+Justin Watson",,WR,6-3,215,26,5,Pennsylvania,Chiefs,,
+"
+Tershawn Wharton",98,DT,6-4,278,23,3,Missouri S&T,Chiefs,,
+"
+Darryl Williams",64,OL,6-2,304,24,1,Mississippi State,Chiefs,,
+"
+James Winchester",41,LS,6-3,242,32,8,Oklahoma,Chiefs,,
+"
+Jonathan Woodard",,DE,6-5,271,28,2,Central Arkansas,Chiefs,,
+"
+Andrew Wylie",77,G,6-6,310,27,5,Eastern Michigan,Chiefs,,
+"
+Joel Bitonio",75,G,6-4,320,30,9,Nevada,Browns,,
+"
+Chris Blewitt",12,K,5-9,195,26,1,Pittsburgh,Browns,,
+"
+Corey Bojorquez",13,P,6-0,208,25,5,New Mexico,Browns,,
+"
+Ja'Marcus Bradley",84,WR,6-0,198,25,2,Louisiana-Lafayette,Browns,,
+"
+Jacoby Brissett",7,QB,6-4,235,29,7,N.C. State,Browns,,
+"
+Taven Bryan",99,DT,6-4,291,26,5,Florida,Browns,,
+"
+Harrison Bryant",88,TE,6-5,230,23,3,Florida Atlantic,Browns,,
+"
+Joseph Charlton",8,P,6-5,190,25,3,South Carolina,Browns,,
+"
+Nick Chubb",24,RB,5-11,227,26,5,Georgia,Browns,,
+"
+Jack Conklin",78,T,6-6,308,27,7,Michigan State,Browns,,
+"
+Amari Cooper",2,WR,6-1,210,27,8,Alabama,Browns,,
+"
+Grant Delpit",22,S,6-3,208,23,3,LSU,Browns,,
+"
+Michael Dunn",68,G,6-5,315,27,3,Maryland,Browns,,
+"
+Jordan Elliott",96,DT,6-4,303,24,3,Missouri,Browns,,
+"
+Demetric Felton Jr.",25,RB,5-9,189,23,2,UCLA,Browns,,
+"
+Tony Fields II",42,LB,6-0,222,22,2,West Virginia,Browns,,
+"
+Drew Forbes",79,G,6-5,308,25,3,Southeast Missouri State,Browns,,
+"
+Miller Forristall",86,TE,6-5,245,24,1,Alabama,Browns,,
+"
+Hjalte Froholdt",72,G,6-5,310,25,4,Arkansas,Browns,,
+"
+Myles Garrett",95,DE,6-4,272,26,6,Texas A&M,Browns,,
+"
+Jakeem Grant Sr.",9,WR,5-7,172,29,7,Texas Tech,Browns,,
+"
+A.J. Green",38,CB,6-2,198,23,2,Oklahoma State,Browns,,
+"
+Nick Guggemos",48,TE,6-5,231,26,1,University of St. Thomas,Browns,,
+"
+Blake Hance",62,G,6-6,310,26,2,Northwestern,Browns,,
+"
+Tre Harbison",37,RB,5-11,218,23,2,Charlotte,Browns,,
+"
+Nick Harris",53,C,6-1,293,23,3,Washington,Browns,,
+"
+Willie Harvey Jr.",54,LB,5-11,230,26,2,Iowa State,Browns,,
+"
+Troy Hill",23,CB,5-11,183,30,7,Oregon,Browns,,
+"
+Chris Hubbard",74,T,6-4,295,30,9,Alabama-Birmingham,Browns,,
+"
+James Hudson III",66,T,6-5,313,22,2,Cincinnati,Browns,,
+"
+Charley Hughlett",47,LS,6-4,248,31,8,Central Florida,Browns,,
+"
+Kareem Hunt",27,RB,5-11,216,26,6,Toledo,Browns,,
+"
+D'Ernest Johnson",30,RB,5-10,208,26,4,South Florida,Browns,,
+"
+John Johnson III",43,S,6-0,209,26,6,Boston College,Browns,,
+"
+John Kelly Jr.",41,RB,5-10,208,25,2,Tennessee,Browns,,
+"
+Richard LeCounte III",39,S,5-11,196,23,2,Georgia,Browns,,
+"
+Baker Mayfield",6,QB,6-1,215,27,5,Oklahoma,Browns,,
+"
+Chase McLaughlin",3,K,6-0,180,26,4,Illinois,Browns,,
+"
+Nate Meadors",49,S,5-11,189,25,1,UCLA,Browns,,
+"
+Herb Miller",29,CB,6-1,201,24,2,Florida Atlantic,Browns,,
+"
+David Moore",60,G,6-2,320,23,1,Grambling State,Browns,,
+"
+Greg Newsome II",20,CB,6-0,192,21,2,Northwestern,Browns,,
+"
+David Njoku",85,TE,6-4,246,25,6,Miami (Fla.),Browns,,
+"
+Elijah Nkansah",65,T,6-1,328,27,1,Toledo,Browns,,
+"
+Jeremiah Owusu-Koramoah",28,LB,6-2,221,22,2,Notre Dame,Browns,,
+"
+Donovan Peoples-Jones",11,WR,6-2,204,23,3,Michigan,Browns,,
+"
+Jacob Phillips",50,LB,6-3,228,23,3,LSU,Browns,,
+"
+Ethan Pocic",,C,6-6,309,26,6,LSU,Browns,,
+"
+Anthony Schwartz",10,WR,6-0,186,21,2,Auburn,Browns,,
+"
+Johnny Stanton IV",40,FB,6-2,240,27,2,UNLV,Browns,,
+"
+Sione Takitaki",44,LB,6-1,238,26,4,BYU,Browns,,
+"
+Alex Taylor",70,T,6-8,301,24,2,South Carolina State,Browns,,
+"
+Wyatt Teller",77,G,6-4,314,27,5,Virginia Tech,Browns,,
+"
+Tommy Togiai",93,DT,6-2,296,22,2,Ohio State,Browns,,
+"
+Anthony Walker Jr.",5,LB,6-1,235,26,6,Northwestern,Browns,,
+"
+Denzel Ward",21,CB,5-11,190,24,5,Ohio State,Browns,,
+"
+Deshaun Watson",4,QB,6-2,215,26,6,Clemson,Browns,,
+"
+Curtis Weaver",59,DE,6-2,265,23,2,Boise State,Browns,,
+"
+Greedy Williams",26,CB,6-2,185,24,4,LSU,Browns,,
+"
+Jedrick Wills Jr.",71,T,6-4,307,22,3,Alabama,Browns,,
+"
+Chase Winovich",69,DE,6-3,250,26,4,Michigan,Browns,,
+"
+Stephen Carlson",89,TE,6-4,240,25,4,Princeton,Browns,,
+"
+Jadeveon Clowney",90,DE,6-5,255,29,9,South Carolina,Browns,,
+"
+Dustin Colquitt",2,P,6-3,210,39,18,Tennessee,Browns,,
+"
+Sheldon Day",92,DT,6-1,293,27,7,Notre Dame,Browns,,
+"
+Porter Gustin",94,DE,6-5,257,25,4,USC,Browns,,
+"
+Ronnie Harrison Jr.",33,S,6-3,214,24,5,Alabama,Browns,,
+"
+Malik Jackson",97,DT,6-5,285,32,11,Tennessee,Browns,,
+"
+Malik McDowell",58,DT,6-6,295,25,2,Michigan State,Browns,,
+"
+Takkarist McKinley",55,DE,6-2,260,26,6,UCLA,Browns,,
+"
+Montrel Meander",41,LB,6-2,215,27,2,Grambling State,Browns,,
+"
+Ifeadi Odenigbo",57,DE,6-3,258,28,5,Northwestern,Browns,,
+"
+Malcolm Smith",56,LB,6-0,225,32,11,USC,Browns,,
+"
+Ryan Switzer",15,WR,5-9,183,27,5,North Carolina,Browns,,
+"
+Dexter Williams",34,RB,5-11,212,25,2,Notre Dame,Browns,,
+"
+Montravius Adams",57,DT,6-4,304,26,6,Auburn,Steelers,,
+"
+Tyson Alualu",94,DE,6-3,304,34,13,California,Steelers,,
+"
+Daniel Archibong",61,DL,6-6,307,24,1,Temple,Steelers,,
+"
+Genard Avery",,LB,6-0,250,26,5,Memphis,Steelers,,
+"
+Chris Boswell",9,K,6-2,185,31,8,Rice,Steelers,,
+"
+Devin Bush",55,LB,5-11,234,23,4,Michigan,Steelers,,
+"
+Rico Bussey",84,WR,6-2,190,24,1,Hawaii,Steelers,,
+"
+Chase Claypool",11,WR,6-4,238,23,3,Notre Dame,Steelers,,
+"
+Mason Cole",,OL,6-5,298,26,5,Michigan,Steelers,,
+"
+James Daniels",78,OL,6-4,327,24,5,Iowa,Steelers,,
+"
+Carlos Davis",73,DT,6-2,320,25,3,Nebraska,Steelers,,
+"
+Khalil Davis",68,DT,6-1,308,25,3,Nebraska,Steelers,,
+"
+Kevin Dotson",69,OL,6-4,321,25,3,Louisiana,Steelers,,
+"
+Trey Edmunds",33,RB,6-2,223,27,4,Maryland,Steelers,,
+"
+Minkah Fitzpatrick",39,S,6-1,207,25,5,Alabama,Steelers,,
+"
+Pat Freiermuth",88,TE,6-5,258,23,2,Penn State,Steelers,,
+"
+Zach Gentry",81,TE,6-8,265,25,4,Michigan,Steelers,,
+"
+Ulysees Gilbert III",54,ILB,6-0,230,24,4,Akron,Steelers,,
+"
+Nate Gilliam",62,G,6-4,310,24,1,Wake Forest,Steelers,,
+"
+Chaz Green",74,OT,6-5,318,30,5,Florida,Steelers,,
+"
+Kendrick Green",53,C,6-4,315,23,2,Illinois,Steelers,,
+"
+Joe Haeg",71,OT,6-6,298,29,7,North Dakota State,Steelers,,
+"
+Najee Harris",22,RB,6-1,232,24,2,Alabama,Steelers,,
+"
+Pressley Harvin III",6,P,6-0,255,23,2,Georgia Tech,Steelers,,
+"
+Dwayne Haskins",3,QB,6-4,230,24,4,Ohio State,Steelers,,
+"
+Cameron Heyward",97,DT,6-5,295,32,12,Ohio State,Steelers,,
+"
+Alex Highsmith",56,LB,6-4,242,24,3,Charlotte,Steelers,,
+"
+Myles Jack",,LB,6-1,255,26,7,UCLA,Steelers,,
+"
+Buddy Johnson",45,LB,6-2,240,23,2,Texas A&M,Steelers,,
+"
+Diontae Johnson",18,WR,5-10,183,25,4,Toledo,Steelers,,
+"
+Isaiah Johnson",30,CB,6-2,210,26,3,Houston,Steelers,,
+"
+Karl Joseph",8,S,5-10,200,28,6,West Virginia,Steelers,,
+"
+Miles Killebrew",28,S,6-2,222,28,7,Southern Utah State,Steelers,,
+"
+Christian Kuntz",46,LS,6-1,245,28,2,Duquesne,Steelers,,
+"
+Justin Layne",31,CB,6-2,192,24,4,Michigan State,Steelers,,
+"
+John Leglue",77,OT,6-7,310,25,2,Tulane,Steelers,,
+"
+Isaiahh Loudermilk",92,DE,6-7,293,24,2,Wisconsin,Steelers,,
+"
+Arthur Maulet",35,CB,5-10,190,28,6,Memphis,Steelers,,
+"
+Anthony McFarland Jr.",26,RB,5-8,193,24,3,Maryland,Steelers,,
+"
+Anthony Miller",17,WR,5-11,199,27,4,Memphis,Steelers,,
+"
+Henry Mondeaux",99,DE,6-4,280,26,3,Oregon,Steelers,,
+"
+Dan Moore Jr.",65,OT,6-5,315,23,2,Texas A&M,Steelers,,
+"
+Cameron Nizialek",16,P,6-2,200,27,2,Georgia,Steelers,,
+"
+Tre Norwood",21,DB,6-0,194,22,2,Oklahoma,Steelers,,
+"
+Chukwuma Okorafor",76,OL,6-6,320,24,5,Western Michigan,Steelers,,
+"
+Gunner Olszewski",,WR,6-0,190,25,4,Bemidji State University,Steelers,,
+"
+James Pierre",42,CB,6-2,185,25,3,Florida Atlantic,Steelers,,
+"
+Malcolm Pridgeon",64,G,6-7,310,27,1,Ohio State,Steelers,,
+"
+Kevin Rader",87,TE,6-4,250,26,2,Youngstown State,Steelers,,
+"
+Mason Rudolph",2,QB,6-5,235,26,5,Oklahoma State,Steelers,,
+"
+Tegray Scales",30,LB,6-0,227,25,1,Indiana,Steelers,,
+"
+Delontae Scott",50,LB,6-5,246,25,1,SMU,Steelers,,
+"
+John Simon",38,LB,6-2,260,31,10,Ohio State,Steelers,,
+"
+Steven Sims",82,WR,5-10,176,25,3,Kansas,Steelers,,
+"
+Sam Sloman",4,K,5-8,205,24,2,Miami (Ohio),Steelers,,
+"
+Benny Snell Jr.",24,RB,5-10,224,24,4,Kentucky,Steelers,,
+"
+Linden Stephens",40,DB,6-0,193,27,2,Cincinnati,Steelers,,
+"
+Jace Sternberger",89,TE,6-4,251,25,3,Texas A&M,Steelers,,
+"
+Donovan Stiner",37,S,6-2,210,23,1,Florida,Steelers,,
+"
+Rex Sunahara",60,LS,6-6,242,25,1,West Virginia,Steelers,,
+"
+Cameron Sutton",20,CB,5-11,188,27,6,Tennessee,Steelers,,
+"
+Mitch Trubisky",10,QB,6-2,220,27,6,North Carolina,Steelers,,
+"
+Stephon Tuitt",91,DE,6-6,303,28,9,Notre Dame,Steelers,,
+"
+Derrek Tuszka",48,OLB,6-5,246,24,3,North Dakota State,Steelers,,
+"
+Tyler Vaughns",80,WR,6-2,184,24,1,USC,Steelers,,
+"
+Levi Wallace",,CB,6-0,186,26,5,Alabama,Steelers,,
+"
+Derek Watt",44,FB,6-2,234,29,7,Wisconsin,Steelers,,
+"
+T.J. Watt",90,LB,6-4,252,27,6,Wisconsin,Steelers,,
+"
+Cody White",15,WR,6-3,215,23,3,Michigan State,Steelers,,
+"
+Ahkello Witherspoon",25,CB,6-2,195,27,6,Colorado,Steelers,,
+"
+Chris Wormley",95,DL,6-5,300,28,6,Michigan,Steelers,,
+"
+Hakeem Adeniji",77,G,6-4,302,24,3,Kansas,Bengals,,
+"
+Brandon Allen",8,QB,6-2,209,29,6,Arkansas,Bengals,,
+"
+Eli Apple",20,CB,6-1,199,26,7,Ohio State,Bengals,,
+"
+Chidobe Awuzie",22,CB,6-0,202,26,6,Colorado,Bengals,,
+"
+Joe Bachie",49,LB,6-2,235,24,2,Michigan State,Bengals,,
+"
+Markus Bailey",51,LB,6-0,235,25,3,Purdue,Bengals,,
+"
+Jessie Bates III",30,S,6-1,200,25,5,Wake Forest,Bengals,,
+"
+Vonn Bell",24,S,5-11,205,27,7,Ohio State,Bengals,,
+"
+Tyler Boyd",83,WR,6-2,203,27,7,Pittsburgh,Bengals,,
+"
+John Brannon",39,CB,6-0,190,24,1,Western Carolina,Bengals,,
+"
+Jake Browning",6,QB,6-2,209,26,1,Washington,Bengals,,
+"
+Joe Burrow",9,QB,6-4,221,25,3,LSU,Bengals,,
+"
+Alex Cappa",,G,6-6,305,27,5,Humboldt State,Bengals,,
+"
+Jackson Carman",79,G,6-5,330,22,2,Clemson,Bengals,,
+"
+Ja'Marr Chase",1,WR,6-0,201,22,2,LSU,Bengals,,
+"
+Drue Chrisman",4,P,6-2,222,24,1,Ohio State,Bengals,,
+"
+La'el Collins",,OT,6-4,315,28,8,LSU,Bengals,,
+"
+Jalen Davis",35,CB,5-10,185,26,3,Utah State,Bengals,,
+"
+Akeem Davis-Gaither",59,LB,6-2,215,24,3,Appalachian State,Bengals,,
+"
+Nick Eubanks",,TE,6-5,256,25,1,Michigan,Bengals,,
+"
+Chris Evans",25,HB,5-11,211,24,2,Michigan,Bengals,,
+"
+Lamont Gaillard",61,C,6-3,305,26,3,Georgia,Bengals,,
+"
+Clark Harris",46,LS,6-5,250,37,14,Rutgers,Bengals,,
+"
+Trayvon Henderson",41,S,6-0,205,26,2,Hawaii,Bengals,,
+"
+Trey Hendrickson",91,DE,6-4,270,27,6,Florida Atlantic,Bengals,,
+"
+Tee Higgins",85,WR,6-4,215,23,3,Clemson,Bengals,,
+"
+B.J. Hill",92,DT,6-3,303,26,5,N.C. State,Bengals,,
+"
+Trey Hill",63,C,6-3,320,22,2,Georgia,Bengals,,
+"
+Mike Hilton",21,CB,5-9,184,28,6,Mississippi,Bengals,,
+"
+Elijah Holyfield",36,HB,5-10,215,24,1,Georgia,Bengals,,
+"
+Sam Hubbard",94,DE,6-5,265,26,5,Ohio State,Bengals,,
+"
+Wyatt Hubert",56,DE,6-3,258,23,1,Kansas State,Bengals,,
+"
+Hayden Hurst",,TE,6-4,245,28,5,South Carolina,Bengals,,
+"
+Trenton Irwin",16,WR,6-2,207,26,2,Stanford,Bengals,,
+"
+Clay Johnston",44,LB,6-1,232,25,2,Baylor,Bengals,,
+"
+Keandre Jones",47,LB,6-3,220,24,1,Maryland,Bengals,,
+"
+Khalid Kareem",90,DE,6-4,268,23,3,Notre Dame,Bengals,,
+"
+Ted Karras",,C,6-4,305,29,7,Illinois,Bengals,,
+"
+Evan McPherson",2,K,5-11,185,22,2,Florida,Bengals,,
+"
+Joe Mixon",28,HB,6-1,220,25,6,Oklahoma,Bengals,,
+"
+Stanley Morgan",17,WR,6-0,205,25,4,Nebraska,Bengals,,
+"
+Thaddeus Moss",81,TE,6-3,249,23,2,LSU,Bengals,,
+"
+Joseph Ossai",58,DE,6-4,256,22,2,Texas,Bengals,,
+"
+Samaje Perine",34,HB,5-11,240,26,6,Oklahoma,Bengals,,
+"
+Germaine Pratt",57,LB,6-2,245,25,4,NC State,Bengals,,
+"
+Isaiah Prince",75,OT,6-7,305,24,3,Ohio State,Bengals,,
+"
+D.J. Reader",98,DT,6-3,347,27,7,Clemson,Bengals,,
+"
+Cam Sample",96,EDGE,6-3,274,22,2,Tulane,Bengals,,
+"
+Drew Sample",89,TE,6-4,258,25,4,Washington,Bengals,,
+"
+Tyler Shelvin",99,DT,6-3,346,23,2,LSU,Bengals,,
+"
+D'Ante Smith",70,G,6-5,294,23,2,East Carolina,Bengals,,
+"
+Noah Spence",52,DE,6-2,251,28,5,Eastern Kentucky,Bengals,,
+"
+Trent Taylor",11,WR,5-8,181,27,5,Louisiana Tech,Bengals,,
+"
+Michael Thomas",31,S,5-11,182,32,9,Stanford,Bengals,,
+"
+Mike Thomas",80,WR,6-1,189,27,7,Southern Mississippi,Bengals,,
+"
+Josh Tupou",68,DT,6-3,345,27,5,Colorado,Bengals,,
+"
+Scotty Washington",82,TE,6-5,247,24,1,Wake Forest,Bengals,,
+"
+Mitchell Wilcox",84,TE,6-4,247,25,2,South Florida,Bengals,,
+"
+Pooka Williams Jr.",12,WR,5-9,175,22,1,Kansas,Bengals,,
+"
+Jonah Williams",73,OT,6-4,305,24,4,Alabama,Bengals,,
+"
+Trayveon Williams",32,HB,5-8,206,24,4,Texas A&M,Bengals,,
+"
+Brandon Wilson",40,S,5-10,200,27,6,Houston,Bengals,,
+"
+Logan Wilson",55,LB,6-2,241,25,3,Wyoming,Bengals,,
+"
+Mark Andrews",89,TE,6-5,256,26,5,Oklahoma,Ravens,,
+"
+Rashod Bateman",7,WR,6-1,193,22,2,Minnesota,Ravens,,
+"
+Tyus Bowser",54,OLB,6-3,242,26,6,Houston,Ravens,,
+"
+Miles Boykin",80,WR,6-4,220,25,4,Notre Dame,Ravens,,
+"
+Nick Boyle",86,TE,6-4,270,29,8,Delaware,Ravens,,
+"
+Marquise Brown",5,WR,5-9,180,24,4,Oklahoma,Ravens,,
+"
+Chuck Clark",36,S,6-0,205,26,6,Virginia Tech,Ravens,,
+"
+Ben Cleveland",66,G,6-6,357,23,2,Georgia,Ravens,,
+"
+Trystan Colon",63,C,6-3,313,24,3,Missouri,Ravens,,
+"
+Aaron Crawford",97,DT,6-1,315,24,2,North Carolina,Ravens,,
+"
+J.K. Dobbins",27,RB,5-10,212,23,3,Ohio State,Ravens,,
+"
+Devin Duvernay",13,WR,5-11,210,24,3,Texas,Ravens,,
+"
+Gus Edwards",35,RB,6-1,238,27,5,Rutgers,Ravens,,
+"
+Jaylon Ferguson",45,OLB,6-5,275,26,4,Louisiana Tech,Ravens,,
+"
+Malik Harrison",40,LB,6-3,247,24,3,Ohio State,Ravens,,
+"
+Daelin Hayes",59,LB,6-3,253,23,2,Notre Dame,Ravens,,
+"
+Justice Hill",43,RB,5-10,200,24,4,Oklahoma State,Ravens,,
+"
+Marlon Humphrey",44,CB,6-0,197,25,6,Alabama,Ravens,,
+"
+Tyler Huntley",2,QB,6-1,196,24,2,Utah,Ravens,,
+"
+Lamar Jackson",8,QB,6-2,212,25,5,Louisville,Ravens,,
+"
+Robert Jackson",17,CB,6-1,202,28,3,UNLV,Ravens,,
+"
+Ja'Wuan James",76,OT,6-6,315,29,7,Tennessee,Ravens,,
+"
+Tony Jefferson",31,S,5-11,212,30,8,Oklahoma,Ravens,,
+"
+Jaryd Jones-Smith",61,OT,6-7,320,26,1,Pittsburgh,Ravens,,
+"
+Xavier Kelly",91,DT,6-6,306,24,2,Arkansas,Ravens,,
+"
+Sam Koch",4,P,6-1,222,39,17,Nebraska,Ravens,,
+"
+Isaiah Mack",94,NT,6-1,299,26,3,Tennessee-Chattanooga,Ravens,,
+"
+Justin Madubuike",92,DT,6-3,293,24,3,Texas A&M,Ravens,,
+"
+Iman Marshall",N/A,CB,6-1,210,25,4,USC,Ravens,,
+"
+Ben Mason",38,TE,6-3,256,22,1,Michigan,Ravens,,
+"
+Nate McCrary",47,RB,6-0,213,23,1,Saginaw Valley State,Ravens,,
+"
+Kahlil McKenzie",69,G/DT,6-3,320,25,3,Tennessee,Ravens,,
+"
+Patrick Mekari",65,G/C,6-4,308,24,4,Cal-Berkeley,Ravens,,
+"
+Jaylon Moore",10,WR,5-11,191,24,1,Tennessee-Martin,Ravens,,
+"
+Nick Moore",46,LS,6-2,248,29,2,Georgia,Ravens,,
+"
+Morgan Moses",76,OT,6-6,318,31,9,Virginia,Ravens,,
+"
+Jimmy Murray",67,C,6-5,304,26,3,Holy Cross,Ravens,,
+"
+Josh Oliver",84,TE,6-5,249,25,4,San Jose State,Ravens,,
+"
+Odafe Oweh",99,OLB,6-5,251,23,2,Penn State,Ravens,,
+"
+Marcus Peters",24,CB,6-0,195,29,8,Washington,Ravens,,
+"
+Tyre Phillips",74,G,6-5,344,25,3,Mississippi State,Ravens,,
+"
+Michael Pierce",78,DE,6-0,339,29,6,Samford,Ravens,,
+"
+Tony Poljan",83,TE,6-7,251,24,1,Virginia,Ravens,,
+"
+Ben Powers",72,G,6-4,310,25,4,Oklahoma,Ravens,,
+"
+James Proche II",11,WR,5-11,193,25,3,Southern Methodist,Ravens,,
+"
+Patrick Queen",6,LB,6-0,232,22,3,LSU,Ravens,,
+"
+Patrick Ricard",42,FB/DL,6-3,300,27,6,Maine,Ravens,,
+"
+Kevon Seymour",38,CB,6-0,185,28,5,USC,Ravens,,
+"
+Ronnie Stanley",79,T,6-6,315,28,7,Notre Dame,Ravens,,
+"
+Brandon Stephens",21,DB,6-1,215,24,2,SMU,Ravens,,
+"
+Geno Stone",26,S,5-10,209,22,3,Iowa,Ravens,,
+"
+Kevin Toliver II",18,CB,6-2,192,26,4,LSU,Ravens,,
+"
+Justin Tucker",9,K,6-1,183,32,11,Texas,Ravens,,
+"
+Binjimen Victor",81,WR,6-4,199,25,1,Ohio State,Ravens,,
+"
+Tylan Wallace",16,WR,5-11,195,22,2,Oklahoma State,Ravens,,
+"
+Ar'Darius Washington",N/A,S,5-8,176,22,2,TCU,Ravens,,
+"
+Broderick Washington",96,DT,6-3,304,25,3,Texas Tech,Ravens,,
+"
+Kristian Welch",57,ILB,6-3,240,23,3,Iowa,Ravens,,
+"
+Marcus Williams",43,FS,6-0,195,25,6,Utah,Ravens,,
+"
+Ty'Son Williams",34,RB,6-0,220,25,2,Brigham Young,Ravens,,
+"
+Derek Wolfe",95,DE,6-5,285,32,11,Cincinnati,Ravens,,
+"
+Kevin Zeitler",70,G,6-4,315,32,11,Wisconsin,Ravens,,
+"
+Khalil Dorsey",N/A,CB,5-9,181,24,3,Northern Arizona,Ravens,,
+"
+Otaro Alaka",51,ILB,6-3,239,25,4,Texas A&M,Ravens,,
+"
+Josh Bynes",56,LB,6-1,240,32,11,Auburn,Ravens,,
+"
+Calais Campbell",93,DT,6-8,300,35,15,Miami (Fla.),Ravens,,
+"
+DeShon Elliott",32,S,6-1,210,24,5,Texas,Ravens,,
+"
+L.J. Fort",3,LB,6-0,232,32,8,Northern Iowa,Ravens,,
+"
+Devonta Freeman",33,RB,5-8,206,30,9,Florida State,Ravens,,
+"
+Justin Houston",50,OLB,6-3,270,33,12,Georgia,Ravens,,
+"
+Pernell McPhee",90,LB,6-3,265,33,12,Mississippi State,Ravens,,
+"
+Latavius Murray",28,RB,6-3,230,32,10,UCF,Ravens,,
+"
+David Sharpe",62,OT,6-6,343,26,5,Florida,Ravens,,
+"
+Jimmy Smith",22,CB,6-2,210,33,12,Colorado,Ravens,,
+"
+Sammy Watkins",14,WR,6-1,211,28,9,Clemson,Ravens,,
+"
+Brandon Williams",98,DT,6-1,336,33,10,Missouri Southern State,Ravens,,
+"
+Salvon Ahmed",26,RB,5-11,197,23,3,Washington,Dolphins,,
+"
+Terron Armstead",,T,6-5,304,30,10,University of Arkansas at Pine Bluff,Dolphins,,
+"
+Jerome Baker",55,LB,6-2,225,25,5,Ohio State,Dolphins,,
+"
+Lynn Bowden Jr.",,WR,5-11,197,24,3,Kentucky,Dolphins,,
+"
+Teddy Bridgewater",,QB,6-2,215,29,9,Louisville,Dolphins,,
+"
+Adam Butler",70,DL,6-5,295,28,6,Vanderbilt,Dolphins,,
+"
+Elijah Campbell",22,DB,5-11,190,26,2,Northern Iowa,Dolphins,,
+"
+Cethan Carter",82,TE,6-3,248,26,6,Nebraska,Dolphins,,
+"
+Larnel Coleman",79,T,6-6,313,23,2,UMass Amherst,Dolphins,,
+"
+Cody Core",19,WR,6-3,205,27,6,Mississippi,Dolphins,,
+"
+River Cracraft",,WR,6-0,198,27,4,Washington State,Dolphins,,
+"
+Keion Crossen",,DB,5-10,185,25,5,Western Carolina,Dolphins,,
+"
+Javaris Davis",38,CB,5-8,183,25,1,Auburn,Dolphins,,
+"
+Raekwon Davis",98,DT,6-7,330,24,3,Alabama,Dolphins,,
+"
+DeVonte Dedmon",,WR,5-10,200,26,1,William & Mary,Dolphins,,
+"
+Michael Deiter",63,C/G,6-6,315,25,4,Wisconsin,Dolphins,,
+"
+Gerrid Doaks",23,RB,5-11,228,23,1,Cincinnati,Dolphins,,
+"
+Chase Edmonds",,RB,5-9,210,26,5,Fordham,Dolphins,,
+"
+Sam Eguavoen",49,LB,6-1,236,29,4,Texas Tech,Dolphins,,
+"
+Liam Eichenberg",74,T,6-5,310,24,2,Notre Dame,Dolphins,,
+"
+Clayton Fejedelem",42,S,6-1,205,28,7,Illinois,Dolphins,,
+"
+Blake Ferguson",44,LS,6-3,237,24,3,LSU,Dolphins,,
+"
+Myles Gaskin",37,RB,5-10,194,25,4,Washington,Dolphins,,
+"
+Mike Gesicki",88,TE,6-6,247,26,5,Penn State,Dolphins,,
+"
+Daeshon Hall",,DE,6-5,265,26,4,Texas A&M,Dolphins,,
+"
+Tyreek Hill",,WR,5-10,185,28,7,West Alabama,Dolphins,,
+"
+Darius Hodge",41,LB,6-1,245,23,2,Marshall,Dolphins,,
+"
+Jevon Holland",8,S,6-1,196,22,2,Oregon,Dolphins,,
+"
+Xavien Howard",25,CB,6-1,203,28,7,Baylor,Dolphins,,
+"
+Robert Hunt",68,G/T,6-6,327,25,3,Louisiana-Lafayette,Dolphins,,
+"
+Noah Igbinoghene",9,CB,5-11,197,22,3,Auburn,Dolphins,,
+"
+Alec Ingold",,FB,6-1,240,25,4,Wisconsin,Dolphins,,
+"
+Austin Jackson",73,G/T,6-5,325,22,3,USC,Dolphins,,
+"
+John Jenkins",90,DT,6-3,335,32,10,Georgia,Dolphins,,
+"
+Brandon Jones",29,S,6-1,191,24,3,Texas,Dolphins,,
+"
+Byron Jones",24,CB,6-1,194,29,8,Connecticut,Dolphins,,
+"
+Robert Jones",65,G,6-4,322,23,2,Middle Tennessee State,Dolphins,,
+"
+Solomon Kindley",66,G,6-4,335,24,3,Georgia,Dolphins,,
+"
+Greg Little",75,T,6-5,310,24,4,Mississippi,Dolphins,,
+"
+Hunter Long",84,TE,6-5,253,23,2,Boston College,Dolphins,,
+"
+John Lovett",,FB,6-2,234,25,2,Princeton,Dolphins,,
+"
+Raheem Mostert",,RB,5-10,205,30,8,Purdue,Dolphins,,
+"
+Calvin Munson",50,LB,6-1,235,27,4,San Diego State,Dolphins,,
+"
+Nik Needham",40,CB,6-1,196,25,4,UTEP,Dolphins,,
+"
+Emmanuel Ogbah",91,DE,6-4,275,28,7,Oklahoma State,Dolphins,,
+"
+Adam Pankey",78,T,6-5,313,28,4,West Virginia,Dolphins,,
+"
+Jaelan Phillips",15,LB,6-5,266,22,2,Miami,Dolphins,,
+"
+Sheldrick Redwine",20,S,6-0,195,25,4,Miami,Dolphins,,
+"
+Duke Riley",45,LB,6-1,230,27,6,LSU,Dolphins,,
+"
+Elandon Roberts",52,LB,6-1,238,27,7,Houston,Dolphins,,
+"
+D'Angelo Ross",,DB,5-9,190,25,2,New Mexico,Dolphins,,
+"
+Eric Rowe",21,S,6-1,205,29,8,Utah,Dolphins,,
+"
+Jason Sanders",7,K,5-11,197,26,5,New Mexico,Dolphins,,
+"
+Brennan Scarlett",57,LB,6-4,263,28,7,Stanford,Dolphins,,
+"
+Adam Shaheen",80,TE,6-7,257,27,6,Ashland,Dolphins,,
+"
+Trent Sherfield",,WR,6-1,219,26,5,Vanderbilt,Dolphins,,
+"
+Zach Sieler",92,DT,6-6,297,26,5,Ferris State,Dolphins,,
+"
+Kion Smith",76,T,6-5,295,23,1,Fayetteville State University,Dolphins,,
+"
+Durham Smythe",81,TE,6-6,246,26,5,Notre Dame,Dolphins,,
+"
+Chris Streveler",,QB,6-1,216,27,3,South Dakota,Dolphins,,
+"
+Tua Tagovailoa",1,QB,6-1,217,24,3,Alabama,Dolphins,,
+"
+Andrew Van Ginkel",43,LB,6-4,242,26,4,Wisconsin,Dolphins,,
+"
+Jaylen Waddle",17,WR,5-10,182,23,2,Alabama,Dolphins,,
+"
+Christian Wilkins",94,DT,6-4,310,26,4,Clemson,Dolphins,,
+"
+Trill Williams",6,CB,6-1,205,22,2,Syracuse,Dolphins,,
+"
+Connor Williams",,OL,6-5,320,24,5,Texas,Dolphins,,
+"
+Preston Williams",18,WR,6-5,220,25,4,Colorado State,Dolphins,,
+"
+Cedrick Wilson Jr.",,WR,6-2,200,43,7,Boise State,Dolphins,,
+"
+Quincy Wilson",,DB,6-2,193,25,6,Florida,Dolphins,,
+"
+Nelson Agholor",15,WR,6-0,198,28,8,USC,Patriots,,
+"
+Henry Anderson",94,DL,6-6,301,30,8,Stanford,Patriots,,
+"
+David Andrews",60,C,6-3,300,29,8,Georgia,Patriots,,
+"
+Devin Asiasi",86,TE,6-3,257,24,3,UCLA,Patriots,,
+"
+Jake Bailey",7,P,6-2,205,24,4,Stanford,Patriots,,
+"
+Christian Barmore",90,DT,6-4,310,22,2,Alabama,Patriots,,
+"
+Ja'Whaun Bentley",8,LB,6-2,255,25,5,Purdue,Patriots,,
+"
+Justin Bethel",29,DB,6-0,200,31,11,Presbyterian,Patriots,,
+"
+Joshuah Bledsoe",34,SAF,5-11,201,25,1,Missouri,Patriots,,
+"
+Kendrick Bourne",84,WR,6-1,190,26,6,Eastern Washington,Patriots,,
+"
+Trent Brown",77,OL,6-8,380,29,8,Florida,Patriots,,
+"
+Myles Bryant",41,DB,5-9,185,24,3,Washington,Patriots,,
+"
+Malcolm Butler",-,CB,5-11,190,32,8,West Alabama,Patriots,,
+"
+Yodny Cajuste",72,OL,6-5,310,26,3,West Virginia,Patriots,,
+"
+Joe Cardona",49,LS,6-3,245,29,8,Navy,Patriots,,
+"
+Byron Cowart",99,DL,6-3,300,25,4,Maryland,Patriots,,
+"
+Cody Davis",22,DB,6-2,203,32,10,Texas Tech,Patriots,,
+Drew Desjarlais,,OL,6-2,313,24,1,University of Windsor,Patriots,,
+"
+Kyle Dugger",23,DB,6-2,220,26,3,Lenoir-Rhyne,Patriots,,
+"
+Yasir Durant",70,G,6-7,330,23,3,Missouri,Patriots,,
+"
+Daniel Ekuale",95,DT,6-3,305,28,4,Washington State,Patriots,,
+"
+James Ferentz",65,OL,6-2,300,32,6,Iowa,Patriots,,
+"
+Nick Folk",6,K,6-1,222,37,15,Arizona,Patriots,,
+"
+Davon Godchaux",92,DT,6-3,311,27,6,LSU,Patriots,,
+"
+Lawrence Guy",93,DL,6-4,315,32,12,Arizona State,Patriots,,
+"
+Terez Hall",59,LB,6-2,235,25,3,Missouri,Patriots,,
+Arlington Hambright,,G,6-5,315,26,2,Colorado,Patriots,,
+"
+Damien Harris",37,RB,5-11,213,25,4,Alabama,Patriots,,
+"
+N'Keal Harry",1,WR,6-4,225,24,4,Arizona State,Patriots,,
+"
+Hunter Henry",85,TE,6-5,250,27,7,Arkansas,Patriots,,
+"
+Justin Herron",75,OL,6-5,305,26,3,Wake Forest,Patriots,,
+"
+Brian Hoyer",5,QB,6-2,216,36,14,Michigan State,Patriots,,
+"
+Anfernee Jennings",59,LB,6-3,259,24,3,Alabama,Patriots,,
+"
+Jonathan Jones",31,DB,5-10,190,28,7,Auburn,Patriots,,
+"
+Mac Jones",10,QB,6-3,217,23,2,Alabama,Patriots,,
+"
+Matthew Judon",9,LB,6-3,261,29,7,Grand Valley,Patriots,,
+"
+Dalton Keene",44,TE,6-4,251,23,3,Virginia Tech,Patriots,,
+"
+Harvey Langi",52,LB,6-2,250,29,5,Brigham Young,Patriots,,
+"
+Devin McCourty",32,DB,5-10,195,34,13,Rutgers,Patriots,,
+"
+Cameron McGrone",45,LB,6-1,236,21,1,Michigan,Patriots,,
+"
+Raekwon McMillan",46,LB,6-2,242,26,5,Ohio State,Patriots,,
+"
+Jalen Mills",2,CB,6-0,191,28,7,LSU,Patriots,,
+"
+Terrance Mitchell",-,CB,6-0,190,29,9,Oregon,Patriots,,
+"
+Ty Montgomery",-,WR,6-0,216,29,8,Stanford,Patriots,,
+"
+Bill Murray",97,DL,6-4,265,24,1,William & Mary,Patriots,,
+"
+Tre Nixon",87,WR,6-2,180,24,1,UCF,Patriots,,
+"
+Quinn Nordin",3,K,6-1,189,23,2,Michigan,Patriots,,
+"
+Mike Onwenu",71,OL,6-3,350,24,3,Michigan,Patriots,,
+"
+Devine Ozigbo",34,RB,6-2,225,25,4,Nebraska,Patriots,,
+"
+DeVante Parker",-,WR,6-3,218,29,8,Louisville,Patriots,,
+"
+Jabrill Peppers",-,DB,5-11,213,26,6,Michigan,Patriots,,
+"
+Ronnie Perkins",51,LB,6-3,247,22,2,Oklahoma,Patriots,,
+"
+Malcolm Perry",,WR,5-10,175,24,3,Navy,Patriots,,
+"
+Adrian Phillips",21,DB,5-11,210,30,8,Texas,Patriots,,
+"
+Will Sherman",68,OT,6-4,300,22,1,Colorado,Patriots,,
+"
+Matthew Slater",18,WR,6-0,205,36,15,UCLA,Patriots,,
+"
+Jonnu Smith",81,TE,6-3,248,26,6,Florida International,Patriots,,
+"
+Rhamondre Stevenson",38,RB,6-0,230,24,2,Oklahoma,Patriots,,
+"
+Jarrett Stidham",4,QB,6-3,215,25,4,Auburn,Patriots,,
+"
+Jahlani Tavai",48,MLB,6-2,246,25,4,Hawaii,Patriots,,
+"
+J.J. Taylor",42,RB,5-6,185,24,3,Arizona,Patriots,,
+"
+Josh Uche",55,LB,6-3,245,23,3,Michigan,Patriots,,
+"
+Shaun Wade",26,CB,6-1,191,23,2,Ohio State,Patriots,,
+"
+James White",28,RB,5-10,205,30,9,Wisconsin,Patriots,,
+"
+Kristian Wilkerson",17,WR,6-1,214,25,1,Southeast Missouri State,Patriots,,
+"
+Joejuan Williams",33,CB,6-3,212,24,4,Vanderbilt,Patriots,,
+"
+Mack Wilson",-,OLB,6-1,233,24,4,Alabama,Patriots,,
+"
+Deatrich Wise Jr.",91,DL,6-5,275,27,6,Arkansas,Patriots,,
+"
+Isaiah Wynn",76,OL,6-2,310,26,5,Georgia,Patriots,,
+"
+Jakobi Meyers",16,WR,6-2,200,25,4,North Carolina State,Patriots,,
+"
+Jamie Collins Sr.",58,LB,6-3,255,32,10,Southern Mississippi,Patriots,,
+"
+Carl Davis Jr.",98,DL,6-5,320,30,8,Iowa,Patriots,,
+"
+Troy Fumagalli",88,TE,6-6,248,27,5,Wisconsin,Patriots,,
+"
+Dont'a Hightower",54,LB,6-3,260,32,10,Alabama,Patriots,,
+"
+Brandon King",36,LB,6-2,220,28,8,Auburn,Patriots,,
+"
+Josh Allen",17,QB,6-5,237,25,5,Wyoming,Bills,,
+"
+Eli Ankou",51,DT,6-3,325,27,6,UCLA,Bills,,
+"
+Matt Barkley",11,QB,6-2,234,31,10,Southern California,Bills,,
+"
+Boogie Basham",96,DE,6-3,281,24,2,Wake Forest,Bills,,
+"
+Tyler Bass",2,K,5-10,183,25,3,Georgia Southern,Bills,,
+"
+Ryan Bates",71,OL,6-4,302,25,4,Penn State,Bills,,
+"
+Ike Boettger",65,G,6-6,313,27,5,Iowa,Bills,,
+"
+Spencer Brown",79,OT,6-8,311,24,2,Northern Iowa,Bills,,
+"
+Brandin Bryant",90,DT,6-2,305,28,1,Florida Atlantic,Bills,,
+"
+Jacob Capra",66,OL,6-5,300,23,1,San Diego State,Bills,,
+"
+Jamison Crowder",80,WR,5-9,177,28,8,Duke,Bills,,
+"
+Gabriel Davis",13,WR,6-2,210,23,3,UCF,Bills,,
+"
+Dion Dawkins",73,T,6-5,320,27,6,Temple,Bills,,
+"
+Stefon Diggs",14,WR,6-0,191,28,8,Maryland,Bills,,
+"
+Tyrel Dodson",53,LB,6-0,237,23,3,Texas A&M,Bills,,
+"
+Tommy Doyle",72,OT,6-8,320,23,2,Miami (Ohio),Bills,,
+"
+Tremaine Edmunds",49,LB,6-5,250,23,5,Virginia Tech,Bills,,
+"
+A.J. Epenesa",57,DE,6-6,260,23,3,Iowa,Bills,,
+"
+Reid Ferguson",69,LS,6-2,235,28,6,Louisiana State,Bills,,
+"
+Cody Ford",74,G,6-3,329,25,4,Oklahoma,Bills,,
+"
+Tanner Gentry",87,WR,6-2,209,27,1,Wyoming,Bills,,
+"
+Joe Giles-Harris",42,LB,6-2,240,25,2,Duke,Bills,,
+"
+Reggie Gilliam",41,FB,6-0,244,24,3,Toledo,Bills,,
+"
+Olaijah Griffin",37,CB,6-0,175,23,1,USC,Bills,,
+"
+Matt Haack",3,P,6-0,205,27,6,Arizona State,Bills,,
+"
+Damar Hamlin",31,S,6-0,200,24,2,Pittsburgh,Bills,,
+"
+Tim Harris",29,CB,6-1,205,26,2,Virginia,Bills,,
+"
+Isaiah Hodgins",16,WR,6-3,201,23,2,Oregon State,Bills,,
+"
+O.J. Howard",8,TE,6-6,251,27,6,Alabama,Bills,,
+"
+Micah Hyde",23,S,6-0,197,31,10,Iowa,Bills,,
+"
+Dane Jackson",30,CB,5-11,180,25,3,Pitt,Bills,,
+"
+Jaquan Johnson",46,S,5-10,191,26,4,Miami (Fla.),Bills,,
+"
+Taron Johnson",24,CB,5-11,192,25,5,Weber State,Bills,,
+"
+DaQuan Jones",92,DT,6-4,320,30,9,Penn State,Bills,,
+"
+Taiwan Jones",25,RB,6-0,195,33,12,Eastern Washington,Bills,,
+"
+Case Keenum",,QB,6-1,215,34,10,Houston,Bills,,
+"
+Dawson Knox",88,TE,6-4,254,25,4,Mississippi,Bills,,
+"
+Jake Kumerow",15,WR,6-4,209,30,5,Wis.-Whitewater,Bills,,
+"
+Shaq Lawson",,DE,6-3,265,27,7,Clemson,Bills,,
+"
+Marquel Lee",52,LB,6-3,235,26,3,Wake Forest,Bills,,
+"
+Cam Lewis",47,CB,5-9,183,25,3,Buffalo,Bills,,
+"
+Mike Love",56,DE,6-3,255,28,2,South Florida,Bills,,
+"
+Greg Mancz",62,OL,6-4,302,29,7,Toledo,Bills,,
+"
+Tyler Matakevich",44,LB,6-1,235,29,7,Temple,Bills,,
+"
+Nick McCloud",38,CB,6-0,193,23,2,Notre Dame,Bills,,
+"
+Isaiah McKenzie",19,WR,5-8,173,27,6,Georgia,Bills,,
+"
+Matt Milano",58,LB,6-0,223,27,6,Boston College,Bills,,
+"
+Von Miller",40,LB,6-3,250,33,12,Texas A&M,Bills,,
+"
+Quintin Morris",85,TE,6-2,252,23,1,Bowling Green,Bills,,
+"
+Mitch Morse",60,C,6-6,305,29,8,Missouri,Bills,,
+"
+Zack Moss",20,RB,5-9,205,24,3,Utah,Bills,,
+"
+Siran Neal",33,CB,6-0,206,27,5,Jacksonville State,Bills,,
+"
+Ed Oliver",91,DT,6-1,287,24,4,Houston,Bills,,
+"
+Jordan Phillips",97,DT,6-6,330,29,8,Oklahoma,Bills,,
+"
+Jordan Poyer",21,S,6-0,191,30,10,Oregon State,Bills,,
+"
+Greg Rousseau",50,DE,6-6,266,22,2,Miami,Bills,,
+"
+Rodger Saffold",76,G,6-5,325,33,13,Indiana,Bills,,
+"
+Tim Settle",99,DT,6-3,313,24,5,Virginia Tech,Bills,,
+"
+Devin Singletary",26,RB,5-7,203,24,4,Florida Atlantic,Bills,,
+"
+Andre Smith",9,LB,6-0,240,24,5,North Carolina,Bills,,
+"
+Marquez Stevenson",5,WR,5-10,180,24,2,Houston,Bills,,
+"
+Tommy Sweeney",89,TE,6-5,251,26,4,Boston College,Bills,,
+"
+Josh Thomas",36,S,6-0,205,25,1,Appalachian State,Bills,,
+"
+Tre'Davious White",27,CB,5-11,192,27,6,Louisiana State,Bills,,
+"
+Mario Addison",97,DE,6-3,260,34,12,Troy,Bills,,
+"
+Bryan Cox Jr.",51,DE,6-3,270,27,5,Florida,Bills,,
+"
+Bobby Hart",68,OT,6-5,310,27,8,Florida State,Bills,,
+"
+Jerry Hughes",55,DE,6-2,254,33,13,Texas Christian,Bills,,
+"
+Emmanuel Sanders",1,WR,5-11,180,35,13,SMU,Bills,,
+"
+Justin Zimmer",61,DT,6-3,300,29,4,Ferris State,Bills,,
+"
+Rodney Adams",,WR,6-1,189,27,2,University of South Florida,Jets,,
+"
+Bradlee Anae",,DL,6-3,260,24,3,Utah,Jets,,
+"
+Nick Bawden",48,FB,6-2,245,25,5,San Diego State,Jets,,
+"
+Mekhi Becton",77,T,6-7,363,22,3,Louisville,Jets,,
+"
+Braxton Berrios",10,WR,5-9,190,26,5,Miami (Fla.),Jets,,
+"
+Tarik Black",3,WR,6-3,213,24,1,Texas,Jets,,
+"
+Lawrence Cager",,TE,6-5,220,24,2,Georgia,Jets,,
+"
+Michael Carter",32,RB,5-8,201,22,2,North Carolina,Jets,,
+"
+Michael Carter II",30,CB,5-10,184,23,2,Duke,Jets,,
+"
+Cameron Clark",72,OL,6-4,308,24,3,Charlotte,Jets,,
+"
+Tevin Coleman",23,RB,6-1,210,28,8,Indiana,Jets,,
+"
+Tyler Conklin",,TE,6-3,254,26,5,Central Michigan,Jets,,
+"
+Ashtyn Davis",21,S,6-1,202,25,3,California,Jets,,
+"
+Corey Davis",84,WR,6-3,209,27,6,Western Michigan,Jets,,
+"
+Brandon Dillon",44,TE,6-5,250,24,1,Marian,Jets,,
+"
+Isaiah Dunn",27,CB,6-0,193,23,2,Oregon State,Jets,,
+"
+Brandin Echols",26,CB,5-10,175,24,2,Kentucky,Jets,,
+"
+Chuma Edoga",70,T,6-3,308,24,4,Southern California,Jets,,
+"
+George Fant",76,T,6-5,322,29,7,Western Kentucky,Jets,,
+"
+Dan Feeney",67,OL,6-4,310,27,6,Indiana,Jets,,
+"
+Parker Ferguson",68,OL,6-4,306,22,2,Air Force,Jets,,
+"
+Joe Flacco",19,QB,6-6,245,37,15,Delaware,Jets,,
+"
+John Franklin-Myers",91,DL,6-4,288,25,5,Stephen F. Austin St.,Jets,,
+"
+Javelin Guidry",40,CB,5-9,191,23,3,Utah,Jets,,
+"
+Bryce Hall",37,CB,6-1,202,24,3,Virginia,Jets,,
+"
+Justin Hardee",34,CB,6-1,200,28,6,Illinois,Jets,,
+"
+Thomas Hennessy",42,LS,6-2,246,27,6,Duke,Jets,,
+"
+Grant Hermanns",63,OL,6-7,300,24,1,Purdue,Jets,,
+"
+Bryce Huff",47,DL,6-3,255,23,3,Memphis,Jets,,
+"
+Ty Johnson",25,RB,5-10,210,24,4,Maryland,Jets,,
+"
+Lamarcus Joyner",29,S,5-8,185,31,9,Florida State,Jets,,
+"
+Carl Lawson",58,DL,6-2,265,26,6,Auburn,Jets,,
+"
+Zane Lewis",33,S,6-1,190,24,2,Air Force,Jets,,
+"
+Braden Mann",7,P,5-11,198,24,3,Texas A&M,Jets,,
+"
+Jonathan Marshall",96,DL,6-3,310,24,2,Arkansas,Jets,,
+"
+Jacob Martin",,LB,6-2,242,26,4,Temple,Jets,,
+"
+Conor McDermott",69,OL,6-8,310,29,6,UCLA,Jets,,
+"
+Connor McGovern",60,C,6-4,306,28,7,Missouri,Jets,,
+"
+Denzel Mims",11,WR,6-3,207,24,3,Baylor,Jets,,
+"
+Jovante Moffatt",,S,5-11,213,25,2,Middle Tennessee State,Jets,,
+"
+D.J. Montgomery",14,WR,6-1,201,25,2,Austin Peay,Jets,,
+"
+Elijah Moore",8,WR,5-10,178,22,2,Mississippi,Jets,,
+"
+C.J. Mosley",57,LB,6-2,231,29,8,Alabama,Jets,,
+"
+Kai Nacua",1,S,6-0,205,27,3,BYU,Jets,,
+"
+Hamsah Nasirildeen",45,LB,6-3,215,23,2,Florida State,Jets,,
+"
+Will Parks",39,S,6-0,200,27,7,Arizona,Jets,,
+"
+La'Mical Perine",22,RB,5-11,216,24,3,Florida,Jets,,
+"
+Del'Shawn Phillips",43,LB,6-2,230,25,3,Illinois,Jets,,
+"
+Ross Pierschbacher",66,OL,6-4,315,26,2,Alabama,Jets,,
+"
+Eddy Pineiro",15,K,6-0,185,26,4,Florida,Jets,,
+"
+Jason Pinnock",41,CB,6-0,205,22,2,Pittsburgh,Jets,,
+"
+Sheldon Rankins",98,DL,6-2,305,28,7,Louisville,Jets,,
+"
+Hamilcar Rashed Jr.",55,DL,6-2,251,24,1,Oregon State,Jets,,
+"
+D.J. Reed",,CB,5-9,188,25,5,Kansas State,Jets,,
+"
+Elijah Riley",33,S,6-0,205,23,2,Army,Jets,,
+"
+Dru Samia",65,OL,6-5,308,24,3,Oklahoma,Jets,,
+"
+Greg Senat",68,T,6-6,305,27,4,Wagner,Jets,,
+"
+Nathan Shepherd",97,DL,6-4,315,28,5,Fort Hays State,Jets,,
+"
+Jamien Sherwood",44,LB,6-2,216,22,2,Auburn,Jets,,
+"
+Tanzel Smart",79,DL,6-1,295,27,4,Tulane,Jets,,
+"
+Jeff Smith",16,WR,6-1,195,24,3,Boston College,Jets,,
+"
+Solomon Thomas",,DL,6-2,256,26,6,Stanford,Jets,,
+"
+Laken Tomlinson",,G,6-3,323,30,8,Duke,Jets,,
+"
+C.J. Uzomah",,TE,6-5,271,29,8,Auburn,Jets,,
+"
+Greg Van Roten",62,G,6-3,305,32,8,Pennsylvania,Jets,,
+"
+Alijah Vera-Tucker",75,OL,6-5,308,22,2,USC,Jets,,
+"
+Austin Walter",36,RB,5-8,202,25,3,Rice,Jets,,
+"
+Tim Ward",51,DL,6-6,255,24,3,Old Dominion,Jets,,
+"
+Trevon Wesco",85,TE,6-3,267,26,4,West Virginia,Jets,,
+"
+Javin White",9,DB,6-2,211,25,2,UNLV,Jets,,
+"
+Mike White",5,QB,6-5,218,27,4,Western Kentucky,Jets,,
+"
+Jordan Whitehead",,S,5-10,198,25,5,Pittsburgh,Jets,,
+"
+Rachad Wildgoose",29,CB,5-10,191,22,2,Wisconsin,Jets,,
+"
+Isaiah Williams",71,OL,6-3,295,28,2,Akron,Jets,,
+"
+Quincy Williams",56,LB,5-11,225,25,4,Murray State,Jets,,
+"
+Quinnen Williams",95,DL,6-3,303,24,4,Alabama,Jets,,
+"
+Zach Wilson",2,QB,6-2,214,22,2,BYU,Jets,,
+"
+Kenny Yeboah",83,TE,6-3,250,23,2,Mississippi,Jets,,
+"
+Greg Zuerlein",,K,6-0,187,34,11,Missouri Western,Jets,,
+"
+Jabari Zuniga",92,DL,6-3,264,24,2,Florida,Jets,,
+Tyrell Adams,59,LB,6-2,228,30,6,West Georgia,Jaguars,,
+"
+Jamal Agnew",39,WR,5-10,190,27,6,San Diego,Jaguars,,
+"
+Josh Allen",41,DE/OLB,6-5,262,24,4,Kentucky,Jaguars,,
+"
+Ryquell Armstead",23,RB,5-11,220,25,3,Temple,Jaguars,,
+"
+Dan Arnold",85,TE,6-6,220,27,6,Wisconsin-Platteville,Jaguars,,
+"
+Ben Bartch",78,OL,6-6,309,23,3,St. John's (Minn.),Jaguars,,
+"
+C.J. Beathard",3,QB,6-2,215,28,6,Iowa,Jaguars,,
+"
+Malcom Brown",90,DT,6-2,320,28,8,Texas,Jaguars,,
+"
+Tyson Campbell",32,CB,6-1,195,22,2,Georgia,Jaguars,,
+"
+K'Lavon Chaisson",45,DE/OLB,6-3,254,22,3,LSU,Jaguars,,
+"
+Andre Cisco",38,S,6-0,209,22,2,Syracuse,Jaguars,,
+"
+Chris Claybrooks",27,CB,5-9,179,24,3,Memphis,Jaguars,,
+"
+Logan Cooke",9,P,6-5,230,26,5,Mississippi State,Jaguars,,
+"
+Jeff Cotton Jr.",88,WR,6-2,206,24,1,Idaho,Jaguars,,
+"
+Nathan Cottrell",31,RB,5-11,193,25,2,Georgia Tech,Jaguars,,
+"
+Xavier Crawford",,CB,5-11,187,26,3,Central Michigan,Jaguars,,
+"
+Coy Cronk",64,OT,6-4,318,24,1,Iowa,Jaguars,,
+"
+Evan Engram",17,TE,6-3,240,27,6,Mississippi,Jaguars,,
+"
+Travis Etienne Jr.",1,RB,5-10,215,23,2,Clemson,Jaguars,,
+"
+Luke Farrell",89,TE,6-5,258,24,2,Ohio State,Jaguars,,
+"
+Foley Fatukasi",94,DT,6-4,318,27,5,Connecticut,Jaguars,,
+"
+Rudy Ford",5,S,6-0,204,27,6,Auburn,Jaguars,,
+"
+Terry Godwin",14,WR,5-11,185,25,2,Georgia,Jaguars,,
+"
+Shaquill Griffin",26,CB,6-0,198,26,6,UCF,Jaguars,,
+"
+DaVon Hamilton",52,DT,6-4,320,25,3,Ohio State,Jaguars,,
+"
+Josh Hammond",81,WR,6-0,194,23,1,Florida,Jaguars,,
+"
+Tre Herndon",37,CB,5-11,185,26,5,Vanderbilt,Jaguars,,
+"
+Jared Hocker",70,G,6-5,325,23,1,Texas A&M,Jaguars,,
+"
+Rayshawn Jenkins",2,S,6-1,220,28,6,Miami,Jaguars,,
+"
+Zay Jones",7,WR,6-2,200,27,6,East Carolina,Jaguars,,
+Jamir Jones,40,LB,6-3,255,23,2,Notre Dame,Jaguars,,
+"
+Marvin Jones Jr.",11,WR,6-2,199,32,11,California,Jaguars,,
+"
+Tim Jones",83,WR,6-1,210,23,1,Southern Mississippi,Jaguars,,
+"
+Arden Key",,DE,6-5,238,25,5,LSU,Jaguars,,
+"
+Christian Kirk",13,WR,5-11,200,25,5,Texas A&M,Jaguars,,
+"
+Trevor Lawrence",16,QB,6-6,213,22,2,Clemson,Jaguars,,
+"
+Jeremiah Ledbetter",98,DE,6-3,295,27,2,Arkansas,Jaguars,,
+"
+Walker Little",72,OL,6-7,309,23,2,Stanford,Jaguars,,
+"
+Jake Luton",,QB,6-6,224,26,2,Oregon State,Jaguars,,
+"
+Chris Manhertz",84,TE,6-6,255,30,7,Canisius College,Jaguars,,
+"
+Ross Matiscik",46,LS,6-0,235,25,3,Baylor,Jaguars,,
+"
+KC McDermott",62,OL,6-5,311,25,4,Miami (Fla.),Jaguars,,
+"
+Dylan Moses",48,LB,6-3,240,23,1,Alabama,Jaguars,,
+"
+Foye Oluokun",54,LB,6-2,229,26,5,Yale,Jaguars,,
+"
+Shaquille Quarterman",50,LB,6-0,234,24,3,Miami (Fla.),Jaguars,,
+"
+Will Richardson Jr.",76,OL,6-6,306,26,5,North Carolina State,Jaguars,,
+"
+Roy Robertson-Harris",95,DL,6-5,298,28,6,Texas-El Paso,Jaguars,,
+"
+Cam Robinson",74,OL,6-6,320,26,6,Alabama,Jaguars,,
+"
+James Robinson",25,RB,5-9,219,23,3,Illinois State,Jaguars,,
+"
+Brandon Rusnak",29,CB,5-11,198,26,3,Michigan,Jaguars,,
+"
+Chapelle Russell",49,LB,6-2,236,25,3,Temple,Jaguars,,
+"
+Ryan Santoso",19,K,6-5,258,26,1,Minnesota,Jaguars,,
+Mekhi Sargent,36,RB,5-8,208,24,2,Iowa,Jaguars,,
+"
+Brandon Scherff",68,G,6-5,319,30,8,Iowa,Jaguars,,
+"
+Tyler Shatley",69,OL,6-3,310,30,9,Clemson,Jaguars,,
+"
+Laviska Shenault Jr.",10,WR,6-1,227,23,3,Colorado,Jaguars,,
+"
+Jordan Smith",92,DE/OLB,6-6,255,24,2,UAB,Jaguars,,
+"
+Dawuane Smoot",91,DL,6-3,264,27,6,Illinois,Jaguars,,
+Elijah Sullivan,58,LB,6-0,275,24,1,Kansas State,Jaguars,,
+"
+Jawaan Taylor",75,OL,6-5,312,24,4,Florida,Jaguars,,
+"
+Daniel Thomas",20,S,5-10,215,23,3,Auburn,Jaguars,,
+"
+Badara Traore",73,OT,6-7,320,25,1,LSU,Jaguars,,
+"
+Laquon Treadwell",18,WR,6-2,215,26,5,Mississippi,Jaguars,,
+"
+Jay Tufele",97,DT,6-3,305,22,2,USC,Jaguars,,
+"
+Darious Williams",,DB,5-9,187,29,5,UAB,Jaguars,,
+Raequan Williams,99,DT,6-4,305,25,2,Michigan State,Jaguars,,
+"
+Andrew Wingard",42,S,6-0,209,25,4,Wyoming,Jaguars,,
+"
+Matthew Wright",15,K,5-11,174,26,2,UCF,Jaguars,,
+Kyle Allen,,QB,6-3,210,26,4,Houston,Texans,,
+"
+Darius Anderson",30,RB,5-11,212,24,1,TCU,Texans,,
+"
+Grayland Arnold",35,DB,5-10,187,24,2,Baylor,Texans,,
+"
+Antony Auclair",83,TE,6-6,256,28,6,Laval,Texans,,
+"
+Ross Blacklock",90,DL,6-3,290,23,3,TCU,Texans,,
+"
+Justin Britt",68,OL,6-6,315,30,7,Missouri,Texans,,
+"
+Terrence Brooks",8,DB,5-11,205,30,9,Florida State,Texans,,
+"
+Pharaoh Brown",85,TE,6-6,258,27,5,Oregon,Texans,,
+"
+Rex Burkhead",28,RB,5-10,215,31,10,Nebraska,Texans,,
+"
+Jalen Camp",17,WR,6-2,220,23,1,Georgia Tech,Texans,,
+A.J. Cann,60,OL,6-3,320,30,8,South Carolina,Texans,,
+Ron'Dell Carter,75,DL,6-3,269,24,2,James Madison,Texans,,
+Blake Cashman,,LB,6-1,237,25,4,Minnesota,Texans,,
+"
+Maliek Collins",97,DL,6-2,310,27,7,Nebraska,Texans,,
+"
+Nico Collins",12,WR,6-4,215,23,2,Michigan,Texans,,
+"
+Chris Conley",18,WR,6-3,205,29,8,Georgia,Texans,,
+"
+Brandin Cooks",13,WR,5-10,183,28,9,Oregon State,Texans,,
+Sam Cooper,73,OL,6-2,305,N/A,1,Merrimack College,Texans,,
+"
+Davion Davis",81,WR,5-11,199,25,2,Sam Houston State,Texans,,
+"
+Tae Davis",,LB,6-1,224,25,5,Chattanooga,Texans,,
+"
+Phillip Dorsett",2,WR,5-10,192,29,8,Miami,Texans,,
+"
+Jeff Driskel",6,QB,6-4,235,28,7,Louisiana Tech,Texans,,
+"
+Michael Dwumfour",98,DL,6-1,296,24,1,Rutgers,Texans,,
+"
+Ka'imi Fairbairn",7,K,6-0,183,28,7,UCLA,Texans,,
+"
+Royce Freeman",26,RB,6-0,238,26,5,Oregon,Texans,,
+"
+Carson Green",62,OL,6-6,320,22,1,Texas A&M,Texans,,
+"
+Jonathan Greenard",52,DL,6-3,263,24,3,Florida,Texans,,
+"
+Kamu Grugier-Hill",51,LB,6-2,230,27,7,Eastern Illinois,Texans,,
+DaeSean Hamilton,,WR,6-1,206,27,5,Penn State,Texans,,
+"
+Demone Harris",94,DL,6-4,272,26,3,Buffalo,Texans,,
+"
+Damon Hazelton",86,WR,6-3,215,25,1,Missouri,Texans,,
+"
+Charlie Heck",67,OL,6-8,311,25,3,North Carolina,Texans,,
+"
+Neville Hewitt",43,LB,6-2,234,29,8,Marshall,Texans,,
+"
+Tytus Howard",71,OL,6-5,322,25,4,Alabama State,Texans,,
+Andy Janovich,,FB,6-1,238,28,7,Nebraska,Texans,,
+"
+Jordan Jenkins",50,DL,6-3,260,27,7,Georgia,Texans,,
+"
+Lonnie Johnson Jr.",1,DB,6-2,213,26,4,Kentucky,Texans,,
+"
+Cameron Johnston",11,P,5-11,194,30,5,Ohio State,Texans,,
+"
+Brevin Jordan",9,TE,6-3,245,21,2,Miami (Fla.),Texans,,
+Kingsley Keke,,DL,6-3,288,25,4,Texas A&M,Texans,,
+"
+Desmond King II",25,DB,5-10,200,27,6,Iowa,Texans,,
+"
+Christian Kirksey",58,LB,6-2,235,29,9,Iowa,Texans,,
+"
+Roy Lopez",91,DL,6-2,318,24,2,Arizona,Texans,,
+"
+Justin McCray",64,OL,6-3,315,29,6,Central Florida,Texans,,
+"
+Davis Mills",10,QB,6-4,225,23,2,Stanford,Texans,,
+"
+Chris Moore",15,WR,6-1,200,28,7,Cincinnati,Texans,,
+"
+Jimmy Moreland",22,DB,5-11,182,26,4,James Madison,Texans,,
+"
+Jimmy Morrissey",79,OL,6-3,303,23,2,Pittsburgh,Texans,,
+"
+Eric Murray",23,DB,5-11,199,28,7,Minnesota,Texans,,
+Cedric Ogbuehi,,OL,6-5,308,29,8,Texas A&M,Texans,,
+Dare Ogunbowale,,RB,5-11,205,27,4,Wisconsin,Texans,,
+Ogbo Okoronkwo,,LB,6-2,253,26,5,Oklahoma,Texans,,
+"
+Jonathan Owens",36,DB,5-11,210,26,4,Missouri Western State,Texans,,
+"
+Scottie Phillips",27,RB,5-8,209,24,3,Mississippi,Texans,,
+"
+Kevin Pierre-Louis",57,LB,6-0,231,30,9,Boston College,Texans,,
+"
+Paul Quessenberry",45,FB,6-2,250,30,1,Navy,Texans,,
+Scott Quessenberry,,OL,6-3,310,27,5,UCLA,Texans,,
+Jalen Reeves-Maybin,,LB,6-1,230,27,6,Tennessee,Texans,,
+"
+Derek Rivers",95,DL,6-5,250,27,6,Youngstown State,Texans,,
+"
+Max Scharping",74,OL,6-6,327,25,4,Northern Illinois,Texans,,
+"
+Tremon Smith",24,DB,5-11,190,25,5,Central Arkansas,Texans,,
+"
+Jordan Steckler",70,OL,6-5,305,25,1,Northern Illinois,Texans,,
+M.J. Stewart,,DB,5-11,200,26,5,North Carolina,Texans,,
+"
+Tavierre Thomas",37,DB,5-10,205,26,5,Ferris State,Texans,,
+"
+Laremy Tunsil",78,OL,6-5,313,27,7,Mississippi,Texans,,
+"
+Garret Wallow",32,LB,6-2,230,23,2,TCU,Texans,,
+"
+Jon Weeks",46,LS,5-10,242,36,13,Baylor,Texans,,
+Isaac Yiadom,,DB,6-1,188,26,5,Boston College,Texans,,
+Ola Adeniyi,92,OLB,6-1,248,24,5,Toledo,Titans,,
+"
+Denico Autry",96,DL,6-5,285,31,9,Mississippi State,Titans,,
+"
+Cameron Batson",13,WR,5-8,175,26,5,Texas Tech,Titans,,
+"
+B.J. Bello",,LB,6-3,229,27,5,Illinois State,Titans,,
+"
+Aaron Brewer",62,G/C,6-1,274,24,3,Texas State,Titans,,
+"
+A.J. Brown",11,WR,6-1,226,24,4,Mississippi,Titans,,
+"
+Jayon Brown",55,LB,6-0,226,27,6,UCLA,Titans,,
+"
+Randy Bullock",14,K,5-9,210,32,11,Texas A&M,Titans,,
+"
+Kevin Byard",31,S,5-11,212,28,7,Middle Tennessee State,Titans,,
+"
+Trenton Cannon",,RB,5-11,185,27,5,Virginia State,Titans,,
+"
+Jamal Carter",25,S,6-1,215,28,4,Miami,Titans,,
+"
+Shyheim Carter",,DB,5-10,194,24,1,Alabama,Titans,,
+"
+Tory Carter",44,FB,6-0,229,23,2,LSU,Titans,,
+"
+Rodney Clemons",,S,6-0,205,25,1,SMU,Titans,,
+"
+Dylan Cole",53,LB,6-0,237,27,6,Missouri State,Titans,,
+"
+Trevon Coley",,DT,6-1,300,27,6,Florida Atlantic,Titans,,
+"
+Morgan Cox",46,LS,6-4,233,35,13,Tennessee,Titans,,
+"
+Dane Cruikshank",29,DB,6-1,209,26,5,Arizona,Titans,,
+"
+Zach Cunningham",41,LB,6-3,230,27,6,Vanderbilt,Titans,,
+"
+Nate Davis",64,G,6-3,316,25,4,Charlotte,Titans,,
+"
+Christian DiLauro",69,T,6-6,300,27,1,Illinois,Titans,,
+"
+Bud Dupree",48,OLB,6-4,269,29,8,Kentucky,Titans,,
+"
+Nick Dzubnar",49,LB,6-1,240,30,8,Cal Poly-S.L.O.,Titans,,
+"
+Caleb Farley",3,CB,6-2,197,23,2,Virginia Tech,Titans,,
+"
+Matthias Farley",21,S,5-11,209,29,7,Notre Dame,Titans,,
+"
+Sam Ficken",4,K,6-1,192,29,4,Penn State,Titans,,
+"
+Anthony Firkser",86,TE,6-2,246,27,5,Harvard,Titans,,
+"
+Dez Fitzpatrick",10,WR,6-2,208,24,2,Louisville,Titans,,
+"
+Austin Fort",84,TE,6-4,244,26,3,Wyoming,Titans,,
+"
+Kristian Fulton",26,CB,5-11,197,23,3,LSU,Titans,,
+"
+Derwin Gray",66,OL,6-4,320,26,2,Maryland,Titans,,
+"
+Nate Hall",,LB,6-2,236,26,2,Northwestern,Titans,,
+"
+Da'Shawn Hand",78,DE,6-3,297,26,5,Alabama,Titans,,
+"
+Derrick Henry",22,RB,6-3,247,28,7,Alabama,Titans,,
+"
+Dontrell Hilliard",40,RB,5-11,202,27,5,Tulane,Titans,,
+"
+Kevin Hogan",8,QB,6-3,218,29,4,Stanford,Titans,,
+"
+Cody Hollister",16,WR,6-4,216,28,2,Arkansas,Titans,,
+"
+Amani Hooker",37,DB,5-11,210,23,4,Iowa,Titans,,
+"
+Austin Hooper",,TE,6-4,254,27,7,Stanford,Titans,,
+"
+Tommy Hudson",89,TE,6-5,255,25,2,Arizona State,Titans,,
+"
+Ryan Izzo",83,TE,6-5,255,26,4,Florida State,Titans,,
+"
+Chris Jackson",35,DB,5-10,193,24,3,Marshall,Titans,,
+"
+Ben Jones",60,C,6-3,308,32,11,Georgia,Titans,,
+"
+Jamarco Jones",,OL,6-4,293,25,5,Ohio State,Titans,,
+"
+Joe Jones",42,LB,6-0,240,28,6,Northwestern,Titans,,
+"
+Kobe Jones",,OLB,6-4,260,23,1,Mississippi State,Titans,,
+"
+Naquan Jones",90,DT,6-3,313,27,2,Michigan State,Titans,,
+"
+Brett Kern",6,P,6-2,214,36,15,Toledo,Titans,,
+"
+Mason Kinsey",12,WR,5-10,198,23,1,Berry College,Titans,,
+"
+Harold Landry III",58,OLB,6-2,252,25,5,Boston College,Titans,,
+"
+Justin Lawler",,OLB,6-4,265,27,4,SMU,Titans,,
+"
+Corey Levin",61,C/G,6-4,307,27,4,Tennessee-Chattanooga,Titans,,
+"
+Taylor Lewan",77,T,6-7,309,30,9,Michigan,Titans,,
+"
+David Long, Jr.",51,LB,5-11,227,25,4,West Virginia,Titans,,
+"
+Greg Mabin",30,CB,6-2,200,27,6,Iowa,Titans,,
+"
+Josh Malone",,WR,6-3,205,26,3,Tennessee,Titans,,
+"
+Racey McMath",81,WR,6-3,217,22,2,LSU,Titans,,
+"
+Elijah Molden",24,CB,5-10,192,23,2,Washington,Titans,,
+"
+A.J. Moore",,S,5-11,202,26,5,Mississippi,Titans,,
+"
+Briley Moore",82,TE,6-4,240,24,2,Kansas State,Titans,,
+"
+Daniel Munyer",52,C,6-1,305,30,5,Colorado,Titans,,
+"
+Larrell Murchison",91,DL,6-2,297,24,3,North Carolina State,Titans,,
+"
+MyCole Pruitt",85,TE,6-2,245,30,7,Southern Illinois,Titans,,
+"
+David Quessenberry",72,OL,6-5,310,31,4,San Jose State,Titans,,
+"
+Dillon Radunz",75,OL,6-6,301,24,2,North Dakota State,Titans,,
+"
+Monty Rice",56,LB,6-0,233,23,2,Georgia,Titans,,
+"
+Derick Roberson",50,OLB,6-3,250,26,4,Sam Houston State,Titans,,
+"
+Chester Rogers",80,WR,6-0,184,28,6,Grambling State,Titans,,
+"
+Jordan Roos",70,G,6-3,302,28,3,Purdue,Titans,,
+"
+Jeffery Simmons",98,DT,6-4,305,24,4,Mississippi State,Titans,,
+"
+Tuzar Skipper",59,OLB,6-3,246,26,2,Toledo,Titans,,
+"
+Buster Skrine",38,CB,5-9,187,32,12,Tennessee-Chattanooga,Titans,,
+"
+Kevin Strong",97,DE,6-4,295,25,4,Texas-San Antonio,Titans,,
+"
+Geoff Swaim",87,TE,6-4,260,28,8,Texas,Titans,,
+"
+Ryan Tannehill",17,QB,6-4,217,33,11,Texas A&M,Titans,,
+"
+Teair Tart",93,DT,6-2,304,25,3,Florida International,Titans,,
+"
+Rashad Weaver",99,OLB,6-4,259,24,2,Pittsburgh,Titans,,
+"
+Nick Westbrook-Ikhine",15,WR,6-2,211,25,3,Indiana,Titans,,
+"
+Jordan Wilkins",33,RB,6-1,212,27,5,Mississippi,Titans,,
+"
+Chris Williamson",,CB,6-0,205,24,1,Minnesota,Titans,,
+"
+Robert Woods",,WR,6-0,195,30,10,USC,Titans,,
+"
+Logan Woodside",5,QB,6-1,213,27,3,Toledo,Titans,,
+"
+Mo Alie-Cox",81,TE,6-5,267,28,5,Virginia Commonwealth,Colts,,
+"
+Ben Banogu",52,DE,6-3,252,26,4,Texas Christian,Colts,,
+"
+Julian Blackmon",32,S,6-0,187,23,3,Utah,Colts,,
+"
+Rodrigo Blankenship",3,K,6-1,184,25,3,Georgia,Colts,,
+"
+Tony Brown",,CB,6-0,198,26,4,Alabama,Colts,,
+"
+DeForest Buckner",99,DT,6-7,295,28,7,Oregon,Colts,,
+"
+Parris Campbell",1,WR,6-0,208,24,4,Ohio State,Colts,,
+"
+Anthony Chesley",47,CB,6-0,190,26,2,Coastal Carolina,Colts,,
+"
+Kameron Cline",92,DE,6-4,283,24,1,South Dakota,Colts,,
+"
+Shon Coleman",76,T,6-6,310,30,5,Auburn,Colts,,
+"
+Keke Coutee",15,WR,5-11,180,25,4,Texas Tech,Colts,,
+"
+Ashton Dulin",16,WR,6-1,215,24,4,Malone University,Colts,,
+"
+Sam Ehlinger",4,QB,6-1,222,23,2,Texas,Colts,,
+"
+Brandon Facyson",31,DB,6-2,197,27,5,Virginia Tech,Colts,,
+"
+Zaire Franklin",44,LB,6-0,235,25,5,Syracuse,Colts,,
+"
+Will Fries",75,G/T,6-6,309,24,2,Penn State,Colts,,
+"
+Jordan Glasgow",59,LB,6-1,226,25,3,Michigan,Colts,,
+"
+Kylen Granson",83,TE,6-2,242,24,2,SMU,Colts,,
+"
+Farrod Green",86,TE,6-3,245,24,1,Mississippi State,Colts,,
+"
+DeMichael Harris",12,WR,5-8,178,23,2,Southern Mississippi,Colts,,
+"
+Nyheim Hines",21,RB,5-9,196,25,5,North Carolina State,Colts,,
+"
+Deon Jackson",35,RB,6-0,218,23,2,Duke,Colts,,
+"
+Michael Jacobson",80,TE,6-7,244,25,1,Iowa State,Colts,,
+"
+Malik Jefferson",43,LB,6-2,241,25,4,Texas,Colts,,
+"
+Nikola Kalinic",,TE,,,25,1,York (Canada),Colts,,
+"
+Ryan Kelly",78,C,6-4,307,28,7,Alabama,Colts,,
+"
+Darius Leonard",53,LB,6-2,230,26,5,South Carolina State,Colts,,
+"
+Tyquan Lewis",94,DE,6-3,277,27,5,Ohio State,Colts,,
+"
+R.J. McIntosh",,DT,6-4,293,25,4,Miami,Colts,,
+"
+Kenny Moore II",23,CB,5-9,190,26,6,Valdosta State,Colts,,
+"
+James Morgan",9,QB,6-4,229,25,2,Florida International,Colts,,
+"
+Jordan Murray",,T,6-9,325,24,1,North Texas,Colts,,
+"
+Alexander Myres",,CB,5-11,192,25,1,Houston,Colts,,
+"
+Quenton Nelson",56,C/G,6-5,330,26,5,Notre Dame,Colts,,
+"
+Yannick Ngakoue",91,DE,6-2,246,27,7,Maryland,Colts,,
+"
+Carter O'Donnell",61,T,6-5,313,23,1,Alberta (Canada),Colts,,
+"
+Dayo Odeyingbo",54,DE,6-6,276,22,2,Vanderbilt,Colts,,
+"
+Bobby Okereke",58,LB,6-1,235,25,4,Stanford,Colts,,
+"
+Dezmon Patmon",10,WR,6-4,225,23,3,Washington State,Colts,,
+"
+Kwity Paye",51,DE,6-2,261,23,2,Michigan,Colts,,
+"
+Danny Pinter",63,G,6-4,306,25,3,Ball State,Colts,,
+"
+Michael Pittman Jr.",11,WR,6-4,223,24,3,USC,Colts,,
+"
+Matt Pryor",69,T,6-7,332,27,5,TCU,Colts,,
+"
+Will Redmond",29,CB,6-0,186,28,7,Mississippi State,Colts,,
+"
+Luke Rhodes",46,LS,6-2,238,29,6,William & Mary,Colts,,
+"
+Isaiah Rodgers",34,CB,5-10,170,24,3,Massachusetts,Colts,,
+"
+Matt Ryan",2,QB,6-4,220,36,15,Boston College,Colts,,
+"
+Rigoberto Sanchez",8,P,6-0,195,27,6,Hawaii,Colts,,
+"
+Braden Smith",72,T/G,6-6,315,26,5,Auburn,Colts,,
+"
+E.J. Speed",45,LB,6-3,224,26,4,Tarleton State,Colts,,
+"
+Grover Stewart",90,DT,6-4,315,28,6,Albany State (Ga.),Colts,,
+"
+Mike Strachan",17,WR,6-5,224,24,2,Charleston,Colts,,
+"
+Jonathan Taylor",28,RB,5-10,226,23,3,Wisconsin,Colts,,
+"
+Marvell Tell III",39,CB,6-2,195,25,2,Southern California,Colts,,
+"
+Jake Verity",,K,6-2,197,24,1,East Carolina,Colts,,
+"
+Armani Watts",,DB,5-11,205,26,5,Texas A&M,Colts,,
+"
+Chris Wilcox",40,CB,6-2,195,24,1,BYU,Colts,,
+"
+Chris Williams",66,DT,6-2,302,N/A,R,Wagner,Colts,,
+"
+Khari Willis",37,S,5-11,213,25,4,Michigan State,Colts,,
+"
+Eli Wolf",85,TE,6-4,238,25,1,Georgia,Colts,,
+"
+Brandon Aiyuk",11,WR,6-0,200,24,3,Arizona State,49ers,,
+"
+Azeez Al-Shaair",51,LB,6'2,228,24,4,Florida Atlantic,49ers,,
+"
+Arik Armstead",91,DL,6-7,290,28,8,Oregon,49ers,,
+"
+Aaron Banks",65,OL,6-5,325,24,2,Notre Dame,49ers,,
+"
+Alex Barrett",58,DL,6-2,250,28,2,San Diego State,49ers,,
+"
+Nick Bosa",97,DL,6-4,266,24,4,Ohio State,49ers,,
+"
+Jake Brendel",64,OL,6-4,299,29,4,UCLA,49ers,,
+"
+Daniel Brunskill",60,OL,6-5,300,28,4,San Diego State,49ers,,
+"
+Oren Burks",,LB,6-3,233,27,5,Vanderbilt,49ers,,
+"
+Darqueze Dennard",43,CB,5-11,202,30,8,Michigan State,49ers,,
+"
+Ross Dwelley",82,TE,6-5,235,27,5,San Diego,49ers,,
+"
+Samson Ebukam",56,DL,6-3,245,26,6,Eastern Washington,49ers,,
+"
+Demetrius Flannigan-Fowles",45,LB,6-2,223,25,3,Arizona,49ers,,
+"
+Dee Ford",55,DL,6-2,252,31,9,Auburn,49ers,,
+"
+Jimmy Garoppolo",10,QB,6-2,225,30,9,Eastern Illinois,49ers,,
+"
+Kevin Givens",90,DL,6-1,285,25,3,Penn State,49ers,,
+"
+Robbie Gould",9,K,6-0,190,39,18,Penn State,49ers,,
+"
+Dre Greenlaw",57,LB,6-0,230,24,4,Arkansas,49ers,,
+"
+Alfredo Gutierrez",77,OL,6-9,332,26,1,Tecnológico de Monterrey,49ers,,
+"
+JaMycal Hasty",23,RB,5-8,205,25,3,Baylor,49ers,,
+"
+Josh Hokit",40,FB,6-1,225,24,1,Fresno State,49ers,,
+Ka'dar Hollman,,CB,6-0,196,27,3,Toledo,49ers,,
+"
+Tanner Hudson",84,TE,6-5,239,27,3,Southern Arkansas,49ers,,
+"
+Talanoa Hufanga",29,S,6-0,200,23,2,USC,49ers,,
+"
+Maurice Hurst",96,DL,6-2,291,26,5,Michigan,49ers,,
+"
+Kerry Hyder Jr.",92,DL,6-2,275,30,7,Texas Tech,49ers,,
+"
+Jauan Jennings",15,WR,6-3,212,24,2,Tennessee,49ers,,
+"
+Dontae Johnson",27,CB,6-2,200,30,9,North Carolina State,49ers,,
+KeeSean Johnson,,WR,6-1,201,25,3,Fresno State,49ers,,
+"
+Kyle Juszczyk",44,FB,6-1,235,30,10,Harvard,49ers,,
+"
+Javon Kinlaw",99,DT,6-5,319,24,3,South Carolina,49ers,,
+"
+George Kittle",85,TE,6-4,250,28,6,Iowa,49ers,,
+"
+Trey Lance",5,QB,6-4,224,21,2,North Dakota State,49ers,,
+"
+Deommodore Lenoir",38,DB,5-10,200,22,2,Oregon,49ers,,
+"
+Austin Mack",86,WR,6-2,215,24,2,Ohio State,49ers,,
+"
+Alex Mack",50,C,6-4,311,36,14,California-Berkeley,49ers,,
+"
+Jordan Matthews",88,TE,6-3,236,29,7,Vanderbilt,49ers,,
+"
+Ray-Ray McCloud",,WR,5-9,190,25,5,Clemson,49ers,,
+"
+Mike McGlinchey",69,T,6-8,310,27,5,Notre Dame,49ers,,
+"
+Colton McKivitz",68,OL,6-6,301,25,3,West Virginia,49ers,,
+"
+Elijah Mitchell",25,RB,5-10,200,23,2,Louisiana,49ers,,
+"
+Jaylon Moore",76,OL,6-4,311,24,2,Western Michigan,49ers,,
+"
+Tarvarius Moore",33,DB,6-2,200,25,5,Southern Mississippi,49ers,,
+"
+Emmanuel Moseley",4,CB,5-11,190,26,5,Tennessee,49ers,,
+"
+George Odum",,DB,6-1,202,28,5,Central Arkansas,49ers,,
+"
+Charles Omenihu",92,DE,6-5,280,24,4,Texas,49ers,,
+"
+Taybor Pepper",46,LS,6-4,245,27,5,Michigan State,49ers,,
+"
+Hassan Ridgeway",,DT,6-3,305,27,7,Texas,49ers,,
+"
+Curtis Robinson",59,LB,6-3,235,23,2,Stanford,49ers,,
+"
+Deebo Samuel",19,WR,6-0,215,26,4,South Carolina,49ers,,
+"
+Trey Sermon",28,RB,6-0,215,23,2,Ohio State,49ers,,
+"
+Justin Skule",67,OL,6-6,315,25,4,Vanderbilt,49ers,,
+"
+Chris Slayton",78,DT,6-4,316,25,1,Syracuse,49ers,,
+"
+Nate Sudfeld",7,QB,6-6,227,28,6,Indiana,49ers,,
+Keaton Sutherland,,OL,6-5,315,25,3,Texas A&M,49ers,,
+"
+Ambry Thomas",20,CB,6-0,190,22,2,Michigan,49ers,,
+"
+Charvarius Ward",,CB,6-1,196,25,5,Middle Tennessee State,49ers,,
+"
+Jimmie Ward",1,DB,5-11,195,30,9,Northern Illinois,49ers,,
+"
+Fred Warner",54,LB,6-3,230,25,5,BYU,49ers,,
+"
+Connor Wedington",83,WR,6-0,200,22,1,Stanford,49ers,,
+"
+Trent Williams",71,T,6-5,320,33,12,Oklahoma,49ers,,
+"
+Jordan Willis",94,DL,6-4,270,26,6,Kansas State,49ers,,
+"
+Jeff Wilson Jr.",22,RB,6-0,213,26,5,North Texas,49ers,,
+"
+Mitch Wishnowsky",18,P,6-2,220,30,4,Utah,49ers,,
+"
+Charlie Woerner",89,TE,6-5,241,24,3,Georgia,49ers,,
+"
+Ugo Amadi",28,FS,5-9,201,24,4,Oregon,Seahawks,,
+"
+Blessuan Austin",36,DB,6-1,198,25,4,Rutgers,Seahawks,,
+"
+Cody Barton",57,LB,6-2,237,25,4,Utah,Seahawks,,
+"
+Nick Bellore",44,LB,6-1,250,32,12,Central Michigan,Seahawks,,
+"
+Austin Blythe",,G,6-2,298,29,7,Iowa,Seahawks,,
+"
+Jordyn Brooks",56,LB,6-0,240,24,3,Texas Tech,Seahawks,,
+"
+Duane Brown",76,T,6-4,315,36,15,Virginia Tech,Seahawks,,
+"
+Artie Burns",,CB,6-0,197,26,7,Miami,Seahawks,,
+"
+Justin Coleman",,CB,5-11,190,29,8,Tennessee,Seahawks,,
+"
+L.J. Collier",91,DE,6-2,291,26,4,TCU,Seahawks,,
+"
+Jake Curhan",74,OT,6-6,316,24,2,California,Seahawks,,
+"
+DeeJay Dallas",31,RB,5-10,214,23,3,Miami (Fla.),Seahawks,,
+"
+Michael Dickson",4,P,6-2,208,26,5,Texas,Seahawks,,
+"
+Quandre Diggs",6,FS,5-9,197,29,8,Texas,Seahawks,,
+"
+Will Dissly",89,TE,6-4,265,25,5,Washington,Seahawks,,
+"
+Jacob Eason",17,QB,6-6,231,24,3,Washington,Seahawks,,
+"
+Dee Eskridge",1,WR,5-9,190,25,2,Western Michigan,Seahawks,,
+"
+Noah Fant",87,TE,6-4,249,24,4,Iowa,Seahawks,,
+"
+Poona Ford",97,DT,5-11,310,26,5,Texas,Seahawks,,
+"
+Stone Forsythe",78,OT,6-8,307,24,2,Florida,Seahawks,,
+"
+Kyle Fuller",61,C/G,6-5,320,28,4,Baylor,Seahawks,,
+"
+Rasheem Green",94,DE,6-4,279,24,5,USC,Seahawks,,
+"
+Shelby Harris",,DE,6-2,288,30,8,Illinois State,Seahawks,,
+"
+Penny Hart",19,WR,5-8,180,25,3,Georgia State,Seahawks,,
+"
+Phil Haynes",60,G,6-4,322,26,4,Wake Forest,Seahawks,,
+"
+Travis Homer",25,RB,5-10,202,23,4,Miami,Seahawks,,
+"
+Joel Iyiegbuniwe",,LB,6-1,230,26,5,Western Kentucky,Seahawks,,
+"
+Gabe Jackson",66,G,6-3,335,30,9,Mississippi State,Seahawks,,
+"
+Quinton Jefferson",,DT,6-4,291,29,7,Maryland,Seahawks,,
+"
+Josh Johnson",34,RB,5-9,209,24,1,Louisiana-Monroe,Seahawks,,
+"
+Sidney Jones IV",23,CB,6-0,181,25,5,Washington,Seahawks,,
+"
+Damien Lewis",68,G,6-2,327,25,3,LSU,Seahawks,,
+"
+Drew Lock",2,QB,6-4,228,25,4,Missouri,Seahawks,,
+"
+Tyler Lockett",16,WR,5-10,182,29,8,Kansas State,Seahawks,,
+"
+Tyler Mabry",85,TE,6-3,247,25,2,Maryland,Seahawks,,
+"
+DK Metcalf",14,WR,6-4,235,24,4,Ole Miss,Seahawks,,
+"
+Bryan Mone",90,DT,6-3,345,26,3,Michigan,Seahawks,,
+"
+Tanner Muse",58,LB,6-2,227,25,3,Clemson,Seahawks,,
+"
+Jason Myers",5,K,5-10,190,30,8,Marist,Seahawks,,
+"
+Ryan Neal",26,SS,6-3,200,26,3,Southern Illinois,Seahawks,,
+"
+Robert Nkemdiche",92,DT,6-3,296,27,5,Mississippi,Seahawks,,
+"
+Uchenna Nwosu",,LB,6-2,251,25,5,USC,Seahawks,,
+"
+Tyler Ott",69,LS,6-3,253,30,8,Harvard,Seahawks,,
+"
+Colby Parkinson",84,TE,6-7,251,23,3,Stanford,Seahawks,,
+"
+Rashaad Penny",20,RB,5-11,220,26,5,San Diego St.,Seahawks,,
+"
+John Reid",29,CB,5-10,187,25,3,Penn State,Seahawks,,
+"
+Alton Robinson",98,DE,6-3,259,23,3,Syracuse,Seahawks,,
+"
+Dakoda Shepley",64,C,6-5,290,27,2,University of British Columbia,Seahawks,,
+"
+Geno Smith",7,QB,6-3,221,31,10,West Virginia,Seahawks,,
+"
+Freddie Swain",18,WR,6-0,199,23,3,Florida,Seahawks,,
+"
+Darrell Taylor",52,DE,6-4,267,25,2,Tennessee,Seahawks,,
+"
+Nigel Warrior",39,CB,6-1,197,24,2,Tennessee,Seahawks,,
+"
+Al Woods",99,DT,6-4,330,35,12,LSU,Seahawks,,
+"
+Myles Adams",67,DT,6-2,290,24,1,Rice,Seahawks,,
+"
+Matt Cole",87,WR,5-10,197,25,1,McKendree,Seahawks,,
+"
+Aaron Donkor",43,LB,6-1,240,27,1,Arkansas State,Seahawks,,
+"
+Greg Eiland",75,T,6-8,321,24,1,Mississippi State,Seahawks,,
+"
+Aaron Fuller",13,WR,5-11,188,24,1,Washington,Seahawks,,
+"
+Jarrod Hewitt",62,DT,6-1,290,24,1,Virginia Tech,Seahawks,,
+"
+Mike Jackson",30,CB,6-1,210,25,2,Miami,Seahawks,,
+"
+Cade Johnson",88,WR,5-10,184,24,1,South Dakota State,Seahawks,,
+"
+Pier-Olivier Lestage",62,G,6-3,312,24,1,Montreal,Seahawks,,
+"
+Niles Scott",79,NT,6-3,280,26,3,Frostburg State,Seahawks,,
+"
+Alex Tchangam",58,DE,6-3,245,24,1,Colorado,Seahawks,,
+"
+Cody Thompson",11,WR,6-2,205,26,1,Toledo,Seahawks,,
+"
+Darwin Thompson",,RB,5-8,200,25,3,Utah State,Seahawks,,
+"
+Lakiem Williams",47,LB,5-11,220,24,1,Syracuse,Seahawks,,
+"
+Jamal Adams",33,SS,6-1,213,26,5,LSU,Seahawks,,
+"
+Marquise Blair",27,FS,6-1,196,24,4,Utah,Seahawks,,
+"
+Tre Brown",22,CB,5-10,185,24,2,Oklahoma,Seahawks,,
+"
+Ben Burr-Kirven",55,LB,6-0,230,24,4,Washington,Seahawks,,
+"
+Chris Carson",32,RB,5-11,222,27,6,Oklahoma State,Seahawks,,
+"
+Alex Collins",41,RB,5-10,210,27,5,Arkansas,Seahawks,,
+"
+Gavin Heslop",38,CB,6-0,197,24,2,Stony Brook,Seahawks,,
+"
+Adrian Peterson",21,RB,6-1,217,N/A,R,Oklahoma,Seahawks,,
+"
+Jon Rhattigan",59,LB,6-0,236,23,2,Army,Seahawks,,
+"
+Brandon Shell",72,T,6-5,324,30,7,South Carolina,Seahawks,,
+"
+John Ursua",15,WR,5-9,182,28,3,Hawaii,Seahawks,,
+"
+Marcus Webb",48,DE,6-2,247,24,2,Troy,Seahawks,,
+Cam Akers,23,RB,5-10,217,22,2,Florida State,Rams,,
+"
+Brian Allen",55,OL,6-2,303,26,5,Michigan State,Rams,,
+"
+Tremayne Anchrum Jr.",72,OL,6-2,314,23,3,Clemson,Rams,,
+"
+Odell Beckham Jr.",3,WR,5-11,198,29,9,LSU,Rams,,
+"
+Kendall Blanton",86,TE,6-6,262,26,2,Missouri,Rams,,
+"
+Bobby Brown III",95,DL,6-4,235,21,2,Texas A&M,Rams,,
+"
+Terrell Burgess",26,S,5-11,202,24,3,Utah,Rams,,
+"
+Marquise Copeland",93,DL,6-2,287,24,2,Cincinnati,Rams,,
+Blake Countess,36,CB,5-9,184,N/A,R,Auburn,Rams,,
+"
+Dont'e Deayon",21,CB,5-9,159,28,5,Boise State,Rams,,
+"
+Riley Dixon",,P,6-4,221,28,7,Syracuse,Rams,,
+"
+Aaron Donald",99,DL,6-1,280,30,9,Pittsburgh,Rams,,
+"
+David Edwards",73,OL,6-6,308,25,4,Wisconsin,Rams,,
+"
+Bobby Evans",71,OL,6-4,312,25,4,Oklahoma,Rams,,
+"
+Leonard Floyd",54,OLB,6-5,240,29,7,Georgia,Rams,,
+"
+Jake Funk",34,RB,5-10,205,24,2,Maryland,Rams,,
+"
+Greg Gaines",91,DL,6-1,312,25,4,Washington,Rams,,
+"
+Chris Garrett",48,OLB,6-4,245,23,2,Concordia College St. Paul,Rams,,
+"
+Matt Gay",8,K,6-0,232,28,4,Utah,Rams,,
+"
+Jake Gervase",39,S,6-1,212,26,2,Iowa,Rams,,
+Grant Haley,46,DB,5-9,190,26,3,Penn State,Rams,,
+"
+Rob Havenstein",79,OL,6-8,330,29,8,Wisconsin,Rams,,
+"
+Darrell Henderson Jr.",27,RB,5-8,208,24,4,Memphis,Rams,,
+"
+Michael Hoecht",96,DL,6-4,310,24,2,Brown,Rams,,
+"
+Justin Hollins",58,LB,6-5,248,26,4,Oregon,Rams,,
+"
+Brycen Hopkins",88,TE,6-4,245,25,3,Purdue,Rams,,
+"
+Travin Howard",32,ILB,6-1,219,25,4,TCU,Rams,,
+Buddy Howell,38,RB,6-1,225,26,5,Florida Atlantic,Rams,,
+"
+AJ Jackson",68,OL,6-7,285,23,2,Iowa,Rams,,
+"
+Van Jefferson",12,WR,6-1,200,25,3,Florida,Rams,,
+"
+Ernest Jones",50,LB,6-2,230,22,2,South Carolina,Rams,,
+"
+Cooper Kupp",10,WR,6-2,208,28,6,Eastern Washington,Rams,,
+"
+Terrell Lewis",52,OLB,6-5,262,23,3,Alabama,Rams,,
+"
+David Long Jr.",22,CB,5-11,196,24,4,Michigan,Rams,,
+"
+Sony Michel",25,RB,5-11,215,27,5,Georgia,Rams,,
+"
+Matthew Orzech",42,LS,6-3,245,27,3,Azusa Pacific,Rams,,
+"
+Bryce Perkins",16,QB,6-3,214,25,2,Virginia,Rams,,
+"
+Brandon Powell",19,WR,5-8,181,26,5,Florida,Rams,,
+"
+Jalen Ramsey",5,DB,6-2,208,27,7,Florida State,Rams,,
+"
+Taylor Rapp",24,S,6-0,208,24,4,Washington,Rams,,
+"
+Troy Reeder",51,ILB,6-3,245,27,4,Delaware,Rams,,
+"
+A'Shawn Robinson",94,DL,6-4,330,27,7,Alabama,Rams,,
+"
+Allen Robinson II",1,WR,6-2,210,28,9,Penn State,Rams,,
+"
+Christian Rozeboom",56,LB,6-2,230,25,2,South Dakota State,Rams,,
+"
+Nick Scott",33,S,5-11,201,26,4,Penn State,Rams,,
+"
+Coleman Shelton",65,OL,6-4,299,26,4,Washington,Rams,,
+"
+Ben Skowronek",18,WR,6-3,224,24,2,Notre Dame,Rams,,
+"
+Matthew Stafford",9,QB,6-3,220,34,14,Georgia,Rams,,
+"
+Bobby Wagner",45,LB,6-0,241,31,11,Utah State,Rams,,
+"
+Andrew Whitworth",77,OL,6-7,330,40,17,LSU,Rams,,
+"
+John Wolford",13,QB,6-1,216,26,3,Wake Forest,Rams,,
+"
+Landen Akers",84,WR,6-0,191,24,1,Iowa State,Rams,,
+"
+Chandler Brewer",67,OL,6-6,320,24,2,Middle Tennessee State,Rams,,
+Antoine Brooks Jr.,39,LB,5-11,210,24,3,Maryland,Rams,,
+"
+Earnest Brown IV",90,DL,6-5,270,23,1,Northwestern,Rams,,
+Adrian Ealy,,OT,6-6,321,22,1,Oklahoma,Rams,,
+Tyler Hall,37,DB,5-10,190,23,2,Wyoming,Rams,,
+Javian Hawkins,14,RB,5-9,196,22,1,Louisville,Rams,,
+Anthony Hines III,57,LB,6-3,226,23,1,Texas A&M,Rams,,
+Warren Jackson,83,WR,6-6,219,22,1,Colorado State,Rams,,
+"
+Jeremiah Kolone",60,OL,6-3,316,27,1,San Jose State,Rams,,
+"
+J.J. Koski",17,WR,6-1,195,25,1,Cal Poly,Rams,,
+Kyle Markway,47,TE,6-4,250,25,1,South Carolina,Rams,,
+"
+Kareem Orr",35,DB,5-11,195,25,2,Tennessee-Chattanooga,Rams,,
+"
+Max Pircher",66,OL,6-7,300,22,1,Italy,Rams,,
+"
+Jonah Williams",92,DL,6-5,275,26,2,Weber State,Rams,,
+"
+Tutu Atwell",15,WR,5-9,165,22,2,Louisville,Rams,,
+"
+Raymond Calais",30,RB,5-8,188,24,3,Louisiana-Lafayette,Rams,,
+"
+Jamil Demby",64,OL,6-5,321,25,3,Maine,Rams,,
+"
+Jordan Fuller",4,S,6-2,203,24,3,Ohio State,Rams,,
+"
+Jacob Harris",87,TE,6-5,211,24,2,UCF,Rams,,
+"
+Tyler Higbee",89,TE,6-6,255,29,7,Western Kentucky,Rams,,
+"
+Johnny Mundt",82,TE,6-4,233,27,5,Oregon,Rams,,
+"
+Joe Noteboom",70,OL,6-5,321,26,5,TCU,Rams,,
+"
+Zach Allen",94,DE,6-4,281,24,4,Boston College,Cardinals,,
+"
+Stephen Anderson",,TE,6-2,230,29,5,California,Cardinals,,
+"
+Andre Baccellia",82,WR,5-10,175,25,1,Washington,Cardinals,,
+"
+Budda Baker",3,S,5-10,195,26,6,Washington,Cardinals,,
+"
+Kelvin Beachum",68,OL,6-3,308,32,11,Southern Methodist,Cardinals,,
+"
+Eno Benjamin",26,RB,5-9,207,23,3,Arizona State,Cardinals,,
+"
+Breon Borders",21,CB,6-0,189,26,4,Duke,Cardinals,,
+"
+Aaron Brewer",46,LS,6-5,232,31,11,San Diego State,Cardinals,,
+"
+Nate Brooks",37,CB,6-0,192,N/A,R,Miami,Cardinals,,
+"
+Zaven Collins",25,ILB,6-4,260,22,2,Tulsa,Cardinals,,
+"
+James Conner",6,RB,6-1,233,26,6,Pittsburgh,Cardinals,,
+Nolan Cooney,,P,6-3,202,25,1,Syracuse,Cardinals,,
+"
+Matt Dickerson",56,DE,6-5,292,26,4,UCLA,Cardinals,,
+"
+Victor Dimukeje",52,OLB,6-2,265,22,2,Duke,Cardinals,,
+"
+Michael Dogbe",91,DE,6-3,295,25,3,Temple,Cardinals,,
+"
+Greg Dortch",83,WR,5-7,175,23,2,Wake Forest,Cardinals,,
+"
+Alex Ellis",36,TE,6-4,240,29,3,Tennessee,Cardinals,,
+"
+Zach Ertz",86,TE,6-5,250,31,10,Stanford,Cardinals,,
+"
+Leki Fotu",95,DT,6-5,330,23,3,Utah,Cardinals,,
+"
+Dennis Gardeck",45,OLB,6-0,232,27,5,Sioux Falls,Cardinals,,
+Jeff Gladney,,CB,5-10,191,25,2,TCU,Cardinals,,
+"
+Markus Golden",44,OLB,6-3,260,31,8,Missouri,Cardinals,,
+"
+Javon Hagan",32,S,6-0,215,25,1,Ohio,Cardinals,,
+"
+Sean Harlow",64,OL,6-4,284,27,3,Oregon State,Cardinals,,
+"
+Marcus Henry",53,OL,6-2,303,29,2,Boise State,Cardinals,,
+"
+Will Hernandez",,OL,6-2,335,26,5,Texas-El Paso,Cardinals,,
+"
+DeAndre Hopkins",10,WR,6-1,212,29,9,Clemson,Cardinals,,
+"
+Rodney Hudson",61,OL,6-2,315,32,12,Florida State,Cardinals,,
+"
+D.J. Humphries",74,OL,6-5,307,28,8,Florida,Cardinals,,
+"
+Andy Isabella",17,WR,5-9,188,25,4,Massachusetts,Cardinals,,
+"
+Danny Isidora",63,OL,6-3,306,27,4,Miami,Cardinals,,
+"
+Josh Jones",79,OL,6-5,319,24,3,Houston,Cardinals,,
+"
+Devon Kennard",42,OLB,6-3,256,30,9,USC,Cardinals,,
+"
+Rashard Lawrence",90,DT,6-2,308,23,3,LSU,Cardinals,,
+"
+Jonathan Ledbetter",93,DE,6-4,280,24,2,Georgia,Cardinals,,
+"
+Andy Lee",14,P,6-1,185,39,19,Pittsburgh,Cardinals,,
+"
+Koda Martin",60,OL,6-7,300,26,2,Syracuse,Cardinals,,
+"
+Colt McCoy",12,QB,6-1,212,35,13,Texas,Cardinals,,
+"
+Trace McSorley",19,QB,6-0,202,26,4,Penn State,Cardinals,,
+"
+Joshua Miles",66,OL,6-5,314,26,4,Morgan State,Cardinals,,
+"
+Rondale Moore",4,WR,5-7,180,21,2,Purdue,Cardinals,,
+"
+Byron Murphy Jr.",7,CB,5-11,190,24,4,Washington,Cardinals,,
+"
+Justin Murray",71,OL,6-5,315,28,5,Cincinnati,Cardinals,,
+"
+Kyler Murray",1,QB,5-10,207,24,4,Oklahoma,Cardinals,,
+"
+Matt Prater",5,K,5-10,201,37,16,UCF,Cardinals,,
+"
+Justin Pugh",67,OL,6-5,311,31,10,Syracuse,Cardinals,,
+"
+Jaylen Samuels",,RB,6-0,225,25,4,N.C. State,Cardinals,,
+"
+Bernhard Seikovits",80,TE,6-5,262,24,1,Austria,Cardinals,,
+"
+Isaiah Simmons",9,ILB,6-4,238,23,3,Clemson,Cardinals,,
+"
+Eric Smith",72,OT,6-4,321,26,3,Virginia,Cardinals,,
+"
+Deionte Thompson",22,S,6-1,195,25,4,Alabama,Cardinals,,
+"
+Jalen Thompson",34,S,5-11,190,23,4,Washington State,Cardinals,,
+"
+Ezekiel Turner",47,ILB,6-2,214,25,5,Washington,Cardinals,,
+"
+Tanner Vallejo",51,ILB,6-1,230,27,6,Boise State,Cardinals,,
+"
+Nick Vigil",,ILB,6-2,239,28,7,Utah State,Cardinals,,
+"
+Joe Walker",59,ILB,6-2,236,29,7,Oregon,Cardinals,,
+"
+J.J. Watt",99,DE,6-5,288,33,12,Wisconsin,Cardinals,,
+"
+David Wells",41,TE,6-6,260,26,3,San Diego State,Cardinals,,
+"
+Antoine Wesley",85,WR,6-4,206,24,3,Texas Tech,Cardinals,,
+"
+Jace Whittaker",39,CB,5-11,185,26,1,Arizona,Cardinals,,
+"
+James Wiggins",38,S,5-11,205,24,2,Cincinnati,Cardinals,,
+"
+Maxx Williams",87,TE,6-4,252,28,8,Minnesota,Cardinals,,
+"
+Marco Wilson",20,CB,5-11,187,23,2,Florida,Cardinals,,
+"
+Deon Yelder",,TE,6-4,255,27,4,Western Kentucky,Cardinals,,
+"
+Jonathan Ward",29,RB,6-0,202,24,3,Central Michigan,Cardinals,,
+"
+Robert Alford",23,CB,5-10,186,33,10,Southeastern Louisiana,Cardinals,,
+"
+Chris Banjo",31,S,5-10,207,32,9,Southern Methodist,Cardinals,,
+"
+Jack Crawford",69,DE,6-5,281,33,11,Penn State,Cardinals,,
+"
+Darrell Daniels",81,TE,6-3,256,27,6,Washington,Cardinals,,
+"
+Kylie Fitts",49,OLB,6-4,260,27,4,Utah,Cardinals,,
+"
+A.J. Green",18,WR,6-4,207,33,12,Georgia,Cardinals,,
+"
+Antonio Hamilton",33,CB,6-0,188,29,7,South Carolina State,Cardinals,,
+"
+Demetrius Harris",84,TE,6-7,230,30,9,Wisconsin-Milwaukee,Cardinals,,
+"
+Corey Peters",98,DT,6-3,335,33,13,Kentucky,Cardinals,,
+"
+Charles Washington",28,S,5-10,192,29,6,Fresno State,Cardinals,,
+"
+Jaire Alexander",23,CB,5-10,196,25,5,Louisville,Packers,,
+"
+Adrian Amos",31,S,6-0,214,28,8,Penn State,Packers,,
+"
+David Bakhtiari",69,T,6-4,310,30,10,Colorado,Packers,,
+"
+Kurt Benkert",6,QB,6-3,218,26,2,Virginia,Packers,,
+"
+Chris Blair",19,WR,6-2,198,24,1,Alcorn State,Packers,,
+"
+De'Vondre Campbell",59,LB,6-3,232,28,7,Minnesota,Packers,,
+"
+Kenny Clark",97,DL,6-3,314,26,7,UCLA,Packers,,
+"
+Randall Cobb",18,WR,5-10,195,31,12,Kentucky,Packers,,
+"
+Mason Crosby",2,K,6-1,207,37,16,Colorado,Packers,,
+"
+Shawn Davis",30,S,5-11,202,24,1,Florida,Packers,,
+"
+Tyler Davis",84,TE,6-4,252,25,3,Georgia Tech,Packers,,
+"
+Josiah Deguara",81,TE,6-2,238,25,3,Cincinnati,Packers,,
+"
+AJ Dillon",28,RB,6-0,247,23,3,Boston College,Packers,,
+"
+Rasul Douglas",29,CB,6-2,209,26,6,West Virginia,Packers,,
+"
+Dominik Eberle",7,K,6-2,190,25,1,Utah State,Packers,,
+"
+Kabion Ento",48,CB,6-1,187,26,2,Colorado,Packers,,
+"
+Danny Etling",9,QB,6-3,222,27,1,LSU,Packers,,
+"
+Rico Gafford",80,WR,5-10,184,25,2,Wyoming,Packers,,
+"
+Innis Gaines",38,S,6-1,202,23,1,TCU,Packers,,
+"
+Tipa Galeai",40,LB,6-5,229,25,2,Utah State,Packers,,
+"
+Jonathan Garvin",53,LB,6-4,257,22,3,Miami,Packers,,
+"
+Rashan Gary",52,LB,6-5,277,24,4,Michigan,Packers,,
+"
+La'Darius Hamilton",54,LB,6-2,261,24,2,North Texas,Packers,,
+"
+Jack Heflin",96,DL,6-3,304,24,2,Iowa,Packers,,
+"
+Kylin Hill",32,RB,5-10,214,23,2,Mississippi State,Packers,,
+"
+Shemar Jean-Charles",22,CB,5-10,184,23,2,Appalachian State,Packers,,
+"
+Elgton Jenkins",74,G,6-5,311,26,4,Mississippi State,Packers,,
+"
+Aaron Jones",33,RB,5-9,208,27,6,Texas-El Paso,Packers,,
+"
+Marcedes Lewis",89,TE,6-6,267,37,17,UCLA,Packers,,
+"
+Jordan Love",10,QB,6-4,219,23,3,Utah State,Packers,,
+"
+Dean Lowry",94,DL,6-6,296,27,7,Northwestern,Packers,,
+"
+Alizé Mack",47,TE,6-4,251,25,1,Notre Dame,Packers,,
+"
+Isaiah McDuffie",58,LB,6-1,227,22,2,Boston College,Packers,,
+"
+Michal Menet",65,C,6-4,301,24,1,Penn State,Packers,,
+"
+JJ Molson",11,K,5-11,180,25,1,UCLA,Packers,,
+"
+Josh Myers",71,C/G,6-5,310,23,2,Ohio State,Packers,,
+"
+Royce Newman",70,T/G,6-5,310,24,2,Mississippi,Packers,,
+"
+Keisean Nixon",25,CB,5-10,200,24,4,South Carolina,Packers,,
+"
+Pat O'Donnell",16,P,6-4,220,31,9,Miami,Packers,,
+"
+Jarran Reed",90,DL,6-3,307,29,7,Alabama,Packers,,
+"
+Aaron Rodgers",12,QB,6-2,225,38,18,California,Packers,,
+"
+Amari Rodgers",8,WR,5-9,212,22,2,Clemson,Packers,,
+"
+Jon Runyan",76,G,6-4,307,24,3,Michigan,Packers,,
+"
+Darnell Savage",26,S,5-11,198,24,4,Maryland,Packers,,
+"
+Vernon Scott",36,S,6-2,202,24,3,TCU,Packers,,
+"
+T.J. Slaton",93,DL,6-4,330,24,2,Florida,Packers,,
+"
+Preston Smith",91,LB,6-5,265,29,8,Mississippi State,Packers,,
+"
+Eric Stokes",21,CB,6-0,194,23,2,Georgia,Packers,,
+"
+Ty Summers",44,LB,6-1,241,26,4,TCU,Packers,,
+"
+Patrick Taylor",27,RB,6-2,217,23,2,Memphis,Packers,,
+"
+Kiondre Thomas",43,CB,6-0,186,24,1,Kansas State,Packers,,
+"
+Robert Tonyan",85,TE,6-5,240,27,5,Indiana State,Packers,,
+"
+Cole Van Lanen",78,T/G,6-4,305,23,1,Wisconsin,Packers,,
+"
+Ray Wilborn",57,LB,6-3,230,25,1,Ball State,Packers,,
+"
+Juwann Winfree",88,WR,6-1,210,25,3,Colorado,Packers,,
+"
+Steven Wirtel",46,LS,6-4,228,24,2,Iowa State,Packers,,
+"
+Krys Barnes",51,LB,6-2,229,24,3,UCLA,Packers,,
+"
+Dominique Dafney",49,TE,6-2,243,24,2,Indiana State,Packers,,
+"
+Jake Hanson",67,C,6-4,296,24,2,Oregon,Packers,,
+"
+Yosh Nijman",73,T,6-7,314,26,3,Virginia Tech,Packers,,
+"
+Randy Ramsey",56,LB,6-3,238,26,3,Arkansas,Packers,,
+"
+Malik Taylor",86,WR,6-1,220,26,3,Ferris State,Packers,,
+"
+Allen Lazard",13,WR,6-5,227,26,4,Iowa State,Packers,,
+"
+Dennis Kelly",79,T,6-8,321,32,11,Purdue,Packers,,
+"
+Kevin King",20,CB,6-3,200,26,6,Washington,Packers,,
+"
+Tyler Lancaster",95,DL,6-3,313,27,5,Northwestern,Packers,,
+Jordan Berry,3,P,6-5,195,31,8,Eastern Kentucky,Vikings,,
+"
+Tuf Borland",47,LB,6-1,233,24,1,Ohio State,Vikings,,
+"
+Kris Boyd",29,CB,5-11,195,25,4,Texas,Vikings,,
+"
+Garrett Bradbury",56,C,6-3,300,26,4,North Carolina State,Vikings,,
+"
+Blake Brandel",64,T,6-7,315,25,2,Oregon State,Vikings,,
+"
+Camryn Bynum",43,S,6-0,200,23,2,California,Vikings,,
+"
+Dan Chisena",85,WR,6-3,203,25,3,Penn State,Vikings,,
+"
+Ezra Cleveland",72,G,6-6,312,23,3,Boise State,Vikings,,
+"
+Ryan Connelly",57,LB,6-2,234,26,4,Wisconsin,Vikings,,
+"
+Dalvin Cook",4,RB,5-10,210,26,6,Florida State,Vikings,,
+"
+Kirk Cousins",8,QB,6-3,205,33,11,Michigan State,Vikings,,
+"
+Cameron Dantzler",27,CB,6-2,190,23,3,Mississippi State,Vikings,,
+"
+Christian Darrisaw",71,T,6-5,315,22,2,Virginia Tech,Vikings,,
+"
+Zach Davidson",40,TE,6-7,251,23,1,Central Missouri,Vikings,,
+"
+Jesse Davis",,OL,6-6,318,30,6,Idaho,Vikings,,
+"
+Wyatt Davis",51,G,6-4,315,23,2,Ohio State,Vikings,,
+"
+Andrew DePaola",42,LS,6-1,229,34,8,Rutgers,Vikings,,
+"
+Myles Dorn",46,S,6-2,210,23,3,North Carolina,Vikings,,
+"
+Troy Dye",45,LB,6-3,225,25,3,Oregon,Vikings,,
+"
+Ben Ellefson",82,TE,6-3,250,25,3,North Dakota State,Vikings,,
+"
+Nate Hairston",,CB,6-0,185,27,6,Temple,Vikings,,
+"
+C.J. Ham",30,FB,5-11,250,28,6,Augustana (S.D.),Vikings,,
+"
+Harrison Hand",20,CB,5-11,185,23,3,Temple,Vikings,,
+"
+Jordan Hicks",,LB,6-1,236,29,8,Texas,Vikings,,
+"
+Kyle Hinton",68,G,6-2,315,24,1,Washburn,Vikings,,
+"
+Danielle Hunter",99,DE,6-5,263,27,8,LSU,Vikings,,
+"
+Trishton Jackson",9,WR,6-1,191,24,2,Syracuse,Vikings,,
+"
+Justin Jefferson",18,WR,6-1,195,22,3,LSU,Vikings,,
+"
+Bisi Johnson",81,WR,6-0,210,25,4,Colorado State,Vikings,,
+"
+Patrick Jones II",93,DE,6-4,264,23,2,Pittsburgh,Vikings,,
+"
+Greg Joseph",1,K,6-0,206,27,3,Florida Atlantic,Vikings,,
+"
+Eric Kendricks",54,LB,6-0,232,30,8,UCLA,Vikings,,
+"
+Blake Lynch",48,LB,6-3,233,25,2,Baylor,Vikings,,
+"
+James Lynch",92,DT,6-4,295,23,3,Baylor,Vikings,,
+"
+Sean Mannion",14,QB,6-6,230,29,8,Oregon State,Vikings,,
+"
+Alexander Mattison",25,RB,5-11,215,23,4,Boise State,Vikings,,
+"
+T.Y. McGill",91,DT,6-0,294,29,7,N.C. State,Vikings,,
+"
+Josh Metellus",44,S,5-11,207,24,3,Michigan,Vikings,,
+"
+Myron Mitchell",87,WR,6-1,185,23,1,UAB,Vikings,,
+"
+Kellen Mond",11,QB,6-3,212,22,2,Texas A&M,Vikings,,
+"
+Johnny Mundt",,TE,6-4,233,27,5,Oregon,Vikings,,
+"
+Parry Nickerson",39,CB,5-10,179,27,4,Tulane,Vikings,,
+"
+Kene Nwangwu",26,RB,6-1,210,24,2,Iowa State,Vikings,,
+"
+Brian O'Neill",75,T,6-7,310,26,5,Pittsburgh,Vikings,,
+"
+K.J. Osborn",17,WR,5-11,203,24,3,Miami (Fla.),Vikings,,
+"
+Timon Parris",61,T,6-6,330,26,1,Stony Brook,Vikings,,
+"
+Patrick Peterson",7,CB,6-1,197,31,12,LSU,Vikings,,
+"
+Harrison Phillips",,DT,6-3,307,26,5,Stanford,Vikings,,
+"
+Blake Proehl",13,WR,6-1,190,23,2,East Carolina,Vikings,,
+"
+Chris Reed",,G,6-3,314,29,7,Minnesota State,Vikings,,
+"
+Janarius Robinson",95,DE,6-5,258,22,2,Florida State,Vikings,,
+"
+A.J. Rose Jr.",36,RB,6-1,211,24,1,Kentucky,Vikings,,
+"
+Austin Schlottmann",,G/C,6-6,300,26,4,TCU,Vikings,,
+"
+Jordon Scott",66,DT,6-1,326,23,2,Oregon,Vikings,,
+"
+Harrison Smith",22,S,6-2,211,33,11,Notre Dame,Vikings,,
+"
+Irv Smith Jr.",84,TE,6-2,240,23,4,Alabama,Vikings,,
+"
+T.J. Smith",50,DT,6-3,303,24,1,Arkansas,Vikings,,
+"
+Tye Smith",,CB,6-0,190,28,6,Towson State,Vikings,,
+"
+Za'Darius Smith",,LB,6-4,272,29,8,Kentucky,Vikings,,
+"
+Ihmir Smith-Marsette",15,WR,6-1,185,22,2,Iowa,Vikings,,
+"
+Nate Stanley",,QB,6-4,233,24,2,Iowa,Vikings,,
+"
+Chandon Sullivan",,CB,5-11,189,25,5,Georgia State,Vikings,,
+"
+Chazz Surratt",41,LB,6-2,233,25,2,North Carolina,Vikings,,
+"
+Jullian Taylor",,DT,6-5,300,N/A,R,Temple,Vikings,,
+"
+Adam Thielen",19,WR,6-2,200,31,9,Minnesota State,Vikings,,
+"
+Dalvin Tomlinson",94,DT,6-3,325,28,6,Alabama,Vikings,,
+"
+Jaylen Twyman",76,DT,6-2,285,22,1,Pittsburgh,Vikings,,
+"
+Olisaemeka Udoh",74,G,6-6,320,25,4,Elon,Vikings,,
+"
+Armon Watts",96,DT,6-5,307,25,4,Arkansas,Vikings,,
+"
+Kenny Willekes",79,DE,6-3,264,24,3,Michigan State,Vikings,,
+"
+D.J. Wonnum",98,DE,6-5,258,24,3,South Carolina,Vikings,,
+"
+Auzoyah Alufohai",79,DL,6-4,320,25,1,West Georgia,Bears,,
+"
+Jeremiah Attaochu",50,LB,6-3,262,29,9,Georgia Tech,Bears,,
+"
+Angelo Blackson",90,DL,6-4,315,29,8,Auburn,Bears,,
+"
+Khari Blasingame",35,FB,6-0,233,25,4,Vanderbilt,Bears,,
+"
+Larry Borom",75,OL,6-5,333,23,2,Missouri,Bears,,
+"
+Isaiah Coulter",82,WR,6-2,198,23,2,Rhode Island,Bears,,
+"
+Dane Cruikshank",29,DB,6-1,209,26,5,Arizona,Bears,,
+"
+Noah Dawkins",38,LB,6-1,235,24,2,The Citadel,Bears,,
+"
+Dakota Dozier",78,OL,6-4,312,30,9,Furman,Bears,,
+"
+Mario Edwards Jr.",97,DL,6-3,277,28,8,Florida State,Bears,,
+"
+Dieter Eiselen",60,OL,6-4,320,25,1,Yale,Bears,,
+"
+Darrynton Evans",21,RB,5-10,203,23,3,Appalachian State,Bears,,
+"
+Justin Fields",1,QB,6-3,228,23,2,Ohio State,Bears,,
+"
+Nick Foles",9,QB,6-6,262,33,11,Arizona,Bears,,
+"
+Trevis Gipson",99,LB,6-4,263,24,3,Tulsa,Bears,,
+"
+Thomas Graham Jr.",27,DB,5-11,197,22,1,Oregon,Bears,,
+"
+Ryan Griffin",,TE,6-6,255,32,10,Connecticut,Bears,,
+"
+Khalil Herbert",24,RB,5-9,212,23,2,Virginia Tech,Bears,,
+"
+Jesper Horsted",87,TE,6-4,241,25,3,Princeton,Bears,,
+"
+DeAndre Houston-Carson",36,DB,6-0,202,29,7,William & Mary,Bears,,
+"
+Eddie Jackson",4,DB,6-0,206,28,6,Alabama,Bears,,
+"
+Lamar Jackson",23,DB,6-2,208,24,2,Nebraska,Bears,,
+"
+Teven Jenkins",76,OL,6-6,321,24,2,Oklahoma State,Bears,,
+"
+Caleb Johnson",92,LB,6-2,227,23,2,Houston Baptist University,Bears,,
+"
+Jaylon Johnson",33,DB,6-0,196,22,3,Utah,Bears,,
+"
+Justin Jones",93,DL,6-3,309,25,5,North Carolina State,Bears,,
+"
+Michael Joseph",30,DB,6-0,194,27,2,Dubuque,Bears,,
+"
+Sam Kamara",46,LB,6-2,288,24,2,Stony Brook,Bears,,
+"
+BoPete Keyes",26,DB,6-1,202,24,3,Tulane,Bears,,
+"
+Cole Kmet",85,TE,6-6,260,23,3,Notre Dame,Bears,,
+"
+LaCale London",63,DL,6-5,316,24,1,Western Illinois,Bears,,
+"
+Ledarius Mack",43,LB,6-1,237,25,1,Buffalo,Bears,,
+"
+David Montgomery",32,RB,5-11,224,24,4,Iowa State,Bears,,
+"
+Darnell Mooney",11,WR,5-11,173,24,3,Tulane,Bears,,
+"
+Nicholas Morrow",53,LB,6-0,216,26,6,Greenville,Bears,,
+"
+Al-Quadin Muhammad",55,DL,6-3,250,27,6,Miami,Bears,,
+"
+Sam Mustipher",67,OL,6-2,332,25,3,Notre Dame,Bears,,
+"
+Dazz Newsome",83,WR,5-10,184,22,1,North Carolina,Bears,,
+"
+Lucas Patrick",62,OL,6-3,313,28,6,Duke,Bears,,
+"
+Byron Pringle",13,WR,6-1,203,28,5,Kansas State,Bears,,
+"
+Robert Quinn",94,LB,6-4,245,31,12,North Carolina,Bears,,
+"
+Cairo Santos",2,K,5-8,175,30,8,Tulane,Bears,,
+"
+Patrick Scales",48,LS,6-3,226,34,7,Utah State,Bears,,
+"
+Duke Shelley",20,DB,5-9,176,25,4,Kansas State,Bears,,
+"
+Trevor Siemian",15,QB,6-3,220,30,7,Northwestern,Bears,,
+"
+Lachavious Simmons",73,OL,6-5,319,25,3,Tennessee State,Bears,,
+"
+Roquan Smith",58,LB,6-1,232,25,5,Georgia,Bears,,
+"
+Charles Snowden",49,LB,6-7,245,24,1,Virginia,Bears,,
+"
+Equanimeous St. Brown",19,WR,6-5,214,25,5,Notre Dame,Bears,,
+"
+Joe Thomas",45,LB,6-1,227,30,8,South Carolina State,Bears,,
+"
+Khyiris Tonga",95,DL,6-4,338,25,2,BYU,Bears,,
+"
+Kindle Vildor",22,DB,5-11,189,24,3,Georgia Southern,Bears,,
+"
+Nsimba Webster",10,WR,5-10,180,26,4,Eastern Washington,Bears,,
+"
+Tyrone Wheatley Jr.",72,OL,6-6,326,25,1,Stony Brook,Bears,,
+"
+Cody Whitehair",65,OL,6-3,316,29,7,Kansas State,Bears,,
+"
+Ryan Willis",14,QB,6-4,211,N/A,R,Virginia Tech,Bears,,
+"
+Ryan Winslow",8,P,6-5,217,27,1,Pittsburgh,Bears,,
+"
+Willie Wright",64,OL,6-3,300,26,1,Tulsa,Bears,,
+"
+Alex Anzalone",34,LB,6-3,237,27,6,Florida,Lions,,
+"
+Eric Banks",94,DE,6-5,274,24,2,Texas-San Antonio,Lions,,
+"
+Derrick Barnes",55,LB,6-0,238,22,2,Purdue,Lions,,
+"
+Tavante Beckett",59,LB,5-11,220,24,1,Marshall,Lions,,
+"
+Trinity Benson",17,WR,6-0,180,25,2,East Central,Lions,,
+"
+Rashod Berry",43,OLB,6-4,255,25,2,Ohio State,Lions,,
+"
+David Blough",10,QB,6-1,205,26,4,Purdue,Lions,,
+"
+Chris Board",,LB,6-2,229,26,5,North Dakota State,Lions,,
+"
+Curtis Bolton",49,LB,6-0,228,26,2,Oklahoma,Lions,,
+"
+Tim Boyle",12,QB,6-4,227,27,5,Eastern Kentucky,Lions,,
+"
+Brady Breeze",15,S,6-0,200,24,2,Oregon,Lions,,
+"
+Michael Brockers",91,DE,6-5,297,31,11,LSU,Lions,,
+"
+Evan Brown",63,C,6-3,320,25,4,Southern Methodist,Lions,,
+"
+Austin Bryant",2,OLB,6-5,260,25,4,Clemson,Lions,,
+"
+Hunter Bryant",86,TE,6-2,245,23,2,Washington,Lions,,
+"
+Jason Cabinda",45,FB,6-1,240,26,4,Penn State,Lions,,
+"
+Quintez Cephus",87,WR,6-1,208,24,3,Wisconsin,Lions,,
+"
+DJ Chark",,WR,6-3,198,25,5,LSU,Lions,,
+"
+Jashon Cornell",96,DE,6-3,297,25,3,Ohio State,Lions,,
+"
+Scott Daly",47,LS,6-1,245,28,2,Notre Dame,Lions,,
+"
+Jarrad Davis",,LB,6-1,245,27,6,Florida,Lions,,
+"
+Taylor Decker",68,T,6-7,324,28,7,Ohio State,Lions,,
+"
+Jalen Elliott",42,S,6-0,206,23,2,Notre Dame,Lions,,
+"
+Jack Fox",3,P,6-2,215,25,3,Rice,Lions,,
+"
+Mark Gilbert",40,CB,6-1,190,24,2,Duke,Lions,,
+"
+Jared Goff",16,QB,6-4,217,27,7,California,Lions,,
+"
+Garrett Griffin",,TE,6-4,240,28,4,Air Force,Lions,,
+"
+Shaun Dion Hamilton",50,LB,6-0,235,26,5,Alabama,Lions,,
+"
+Charles Harris",53,OLB,6-3,252,27,6,Missouri,Lions,,
+"
+Will Harris",25,S,6-1,206,26,4,Boston College,Lions,,
+"
+Bruce Hector",76,DE,6-2,296,27,2,University of South Florida,Lions,,
+"
+T.J. Hockenson",88,TE,6-5,248,24,4,Iowa,Lions,,
+"
+JuJu Hughes",,S,5-11,188,23,3,Fresno State,Lions,,
+"
+Mike Hughes",,CB,5-10,189,25,5,UCF,Lions,,
+"
+Godwin Igwebuike",35,RB,6-0,212,27,2,Northwestern,Lions,,
+"
+Jonah Jackson",73,G,6-4,308,25,3,Ohio State,Lions,,
+"
+Jerry Jacobs",39,CB,5-11,203,24,2,Arkansas,Lions,,
+"
+Jermar Jefferson",28,RB,5-10,212,21,2,Oregon State,Lions,,
+"
+Tom Kennedy",85,WR,5-10,195,25,2,Bryant,Lions,,
+"
+Tommy Kraemer",78,G,6-6,319,23,2,Notre Dame,Lions,,
+"
+Jessie Lemonier",52,OLB,6-2,240,25,3,Liberty,Lions,,
+"
+Ryan McCollum",74,C,6-5,300,24,2,Texas A&M,Lions,,
+"
+Javon McKinley",83,WR,6-2,216,24,1,Notre Dame,Lions,,
+"
+Alim McNeill",54,NT,6-2,330,21,2,N.C. State,Lions,,
+"
+Ifeatu Melifonwu",26,CB,6-3,210,22,2,Syracuse,Lions,,
+"
+Steven Montez",19,QB,6-5,230,25,1,Colorado,Lions,,
+"
+C.J. Moore",38,S,5-11,197,26,4,Ole Miss,Lions,,
+"
+Parnell Motley",29,CB,6-0,180,24,2,Oklahoma,Lions,,
+"
+Matt Nelson",67,T,6-7,316,26,3,Iowa,Lions,,
+"
+Jeff Okudah",23,CB,6-1,202,23,3,Ohio State,Lions,,
+"
+Julian Okwara",99,OLB,6-4,245,24,3,Notre Dame,Lions,,
+"
+Romeo Okwara",95,OLB,6-4,255,26,7,Notre Dame,Lions,,
+"
+Levi Onwuzurike",75,DE,6-3,295,24,2,Washington,Lions,,
+"
+Amani Oruwariye",24,CB,6-2,205,26,4,Penn State,Lions,,
+"
+AJ Parker",41,CB,5-11,178,24,2,Kansas State,Lions,,
+"
+Riley Patterson",6,K,6-0,190,23,2,Memphis,Lions,,
+"
+John Penisini",98,NT,6-2,335,24,3,Utah,Lions,,
+"
+Jared Pinkney",80,TE,6-4,260,24,1,Vanderbilt,Lions,,
+"
+Anthony Pittman",57,LB,6-3,240,25,2,Wayne St.,Lions,,
+"
+Bobby Price",27,CB,6-3,208,23,2,Norfolk State,Lions,,
+"
+Frank Ragnow",77,C,6-5,311,25,5,Arkansas,Lions,,
+"
+Kalif Raymond",11,WR,5-8,182,27,6,Holy Cross,Lions,,
+"
+Craig Reynolds",46,RB,5-11,225,25,1,Kutztown,Lions,,
+"
+Josh Reynolds",8,WR,6-3,196,27,6,Texas A&M,Lions,,
+"
+Aldrick Rosas",5,K,6-2,221,27,5,Southern Oregon,Lions,,
+"
+Austin Seibert",4,K,5-9,211,25,4,Oklahoma,Lions,,
+"
+Penei Sewell",58,T,6-5,331,21,2,Oregon,Lions,,
+"
+Dan Skipper",70,T,6-9,330,27,3,Arkansas,Lions,,
+"
+Saivion Smith",19,CB,6-1,200,24,2,Alabama,Lions,,
+"
+Matt Sokol",,TE,6-5,255,26,1,Michigan State,Lions,,
+"
+Amon-Ra St. Brown",14,WR,6-0,197,22,2,USC,Lions,,
+"
+Logan Stenberg",71,G,6-6,315,25,3,Kentucky,Lions,,
+"
+D'Andre Swift",32,RB,5-9,211,23,3,Georgia,Lions,,
+"
+Charlie Taumoepeau",43,TE,6-3,240,24,1,Portland State,Lions,,
+"
+Jordan Thomas",,TE,6-5,280,25,3,Mississippi State,Lions,,
+"
+Halapoulivaati Vaitai",72,G,6-6,325,28,7,Texas Christian,Lions,,
+"
+Tracy Walker III",21,S,6-1,206,27,5,Louisiana-Lafayette,Lions,,
+"
+Jamaal Williams",30,RB,6-0,224,27,6,BYU,Lions,,
+"
+Josh Woods",51,LB,6-1,236,25,4,Maryland,Lions,,
+"
+Brock Wright",89,TE,6-5,259,23,2,Notre Dame,Lions,,
+"
+Shane Zylstra",84,TE,6-4,237,25,1,Minnesota State,Lions,,
+"
+Isaac Alarcón",60,T,6-7,320,23,1,Monterrey Tech,Cowboys,,
+"
+Bryan Anger",5,P,6-3,202,33,11,California,Cowboys,,
+"
+Dorance Armstrong",92,DE,6-4,255,24,5,Kansas,Cowboys,,
+"
+Josh Ball",75,T,6-8,304,23,2,Marshall,Cowboys,,
+"
+Tarell Basham",93,DE,6-4,266,28,6,Ohio,Cowboys,,
+"
+Tyler Biadasz",63,C,6-3,316,24,3,Wisconsin,Cowboys,,
+"
+Quinton Bohanna",98,DT,6-4,360,23,2,Kentucky,Cowboys,,
+Devante Bond,51,LB,6-1,236,28,5,Oklahoma,Cowboys,,
+"
+Anthony Brown",3,CB,5-11,196,28,7,Purdue,Cowboys,,
+"
+Kyron Brown",36,CB,6-1,195,25,3,Akron,Cowboys,,
+"
+Noah Brown",85,WR,6-2,225,26,6,Ohio State,Cowboys,,
+"
+Ian Bunting",49,TE,6-7,255,26,1,California,Cowboys,,
+"
+Aviante Collins",76,T,6-4,292,28,4,TCU,Cowboys,,
+"
+Jabril Cox",14,LB,6-3,233,23,2,LSU,Cowboys,,
+"
+Tyler Coyle",39,S,6-1,209,23,1,Purdue,Cowboys,,
+"
+Trevon Diggs",7,CB,6-2,195,23,3,Alabama,Cowboys,,
+"
+Ben DiNucci",3,QB,6-3,209,25,2,James Madison,Cowboys,,
+"
+Rico Dowdle",34,RB,6-0,215,23,3,South Carolina,Cowboys,,
+"
+Ezekiel Elliott",21,RB,6-0,228,26,7,Ohio State,Cowboys,,
+"
+Austin Faoliu",58,DT,6-3,292,23,1,Oregon,Cowboys,,
+"
+Matt Farniok",68,G,6-5,311,24,2,Nebraska,Cowboys,,
+"
+Simi Fehoko",81,WR,6-3,220,24,2,Stanford,Cowboys,,
+"
+Dante Fowler Jr.",56,DE,6-3,261,27,8,Florida,Cowboys,,
+"
+Neville Gallimore",96,DT,6-2,302,25,3,Oklahoma,Cowboys,,
+"
+Michael Gallup",13,WR,6-1,198,26,5,Colorado State,Cowboys,,
+"
+Luke Gifford",57,LB,6-3,243,26,4,Nebraska,Cowboys,,
+"
+Chauncey Golston",59,DE,6-5,268,24,2,Iowa,Cowboys,,
+"
+C.J. Goodwin",29,CB,6-3,190,32,7,California (PA),Cowboys,,
+"
+Will Grier",15,QB,6-1,220,27,4,West Virginia,Cowboys,,
+"
+JaQuan Hardy",37,RB,5-10,225,24,1,Tiffin,Cowboys,,
+"
+Trysten Hill",72,DT,6-3,308,24,4,UCF,Cowboys,,
+"
+Malik Hooker",28,S,6-2,212,26,6,Ohio State,Cowboys,,
+"
+Braylon Jones",62,C,6-3,301,24,1,Houston,Cowboys,,
+"
+Kelvin Joseph",24,CB,6-1,192,22,2,Kentucky,Cowboys,,
+"
+Jayron Kearse",27,S,6-4,215,28,8,Clemson,Cowboys,,
+"
+CeeDee Lamb",88,WR,6-2,200,23,3,Oklahoma,Cowboys,,
+"
+DeMarcus Lawrence",90,DE,6-3,265,29,9,Boise State,Cowboys,,
+"
+Jourdan Lewis",2,CB,5-10,195,26,6,Michigan,Cowboys,,
+"
+Zack Martin",70,G,6-4,315,31,9,Notre Dame,Cowboys,,
+"
+Connor McGovern",66,G,6-5,308,24,4,Penn State,Cowboys,,
+"
+Sean McKeon",84,TE,6-5,238,24,3,Michigan,Cowboys,,
+"
+Jake McQuaide",44,LS,6-2,247,34,12,Ohio State,Cowboys,,
+"
+Israel Mukuamu",38,S,6-4,205,22,2,South Carolina,Cowboys,,
+"
+Hunter Niswander",7,P,6-4,243,27,3,Northwestern,Cowboys,,
+"
+Osa Odighizuwa",97,DT,6-2,280,23,2,UCLA,Cowboys,,
+"
+Sewo Olonilua",33,FB,6-3,240,24,2,Texas Christian,Cowboys,,
+"
+Micah Parsons",11,LB,6-3,245,22,2,Penn State,Cowboys,,
+"
+Tony Pollard",20,RB,6-0,209,24,4,Memphis,Cowboys,,
+"
+Dak Prescott",4,QB,6-2,238,28,7,Mississippi State,Cowboys,,
+"
+Nick Ralston",46,FB,6-0,237,25,1,Louisiana,Cowboys,,
+"
+Cooper Rush",10,QB,6-3,225,28,5,Central Michigan,Cowboys,,
+"
+Dalton Schultz",86,TE,6-5,244,25,5,Stanford,Cowboys,,
+"
+Brandon Smith",80,WR,6-2,220,23,1,Iowa,Cowboys,,
+"
+Tyron Smith",77,T,6-5,320,31,12,USC,Cowboys,,
+"
+Jeremy Sprinkle",87,TE,6-5,252,27,6,Arkansas,Cowboys,,
+"
+Terence Steele",78,T,6-6,310,24,3,Texas Tech,Cowboys,,
+"
+Darian Thompson",23,S,6-2,211,N/A,R,Boise State,Cowboys,,
+"
+Leighton Vander Esch",55,LB,6-4,256,26,5,Boise State,Cowboys,,
+"
+T.J. Vasher",15,WR,6-5,210,23,1,Texas Tech,Cowboys,,
+"
+James Washington",,WR,5-11,213,26,5,Oklahoma State,Cowboys,,
+"
+Carlos Watkins",91,DE,6-3,305,28,6,Clemson,Cowboys,,
+"
+Donovan Wilson",6,S,6-0,204,27,4,Texas A&M,Cowboys,,
+"
+Nahshon Wright",25,CB,6-4,185,23,2,Oregon State,Cowboys,,
+"
+Francis Bernard",53,LB,6-1,230,27,3,Utah,Cowboys,,
+"
+Mitch Hyatt",65,T,6-5,306,25,3,Clemson,Cowboys,,
+"
+Maurice Canady",31,CB,6-1,193,27,6,Virginia,Cowboys,,
+"
+Corey Clement",32,RB,5-10,220,27,6,Wisconsin,Cowboys,,
+"
+Damontae Kazee",18,S,5'11,174,28,6,San Diego State,Cowboys,,
+"
+Keanu Neal",42,LB,6-0,211,26,7,Florida,Cowboys,,
+"
+Ty Nsekhe",79,T,6-8,325,36,8,Texas State-San Marcos,Cowboys,,
+"
+Malik Turner",17,WR,6-2,202,26,5,Illinois,Cowboys,,
+"
+Brent Urban",95,DE,6-7,295,30,9,Virginia,Cowboys,,
+"
+Jonathan Allen",93,DT,6-3,300,27,6,Alabama,Commanders,,
+"
+Troy Apke",30,S,6-1,205,27,5,Penn State,Commanders,,
+Alex Armah,40,RB,6-1,255,27,6,West Georgia,Commanders,,
+"
+David Bada",64R,DL,6-4,293,26,1,,Commanders,,
+"
+Zack Bailey",61,G,6-5,299,26,2,South Carolina,Commanders,,
+"
+John Bates",87,TE,6-6,259,24,2,Boise State,Commanders,,
+"
+Beau Benzschawel",63,G,6-6,300,26,2,Wisconsin,Commanders,,
+Reggie Bonnafon,39,RB,6-0,215,26,3,Louisville,Commanders,,
+"
+Will Bradley-King",56,DE,6-3,254,24,1,Baylor,Commanders,,
+"
+Dyami Brown",2,WR,6-0,195,22,2,North Carolina,Commanders,,
+"
+Deion Calhoun",68,G,6-3,310,26,2,Mississippi State,Commanders,,
+Dylan Cantrell,45W,TE,6-3,226,27,3,Texas Tech,Commanders,,
+"
+Saahdiq Charles",77,T,6-4,322,22,3,LSU,Commanders,,
+"
+Camaron Cheeseman",54,LS,6-4,237,23,2,Michigan,Commanders,,
+Tyler Clark,68R,DT,6-4,300,23,1,Georgia,Commanders,,
+"
+Sam Cosmi",76,OL,6-6,309,23,2,Texas,Commanders,,
+"
+Kamren Curl",31,S,6-2,198,23,3,Arkansas,Commanders,,
+"
+Jamin Davis",52,LB,6-3,234,23,2,Kentucky,Commanders,,
+"
+Milo Eifler",46,LB,6-2,225,24,1,Illinois,Commanders,,
+"
+Corn Elder",37,CB,5-10,185,27,6,Miami,Commanders,,
+"
+Darrick Forrest",48,S,5-11,200,22,2,Cincinnati,Commanders,,
+"
+Kendall Fuller",29,CB,5-11,198,27,7,Virginia Tech,Commanders,,
+"
+Antonio Gandy-Golden",18,WR,6-4,223,24,3,Liberty,Commanders,,
+"
+Antonio Gibson",24,RB,6-2,220,23,3,Memphis,Commanders,,
+"
+Kelvin Harmon",84,WR,6-2,215,25,2,N.C. State,Commanders,,
+D.J. Hayden,14,CB,5-11,190,31,9,Houston,Commanders,,
+"
+Taylor Heinicke",4,QB,6-1,210,29,5,Old Dominion,Commanders,,
+"
+Cole Holcomb",55,LB,6-1,240,25,4,North Carolina,Commanders,,
+"
+Khaleke Hudson",47,LB,6-0,220,24,3,Michigan,Commanders,,
+"
+Keith Ismael",60,C,6-3,310,23,3,San Diego State,Commanders,,
+"
+William Jackson III",23,CB,6-0,189,29,7,Houston,Commanders,,
+"
+Jalen Jelks",57,DE,6-5,256,25,3,Oregon,Commanders,,
+"
+Brian Johnson",16,K,6-1,185,23,2,Virginia Tech,Commanders,,
+"
+Tyler Larsen",69,C,6-4,335,30,7,Utah State,Commanders,,
+"
+Nolan Laufenberg",74,G,6-3,312,23,1,Air Force,Commanders,,
+"
+Charles Leno Jr.",72,OT,6-3,302,30,9,Boise State,Commanders,,
+"
+David Mayo",51,LB,6-2,240,28,8,Texas State-San Marcos,Commanders,,
+"
+Bobby McCain",20,CB,5-9,196,28,8,Memphis,Commanders,,
+"
+J.D. McKissic",41,RB,5-10,195,28,6,Arkansas State,Commanders,,
+"
+Terry McLaurin",17,WR,6-0,210,26,4,Ohio State,Commanders,,
+"
+Marken Michel",19,WR,5-11,191,28,1,UMass Amherst,Commanders,,
+"
+Dax Milne",15,WR,6-0,190,22,2,BYU,Commanders,,
+Andrew Norwell,68,G,6-6,310,30,9,Ohio State,Commanders,,
+Efe Obada,,DE,6-6,265,30,5,,Commanders,,
+"
+Jaret Patterson",32,RB,5-8,195,22,2,Buffalo,Commanders,,
+"
+Daron Payne",94,DT,6-3,320,24,5,Alabama,Commanders,,
+"
+Jeremy Reaves",39,DB,5-11,200,25,3,South Alabama,Commanders,,
+"
+Sammis Reyes",80,TE,6-5,260,26,2,Loyola University,Commanders,,
+"
+Bunmi Rotimi",57,DE,6-3,273,26,2,Old Dominion,Commanders,,
+"
+Chase Roullier",73,C,6-4,312,28,6,Wyoming,Commanders,,
+"
+Curtis Samuel",10,WR,5-11,195,25,6,Ohio State,Commanders,,
+"
+Wes Schweitzer",71,G,6-4,300,28,7,San Jose State,Commanders,,
+"
+Cam Sims",11,WR,6-5,220,26,5,Alabama,Commanders,,
+"
+Joey Slye",3,K,5-11,213,26,4,Virginia Tech,Commanders,,
+"
+James Smith-Williams",96,DE,6-4,265,24,3,North Carolina State,Commanders,,
+"
+Benjamin St-Juste",25,DB,6-3,200,24,2,Minnesota,Commanders,,
+"
+Montez Sweat",90,DE,6-6,262,25,4,Mississippi State,Commanders,,
+"
+Logan Thomas",82,TE,6-6,250,30,8,Virginia Tech,Commanders,,
+"
+Shaka Toney",58,DE,6-2,238,24,2,Penn State,Commanders,,
+"
+Casey Toohill",95,DE,6-5,254,25,3,Stanford,Commanders,,
+"
+Jon Toth",61,C,6-5,308,28,2,Kentucky,Commanders,,
+"
+Tress Way",5,P,6-1,220,31,9,Oklahoma,Commanders,,
+Carson Wentz,11,QB,6-5,237,29,7,North Dakota State,Commanders,,
+"
+Jonathan Williams",35,RB,6-0,217,28,6,Arkansas,Commanders,,
+"
+Daniel Wise",92,DT,6-3,285,26,2,Kansas,Commanders,,
+"
+Chase Young",99,DE,6-5,264,23,3,Ohio State,Commanders,,
+"
+Alex Bachman",81,WR,6-0,190,25,1,Wake Forest,Giants,,
+"
+Saquon Barkley",26,RB,6-0,232,25,5,Penn State,Giants,,
+"
+C.J. Board",18,WR,6-1,181,28,4,Tennessee-Chattanooga,Giants,,
+"
+James Bradberry",24,CB,6-1,212,28,7,Samford,Giants,,
+"
+Ben Bredeson",68,G,6-5,315,24,3,Michigan,Giants,,
+"
+Matt Breida",31,RB,5-10,190,27,6,Georgia Southern,Giants,,
+"
+Gary Brightwell",37,RB,6-1,218,23,2,Arizona,Giants,,
+"
+Cam Brown",47,LB,6-5,233,24,3,Penn State,Giants,,
+"
+TJ Brunson",35,LB,6-1,230,24,3,South Carolina,Giants,,
+Omari Cobb,44,LB,6-4,223,24,1,Marshall,Giants,,
+"
+Carter Coughlin",52,LB,6-3,236,24,3,Minnesota,Giants,,
+"
+Tae Crowder",48,LB,6-1,235,25,3,Georgia,Giants,,
+"
+Korey Cunningham",79,T,6-6,311,26,5,Cincinnati,Giants,,
+"
+Jamil Douglas",77,OL,6-4,310,30,5,Arizona State,Giants,,
+"
+Justin Ellis",71,DT,6-2,334,31,9,Louisiana Tech,Giants,,
+"
+Jon Feliciano",76,OL,6-4,325,30,8,Miami,Giants,,
+"
+Robert Foster",,WR,6-2,196,27,4,Alabama,Giants,,
+"
+Graham Gano",5,K,6-2,202,35,13,Florida State,Giants,,
+"
+Max Garcia",,OL,6-4,309,30,8,Florida,Giants,,
+"
+Nick Gates",65,C,6-6,318,26,5,Nebraska,Giants,,
+"
+Jamie Gillan",17,P,6-1,207,24,4,University of Arkansas at Pine Bluff,Giants,,
+"
+Mark Glowinski",64,OL,6-4,310,29,8,West Virginia,Giants,,
+"
+Kenny Golladay",19,WR,6-4,213,28,6,Northern Illinois,Giants,,
+"
+Matt Gono",73,T,6-4,305,25,4,Wesley,Giants,,
+Devery Hamilton,62,OL,6-6,311,23,1,Duke,Giants,,
+"
+Trent Harris",93,LB,6-2,255,26,4,Miami (Fla.),Giants,,
+"
+Jake Hausmann",49,TE,6-4,255,24,1,Ohio State,Giants,,
+"
+Justin Hilliard",46,LB,6-1,231,25,2,Ohio State,Giants,,
+"
+Darnay Holmes",30,CB,5-10,195,23,3,UCLA,Giants,,
+"
+Adoree' Jackson",22,CB,5-11,185,26,6,USC,Giants,,
+"
+Richie James",80,WR,5-9,185,26,5,Middle Tennessee State,Giants,,
+"
+Rysen John",44,TE,6-7,220,24,2,Simon Fraser (Canada),Giants,,
+"
+Collin Johnson",15,WR,6-6,220,24,3,Texas,Giants,,
+"
+Raymond Johnson III",91,DL,6-3,270,23,2,Georgia Southern,Giants,,
+"
+Daniel Jones",8,QB,6-5,230,24,4,Duke,Giants,,
+"
+Casey Kreiter",58,LS,6-1,250,31,7,Iowa,Giants,,
+"
+Niko Lalos",57,LB,6-5,270,24,2,Dartmouth,Giants,,
+"
+Dexter Lawrence",97,DL,6-4,342,24,4,Clemson,Giants,,
+"
+Shane Lemieux",66,G,6-4,310,24,3,Oregon,Giants,,
+Brian Lewerke,6,QB,6-3,216,25,1,Michigan State,Giants,,
+"
+Julian Love",20,S,5-11,195,24,4,Notre Dame,Giants,,
+"
+Wes Martin",63,OL,6-3,315,25,4,Indiana,Giants,,
+"
+Blake Martinez",54,LB,6-2,237,28,7,Stanford,Giants,,
+"
+Xavier McKinney",29,S,6-0,201,23,3,Alabama,Giants,,
+"
+David Moa",96,DL,6-3,296,25,1,Boise State,Giants,,
+"
+Chris Myarick",85,TE,6-5,261,26,2,Temple,Giants,,
+"
+Azeez Ojulari",51,LB,6-3,240,21,2,Georgia,Giants,,
+"
+Matt Peart",74,T,6-7,318,24,3,Connecticut,Giants,,
+"
+Sandro Platzgummer",,RB,6-0,198,25,1,,Giants,,
+"
+Austin Proehl",87,WR,5-10,175,26,1,North Carolina,Giants,,
+"
+Aaron Robinson",33,CB,6-0,193,23,2,UCF,Giants,,
+"
+Quincy Roche",95,LB,6-3,245,24,2,Miami,Giants,,
+"
+Ricky Seals-Jones",83,TE,6-5,243,27,6,Texas A&M,Giants,,
+"
+Sterling Shepard",3,WR,5-10,196,29,7,Oklahoma,Giants,,
+"
+David Sills V",84,WR,6-3,211,25,2,West Virginia,Giants,,
+"
+Darius Slayton",86,WR,6-1,194,25,4,Auburn,Giants,,
+"
+Elerson Smith",94,LB,6-7,245,23,2,Northern Iowa,Giants,,
+"
+Tyrod Taylor",2,QB,6-1,215,32,12,Virginia Tech,Giants,,
+"
+Andrew Thomas",78,T,6-5,315,23,3,Georgia,Giants,,
+"
+Travis Toivonen",13,WR,6-4,212,23,1,North Dakota,Giants,,
+"
+Kadarius Toney",89,WR,6-0,193,23,2,Florida,Giants,,
+"
+Jihad Ward",55,LB,6-5,297,27,7,Illinois,Giants,,
+"
+Davis Webb",12,QB,6-5,230,27,3,California,Giants,,
+"
+Antonio Williams",21,RB,5-11,215,24,1,North Carolina,Giants,,
+"
+Jarren Williams",34,CB,5-11,190,24,2,Albany,Giants,,
+"
+Leonard Williams",99,DL,6-5,302,27,8,USC,Giants,,
+"
+Rodarius Williams",25,CB,6-0,195,25,2,Oklahoma State,Giants,,
+"
+Oshane Ximines",53,LB,6-4,254,25,4,Old Dominion,Giants,,
+"
+Jack Anderson",76,C/G,6-4,314,23,2,Texas Tech,Eagles,,
+"
+J.J. Arcega-Whiteside",19,WR,6-2,225,25,4,Stanford,Eagles,,
+"
+Kayode Awosika",72,G/T,6-3,312,23,1,Buffalo,Eagles,,
+"
+Derek Barnett",96,DE,6-3,259,25,6,Tennessee,Eagles,,
+"
+Shaun Bradley",54,LB,6-1,240,25,3,Temple,Eagles,,
+"
+Deon Cain",85,WR,6-2,202,25,3,Clemson,Eagles,,
+"
+Andre Chachere",21,DB,6-0,200,26,2,San Jose State,Eagles,,
+"
+Le'Raven Clark",74,T,6-5,319,28,7,Texas Tech,Eagles,,
+"
+Fletcher Cox",91,DT,6-4,310,31,11,Mississippi State,Eagles,,
+"
+Landon Dickerson",69,OL,6-6,333,23,2,Alabama,Eagles,,
+"
+Andre Dillard",77,T,6-5,315,26,4,Washington State,Eagles,,
+"
+Jack Driscoll",63,T/G,6-5,312,25,3,Auburn,Eagles,,
+"
+T.J. Edwards",57,LB,6-1,242,25,4,Wisconsin,Eagles,,
+"
+Jake Elliott",4,K,5-9,167,27,6,Memphis,Eagles,,
+"
+Christian Elliss",53,LB,6-3,233,23,1,Idaho,Eagles,,
+"
+Marcus Epps",22,S,6-0,198,26,4,Wyoming,Eagles,,
+"
+Kenneth Gainwell",14,RB,5-9,200,23,2,Memphis,Eagles,,
+"
+Dallas Goedert",88,TE,6-5,256,27,5,South Dakota State,Eagles,,
+"
+Tay Gowan",36,CB,6-1,186,24,2,UCF,Eagles,,
+"
+Brandon Graham",55,DE,6-2,265,34,13,Michigan,Eagles,,
+"
+Javon Hargrave",97,DT,6-2,305,29,7,South Carolina State,Eagles,,
+"
+Anthony Harris",28,S,6-1,202,30,8,Virginia,Eagles,,
+"
+John Hightower",82,WR,6-2,190,25,2,Boise State,Eagles,,
+"
+Jason Huntley",32,RB,5-9,193,23,2,New Mexico State,Eagles,,
+"
+Jalen Hurts",1,QB,6-1,223,23,3,Oklahoma,Eagles,,
+"
+Tarron Jackson",75,DE,6-2,254,23,2,Coastal Carolina,Eagles,,
+"
+Tyree Jackson",80,TE,6-7,249,24,2,Buffalo,Eagles,,
+"
+Craig James",31,CB,5-10,195,25,3,Southern Illinois,Eagles,,
+"
+Lane Johnson",65,T,6-6,325,31,10,Oklahoma,Eagles,,
+"
+Patrick Johnson",48,LB,6-2,248,24,2,Tulane,Eagles,,
+"
+Jason Kelce",62,C,6-3,295,34,12,Cincinnati,Eagles,,
+"
+Matt Leo",66,DE,6-7,280,29,1,Iowa State,Eagles,,
+"
+Rick Lovato",45,LS,6-2,249,29,6,Old Dominion,Eagles,,
+"
+Avonte Maddox",29,CB,5-9,184,26,5,Pittsburgh,Eagles,,
+"
+Jordan Mailata",68,T,6-8,365,25,5,,Eagles,,
+"
+Cameron Malveaux",59,DE,6-5,276,27,2,Houston,Eagles,,
+"
+Jared Mayden",41,S,6-0,205,23,1,Alabama,Eagles,,
+"
+Mac McCain III",37,CB,6-0,175,24,2,North Carolina A&T,Eagles,,
+"
+Zech McPhearson",27,CB,5-11,191,24,2,Texas Tech,Eagles,,
+"
+Gardner Minshew",10,QB,6-1,225,25,4,Washington State,Eagles,,
+"
+Sua Opeta",78,G,6-4,305,25,3,Weber State,Eagles,,
+"
+Joe Ostman",,LB,6-3,259,26,3,Central Michigan,Eagles,,
+"
+Zach Pascal",11,WR,6-2,215,27,5,Old Dominion,Eagles,,
+"
+Jalen Reagor",18,WR,5-11,197,23,3,TCU,Eagles,,
+"
+Haason Reddick",7,LB,6-1,240,27,6,Temple,Eagles,,
+"
+Richard Rodgers",81,TE,6-4,257,30,7,California,Eagles,,
+"
+Miles Sanders",26,RB,5-11,211,24,4,Penn State,Eagles,,
+"
+Boston Scott",35,RB,5-6,203,26,4,Louisiana Tech,Eagles,,
+"
+Josiah Scott",33,CB,5-9,185,23,3,Michigan State,Eagles,,
+"
+Isaac Seumalo",56,G,6-4,303,28,7,Oregon State,Eagles,,
+"
+Reid Sinnett",7,QB,6-4,225,25,2,San Diego,Eagles,,
+"
+Arryn Siposs",8,P,6-2,212,29,2,Auburn,Eagles,,
+"
+Darius Slay",2,CB,6-0,190,31,10,Mississippi State,Eagles,,
+"
+DeVonta Smith",6,WR,6-0,170,23,2,Alabama,Eagles,,
+"
+JaCoby Stevens",30,LB,6-1,222,23,1,LSU,Eagles,,
+"
+Jack Stoll",89,TE,6-4,247,24,2,Nebraska,Eagles,,
+"
+Josh Sweat",94,DE,6-5,265,25,5,Florida State,Eagles,,
+"
+Davion Taylor",52,LB,6-1,230,23,3,Colorado,Eagles,,
+"
+Noah Togiai",83,TE,6-4,244,24,2,Oregon State,Eagles,,
+"
+Brett Toth",64,T/G,6-6,304,25,4,Army,Eagles,,
+"
+Marlon Tuipulotu",95,DT,6-2,307,22,2,USC,Eagles,,
+"
+Kary Vincent Jr.",34,DB,5-10,189,23,2,LSU,Eagles,,
+"
+K'Von Wallace",42,S,5-11,205,24,3,Clemson,Eagles,,
+"
+Greg Ward",84,WR,5-11,190,26,4,Houston,Eagles,,
+"
+Quez Watkins",16,WR,6-0,193,23,3,Southern Mississippi,Eagles,,
+"
+Kyzir White",,LB,6-2,225,26,5,West Virginia,Eagles,,
+"
+Milton Williams",93,DT,6-3,290,23,2,Louisiana Tech,Eagles,,
+"
+Marvin Wilson",73,DT,6-4,303,23,1,Florida State,Eagles,,
+"
+Renell Wren",,DT,6-5,320,26,3,Arizona State,Eagles,,
+"
+Nate Herbig",67,G,6-4,334,23,4,Stanford,Eagles,,
+"
+Jason Croom",81,TE,6-5,246,28,4,Tennessee,Eagles,,
+"
+Jordan Howard",24,RB,6-0,222,27,7,Indiana,Eagles,,
+"
+Ryan Kerrigan",90,DE,6-4,267,33,12,Purdue,Eagles,,
+"
+Rodney McLeod",23,S,5-10,195,31,11,Virginia,Eagles,,
+"
+Steven Nelson",3,CB,5-10,194,29,8,Oregon State,Eagles,,
+Dee Alford,37,DB,5-11,175,24,1,Tusculum College,Falcons,,
+"
+Cornell Armstrong",25,DB,5-11,185,26,4,Southern Mississippi,Falcons,,
+Corey Ballentine,39,DB,6-0,191,26,4,Washburn,Falcons,,
+"
+Willie Beavers",72,OL,6-5,324,28,2,Western Michigan,Falcons,,
+"
+Ryan Becker",80,TE,6-5,248,24,2,SMU,Falcons,,
+"
+Quinton Bell",56,OLB,6-4,253,25,2,Prairie View A&M,Falcons,,
+"
+Jordan Brailford",49,LB,6-3,252,26,3,Oklahoma State,Falcons,,
+"
+Beau Brinkley",44,LS,6-4,237,32,10,Missouri,Falcons,,
+"
+Damiere Byrd",XX,WR,5-9,175,29,7,South Carolina,Falcons,,
+"
+Lorenzo Carter",9,LB,6-5,252,26,5,Georgia,Falcons,,
+"
+John Cominsky",50,DL,6-5,285,26,4,Charleston (WV),Falcons,,
+"
+Rashaad Coward",65,DT,6-5,320,27,5,Old Dominion,Falcons,,
+"
+Drew Dalman",67,OL,6-3,300,23,2,Stanford,Falcons,,
+"
+Frank Darby",88,WR,6-1,200,24,2,Arizona State,Falcons,,
+"
+Marlon Davidson",90,DL,6-3,303,23,3,Auburn,Falcons,,
+"
+Mike Davis",28,RB,5-9,220,29,8,South Carolina,Falcons,,
+"
+Dorian Etheridge",48,ILB,6-3,230,23,2,Louisville,Falcons,,
+"
+Feleipe Franks",15,QB,6-6,234,24,2,Arkansas,Falcons,,
+"
+Colby Gossett",66,OL,6-5,311,26,3,Appalachian State,Falcons,,
+"
+Ta'Quon Graham",95,DL,6-4,294,23,2,Texas,Falcons,,
+"
+Richie Grant",27,S,6-0,200,24,2,UCF,Falcons,,
+"
+Darren Hall",34,CB,6-0,190,21,2,San Diego State,Falcons,,
+"
+Chad Hansen",83,WR,6-1,202,27,2,California,Falcons,,
+"
+Erik Harris",23,S,6-2,225,32,7,California (PA),Falcons,,
+"
+Jaylinn Hawkins",32,S,6-1,208,24,3,California,Falcons,,
+"
+Casey Hayward",29,CB,5-11,192,32,11,Vanderbilt,Falcons,,
+Daniel Helm,85,TE,6-4,251,26,3,Duke,Falcons,,
+"
+Matt Hennessy",61,OL,6-3,307,24,3,Temple,Falcons,,
+"
+Parker Hesse",46,TE,6-3,261,26,2,Iowa,Falcons,,
+"
+KhaDarel Hodge",12,WR,5-11,183,27,5,Prairie View A&M,Falcons,,
+"
+Caleb Huntley",42,RB,5-10,229,23,1,Ball State,Falcons,,
+"
+Grady Jarrett",97,DL,6-0,305,28,8,Clemson,Falcons,,
+"
+Deion Jones",45,ILB,6-1,227,27,7,LSU,Falcons,,
+"
+Luther Kirk",33,DB,6-2,195,25,1,Illinois State,Falcons,,
+"
+Younghoe Koo",7,K,5-9,185,27,4,Georgia Southern,Falcons,,
+Brayden Lenius,86,TE,6-5,220,25,1,Washington,Falcons,,
+"
+Rick Leonard",71,OL,6-7,311,25,1,Florida State,Falcons,,
+"
+Chris Lindstrom",63,G,6-3,307,25,4,Boston College,Falcons,,
+"
+Dom Maggio",1,P,6-1,192,23,1,Wake Forest,Falcons,,
+"
+Marcus Mariota",1,QB,6-4,222,28,8,Oregon,Falcons,,
+"
+Dean Marlowe",21,FS,6-1,205,29,6,James Madison,Falcons,,
+"
+Jake Matthews",70,T,6-5,309,30,9,Texas A&M,Falcons,,
+"
+Jalen Mayfield",77,OL,6-5,320,21,2,Michigan,Falcons,,
+"
+Kaleb McGary",76,T,6-6,306,27,4,Washington,Falcons,,
+"
+Ryan Neuzil",64,OL,6-3,301,24,1,Appalachian State,Falcons,,
+"
+Adetokunbo Ogundeji",92,OLB,6-4,268,23,2,Notre Dame,Falcons,,
+"
+Isaiah Oliver",26,CB,6-0,210,25,5,Colorado,Falcons,,
+"
+Qadree Ollison",30,RB,6-1,232,25,4,Pittsburgh,Falcons,,
+"
+Cordarrelle Patterson",84,RB,6-2,220,31,10,Tennessee,Falcons,,
+"
+Kyle Pitts",8,TE,6-6,246,21,2,Florida,Falcons,,
+"
+Lafayette Pitts",38,DB,5-10,196,29,4,Pittsburgh,Falcons,,
+"
+John Raine",89,TE,6-1,230,24,1,Northwestern,Falcons,,
+"
+Anthony Rush",94,DT,6-5,350,25,4,UAB,Falcons,,
+"
+Kendall Sheffield",20,DB,5-10,212,25,4,Ohio State,Falcons,,
+"
+Keith Smith",40,FB,6-0,240,30,9,San Jose State,Falcons,,
+"
+Rashad Smith",59,LB,6-1,220,24,2,Florida Atlantic,Falcons,,
+"
+Teez Tabor",30,CB,6-0,201,26,4,Florida,Falcons,,
+"
+Auden Tate",19,WR,6-5,228,25,5,Florida State,Falcons,,
+"
+A.J. Terrell",24,CB,6-1,195,23,3,Clemson,Falcons,,
+"
+Nick Thurman",91,DE,6-4,305,26,2,Houston,Falcons,,
+"
+Austin Trammell",82,WR,5-10,185,23,1,Rice,Falcons,,
+"
+James Vaughters",93,OLB,6-2,254,28,3,Stanford,Falcons,,
+"
+Mykal Walker",3,ILB,6-3,230,24,3,Fresno State,Falcons,,
+"
+Elijah Wilkinson",79,OT,6-4,329,27,6,UMass Amherst,Falcons,,
+"
+Avery Williams",35,CB,5-9,195,23,2,Boise State,Falcons,,
+"
+Damien Williams",6,RB,5-11,221,30,8,Oklahoma,Falcons,,
+"
+Calvin Ridley",18,WR,6-1,190,27,5,Alabama,Falcons,,
+"
+Olamide Zaccheaus",17,WR,5-8,193,24,4,Virginia,Falcons,,
+"
+Josh Adams",31,RB,6-2,225,25,4,Notre Dame,Saints,,
+"
+Paulson Adebo",29,CB,6-1,192,22,2,Stanford,Saints,,
+"
+Kawaan Baker",80,WR,6-1,215,23,1,South Alabama,Saints,,
+"
+Zack Baun",53,LB,6-3,225,25,3,Wisconsin,Saints,,
+"
+Ian Book",16,QB,6-0,206,24,2,Notre Dame,Saints,,
+"
+Cohl Cabral",68,C,6-5,300,24,1,Arizona State,Saints,,
+"
+Marquez Callaway",1,WR,6-2,204,24,3,Tennessee,Saints,,
+"
+Taco Charlton",54,DE,6-5,270,27,6,Michigan,Saints,,
+"
+Andy Dalton",91,QB,6-2,220,34,12,TCU,Saints,,
+"
+Jalen Dalton",77,DT,6-6,300,24,3,North Carolina,Saints,,
+"
+Marcus Davenport",92,DE,6-6,265,25,5,Texas-San Antonio,Saints,,
+"
+Demario Davis",56,LB,6-2,248,33,11,Arkansas State,Saints,,
+"
+Andrew Dowell",50,LB,6-1,225,25,2,Michigan State,Saints,,
+"
+Kaden Elliss",55,LB,6-3,238,26,4,Idaho,Saints,,
+"
+Justin Evans",30,S,6-0,199,26,5,Texas A&M,Saints,,
+"
+Sharif Finch",59,LB,6-4,250,26,3,Temple,Saints,,
+"
+C.J. Gardner-Johnson",22,DB,5-11,210,24,4,Florida,Saints,,
+"
+Blake Gillikin",4,P,6-2,196,24,3,Penn State,Saints,,
+"
+Carl Granderson",96,DE,6-5,261,25,4,Wyoming,Saints,,
+"
+J.T. Gray",48,DB,6-0,202,26,5,Mississippi State,Saints,,
+"
+Ethan Greenidge",73,OL,6-4,335,24,4,Villanova,Saints,,
+"
+Jerald Hawkins",63,OT,6-6,305,28,6,LSU,Saints,,
+"
+Taysom Hill",7,QB,6-2,221,31,6,Brigham Young,Saints,,
+"
+J.P. Holtz",88,TE,6-3,240,28,4,Pittsburgh,Saints,,
+"
+Braxton Hoyett",52,DT,6-2,302,26,1,Mississippi State,Saints,,
+"
+Albert Huggins",95,DT,6-3,305,24,2,Clemson,Saints,,
+"
+James Hurst",74,OL,6-5,310,30,9,North Carolina,Saints,,
+"
+Mark Ingram II",14,RB,5-9,215,32,12,Alabama,Saints,,
+"
+Jaleel Johnson",59,DT,6-3,316,27,6,Iowa,Saints,,
+"
+Juwan Johnson",83,TE,6-4,231,25,3,Oregon,Saints,,
+"
+Tony Jones Jr.",34,RB,5-11,224,24,2,Notre Dame,Saints,,
+"
+Cameron Jordan",94,DE,6-4,287,32,12,California,Saints,,
+"
+Alvin Kamara",41,RB,5-10,215,26,6,Tennessee,Saints,,
+"
+Tanoh Kpassagnon",90,DE,6-7,289,27,6,Villanova,Saints,,
+"
+Forrest Lamp",66,OL,6-4,310,28,5,Western Kentucky,Saints,,
+"
+Marshon Lattimore",23,CB,6-0,192,25,6,Ohio State,Saints,,
+"
+Wil Lutz",3,K,5-11,184,27,7,Georgia State,Saints,,
+"
+Dylan Mabin",37,DB,6-1,196,24,2,Fordham,Saints,,
+"
+Marcus Maye",,S,5-11,207,29,6,Florida,Saints,,
+"
+Jalen McCleskey",87,WR,5-10,178,24,1,Tulane,Saints,,
+"
+Erik McCoy",78,C/G,6-4,303,24,4,Texas A&M,Saints,,
+"
+Kirk Merritt",85,WR,6-0,208,25,1,Arkansas State,Saints,,
+"
+Jordan Miller",36,DB,6-2,190,25,3,Washington,Saints,,
+"
+David Onyemata",93,DT,6-4,300,29,7,Manitoba (Canada),Saints,,
+"
+Andrus Peat",75,G/T,6-7,316,28,8,Stanford,Saints,,
+"
+Adam Prentice",46,FB,6-0,245,25,2,South Carolina,Saints,,
+"
+Ryan Ramczyk",71,T,6-6,314,27,6,Wisconsin,Saints,,
+"
+Malcolm Roach",97,DL,6-3,290,23,3,Texas,Saints,,
+"
+Bradley Roby",21,CB,5-11,194,29,9,Ohio State,Saints,,
+"
+Cesar Ruiz",51,C/G,6-4,316,22,3,Michigan,Saints,,
+"
+KeiVarae Russell",35,DB,5-11,194,28,4,Notre Dame,Saints,,
+"
+Tre'Quan Smith",10,WR,6-2,210,26,5,Central Florida,Saints,,
+"
+Dylan Soehner",89,TE,6-6,270,24,2,Iowa State,Saints,,
+"
+Daniel Sorensen",28,DB,6-1,208,32,9,BYU,Saints,,
+"
+Kentavius Street",69,DT,6-2,287,25,4,N.C. State,Saints,,
+"
+Michael Thomas",13,WR,6-3,212,29,7,Ohio State,Saints,,
+"
+Bryce Thompson",32,CB,5-11,190,22,1,Tennessee,Saints,,
+"
+Calvin Throckmorton",76,OL,6-5,309,25,2,Oregon,Saints,,
+"
+Adam Trautman",82,TE,6-5,253,25,3,Dayton,Saints,,
+"
+Payton Turner",98,DE,6-6,270,23,2,Houston,Saints,,
+"
+Shy Tuttle",99,DT,6-3,300,26,4,Tennessee,Saints,,
+"
+Nick Vannett",81,TE,6-6,261,29,7,Ohio State,Saints,,
+"
+Pete Werner",20,LB,6-3,242,22,2,Ohio State,Saints,,
+"
+Kevin White",17,WR,6-3,216,29,6,West Virginia,Saints,,
+"
+P.J. Williams",26,CB,6-0,196,28,8,Florida State,Saints,,
+"
+Easop Winston Jr.",18,WR,6-0,192,25,1,Washington State,Saints,,
+"
+Jameis Winston",2,QB,6-4,231,28,8,Florida State,Saints,,
+"
+Ethan Wolf",86,TE,6-6,252,26,1,Tennessee,Saints,,
+"
+Zach Wood",49,LS,6-3,255,29,6,Southern Methodist,Saints,,
+"
+Landon Young",67,T,6-7,321,24,2,Kentucky,Saints,,
+"
+Deonte Harty",11,WR/RS,5-6,170,24,4,Assumption College,Saints,,
+"
+Lil'Jordan Humphrey",84,WR,6-4,225,23,3,Texas,Saints,,
+"
+Kwon Alexander",5,LB,6-1,227,27,8,LSU,Saints,,
+"
+Caleb Benenoch",65,OL,6-5,305,27,6,UCLA,Saints,,
+"
+James Carpenter",77,G,6-5,321,33,12,Alabama,Saints,,
+"
+Will Clapp",64,C,6-5,311,26,4,Louisiana State,Saints,,
+"
+Ken Crawley",25,CB,6-1,180,29,7,Colorado,Saints,,
+"
+Jeff Heath",38,S,6-1,212,30,10,Saginaw Valley State,Saints,,
+"
+Jalyn Holmes",57,DE,6-5,283,26,5,Ohio State,Saints,,
+"
+Jordan Mills",79,T,6-5,316,31,9,Louisiana Tech,Saints,,
+"
+Christian Ringo",70,DT,6-1,300,30,5,Louisiana-Lafayette,Saints,,
+"
+Kenny Stills",12,WR,6-1,202,29,10,Oklahoma,Saints,,
+"
+Dwayne Washington",24,RB,6-1,223,27,7,Washington,Saints,,
+"
+Robby Anderson",11,WR,6-3,190,28,7,Temple,Panthers,,
+"
+Bradley Bozeman",,C/G,6-5,325,27,5,Alabama,Panthers,,
+"
+Darius Bradwell",,RB,6-0,235,24,1,Tulane,Panthers,,
+"
+Deonte Brown",77,G,6-4,335,24,2,Alabama,Panthers,,
+"
+Derrick Brown",95,DT,6-5,320,23,3,Auburn,Panthers,,
+"
+Spencer Brown",33,RB,6-0,220,23,1,UAB,Panthers,,
+"
+Brian Burns",53,DE,6-5,250,23,4,Florida State,Panthers,,
+"
+Juston Burris",31,S,6-0,210,28,7,North Carolina State,Panthers,,
+"
+Sean Chandler",34,S,5-10,200,25,5,Temple,Panthers,,
+"
+Jeremy Chinn",21,S,6-3,220,24,3,Southern Illinois,Panthers,,
+"
+Brady Christensen",70,T,6-6,300,25,2,BYU,Panthers,,
+"
+Austin Corbett",,G,6-4,305,26,5,Nevada,Panthers,,
+"
+Dennis Daley",65,G,6-6,325,25,4,South Carolina,Panthers,,
+"
+Sam Darnold",14,QB,6-3,225,24,5,Southern Cal,Panthers,,
+"
+Pat Elflein",60,G,6-3,305,27,6,Ohio State,Panthers,,
+"
+Cameron Erving",75,T,6-5,315,29,8,Florida State,Panthers,,
+"
+Thomas Fletcher",46,LS,6-1,235,23,2,Alabama,Panthers,,
+"
+D'Onta Foreman",,RB,6-0,235,25,5,Texas,Panthers,,
+"
+Sam Franklin Jr.",42,S,6-3,210,26,3,Temple,Panthers,,
+"
+Zane Gonzalez",5,K,6-0,200,26,6,Arizona State,Panthers,,
+"
+Yetur Gross-Matos",97,DE,6-5,265,24,3,Penn State,Panthers,,
+"
+Lirim Hajrullahu",3,K,5-11,205,31,1,Western Ontario (Canada),Panthers,,
+"
+Madre Harper",36,CB,6-1,195,24,2,Southern Illinois,Panthers,,
+"
+Myles Hartsfield",38,DB,5-11,210,24,3,Mississippi,Panthers,,
+"
+Marquis Haynes Sr.",98,DE,6-2,235,28,5,Mississippi,Panthers,,
+"
+Johnny Hekker",,P,6-5,225,32,11,Oregon State,Panthers,,
+"
+CJ Henderson",15,CB,6-1,205,23,3,Florida,Panthers,,
+"
+Frank Herron",69,DE,6-5,275,27,2,LSU,Panthers,,
+"
+Rashard Higgins",,WR,6-1,198,27,7,Colorado State,Panthers,,
+"
+Jaycee Horn",8,CB,6-1,200,22,2,South Carolina,Panthers,,
+"
+Mike Horton",66,G,6-4,325,25,1,Auburn,Panthers,,
+"
+Phil Hoskins",71,DT,6-5,280,25,2,Kentucky,Panthers,,
+"
+Chuba Hubbard",30,RB,6-1,210,22,2,Oklahoma State,Panthers,,
+"
+Matt Ioannidis",,DT,6-3,305,28,7,Temple,Panthers,,
+"
+Donte Jackson",26,CB,5-10,180,26,5,LSU,Panthers,,
+"
+Joe Jackson",,DE,6-4,285,25,4,Miami,Panthers,,
+"
+J.J. Jansen",44,LS,6-2,235,36,15,Notre Dame,Panthers,,
+"
+Darryl Johnson",92,DE,6-6,250,25,4,North Carolina A&T,Panthers,,
+"
+Michael Jordan",73,G,6-6,315,24,4,Ohio State,Panthers,,
+"
+Azur Kamara",54,LB,6-4,235,23,3,Kansas,Panthers,,
+"
+Austin Larkin",96,DE,6-3,265,27,2,Purdue,Panthers,,
+"
+Cory Littleton",,LB,6-3,225,28,7,Washington,Panthers,,
+"
+Frankie Luvu",49,LB,6-3,235,25,5,Washington State,Panthers,,
+"
+Terrace Marshall Jr.",88,WR,6-2,200,21,2,LSU,Panthers,,
+"
+Kamal Martin",47,LB,6-3,240,23,3,Minnesota,Panthers,,
+"
+Christian McCaffrey",22,RB,5-11,205,25,6,Stanford,Panthers,,
+"
+Rashaan Melvin",29,CB,6-2,195,32,9,Northern Illinois,Panthers,,
+"
+Aaron Monteiro",62,T,6-6,315,25,1,Boston College,Panthers,,
+"
+DJ Moore",2,WR,6-0,210,25,5,Maryland,Panthers,,
+"
+Taylor Moton",72,T,6-5,325,27,6,Western Michigan,Panthers,,
+"
+Daviyon Nixon",94,DT,6-3,305,23,2,Iowa,Panthers,,
+"
+Aaron Parker",19,WR,6-3,205,23,1,Rhode Island,Panthers,,
+"
+Austen Pleasants",74,OL,6-7,330,24,1,Ohio,Panthers,,
+"
+Troy Pride Jr.",25,CB,5-11,195,24,3,Notre Dame,Panthers,,
+"
+Giovanni Ricci",45,FB,6-3,240,25,2,Western Michigan,Panthers,,
+"
+Kenny Robinson",27,S,6-2,200,23,3,West Virginia,Panthers,,
+"
+Bravvion Roy",93,DT,6-1,330,25,3,Baylor,Panthers,,
+"
+C.J. Saunders",81,WR,5-10,190,N/A,R,Ohio State,Panthers,,
+"
+Shi Smith",12,WR,5-10,190,23,2,South Carolina,Panthers,,
+"
+Julian Stanford",50,LB,6-1,230,31,9,Wagner,Panthers,,
+"
+Stephen Sullivan",84,TE,6-5,245,25,1,LSU,Panthers,,
+"
+Keith Taylor Jr.",28,CB,6-3,195,22,2,Washington,Panthers,,
+"
+Sam Tecklenburg",68,C,6-4,310,25,2,Baylor,Panthers,,
+"
+Ian Thomas",80,TE,6-4,260,25,5,Indiana,Panthers,,
+"
+Stantley Thomas-Oliver III",23,CB,6-0,190,23,3,FIU,Panthers,,
+"
+Colin Thompson",86,TE,6-4,255,28,3,Temple,Panthers,,
+"
+Shaq Thompson",7,LB,6-0,230,27,8,Washington,Panthers,,
+"
+Tommy Tremble",82,TE,6-4,250,21,2,Notre Dame,Panthers,,
+"
+Jacob Tuioti-Mariner",48,DT,6-2,260,25,4,UCLA,Panthers,,
+"
+P.J. Walker",6,QB,5-11,210,27,3,Temple,Panthers,,
+"
+Chris Westry",,CB,6-4,210,24,3,Kentucky,Panthers,,
+"
+Damien Wilson",,LB,6-1,245,28,8,Minnesota,Panthers,,
+"
+Xavier Woods",,S,5-11,200,26,6,Louisiana Tech,Panthers,,
+"
+Brandon Zylstra",16,WR,6-2,215,29,5,Concordia (Minn.),Panthers,,
+"
+Kenjon Barner",38,RB,5-9,195,32,8,Oregon,Bucs,,
+"
+Shaquil Barrett",58,OLB,6-2,250,29,9,Colorado State,Bucs,,
+"
+Giovani Bernard",25,RB,5-9,205,30,10,North Carolina,Bucs,,
+"
+Jose Borregales",19,K,5-10,206,24,1,Miami,Bucs,,
+"
+Tom Brady",12,QB,6-4,225,44,23,Michigan,Bucs,,
+"
+Cameron Brate",84,TE,6-5,245,30,8,Harvard,Bucs,,
+"
+K.J. Britt",52,ILB,6-0,235,22,2,Auburn,Bucs,,
+"
+Ross Cockrell",43,CB,6-0,191,30,9,Duke,Bucs,,
+"
+Chris Cooper",39,S,5-10,202,28,1,Stony Brook,Bucs,,
+"
+Jaelon Darden",1,WR,5-8,174,23,2,North Texas,Bucs,,
+"
+Lavonte David",54,ILB,6-1,233,32,11,Nebraska,Bucs,,
+"
+Carlton Davis III",24,CB,6-1,206,25,5,Auburn,Bucs,,
+"
+Jamel Dean",35,CB,6-1,206,25,4,Auburn,Bucs,,
+"
+Dee Delaney",30,CB,5-11,200,27,2,Miami,Bucs,,
+"
+Mike Edwards",32,S,5-10,205,25,4,Kentucky,Bucs,,
+"
+Mike Evans",13,WR,6-5,231,28,9,Texas A&M,Bucs,,
+"
+Leonard Fournette",7,RB,6-0,228,27,6,LSU,Bucs,,
+"
+Blaine Gabbert",11,QB,6-5,235,32,12,Missouri,Bucs,,
+Russell Gage,,WR,6-0,184,26,5,LSU,Bucs,,
+"
+William Gholston",92,DL,6-6,281,30,10,Michigan State,Bucs,,
+"
+Cam Gill",49,OLB,6-3,240,24,3,Wagner,Bucs,,
+"
+Chris Godwin",14,WR,6-1,208,26,6,Penn State,Bucs,,
+"
+Cyril Grayson Jr.",15,WR,5-9,183,28,2,LSU,Bucs,,
+"
+Ryan Griffin",4,QB,6-4,218,32,8,Tulane,Bucs,,
+"
+Robert Hainsey",70,OL,6-4,306,23,2,Notre Dame,Bucs,,
+Sterling Hofrichter,6,P,5-10,196,25,2,Syracuse,Bucs,,
+"
+Jonathan Hubbard",68,T,6-4,313,24,1,Northwestern State (LA),Bucs,,
+"
+Sadarius Hutcherson",61,G,6-3,321,23,2,South Carolina,Bucs,,
+"
+Ryan Jensen",66,C,6-4,319,30,9,Colorado State-Pueblo,Bucs,,
+Fred Johnson,,OL,6-7,326,24,4,Florida,Bucs,,
+"
+Tyler Johnson",18,WR,6-1,206,23,3,Minnesota,Bucs,,
+"
+Travis Jonsen",,WR,6-4,211,25,1,Montana State,Bucs,,
+"
+Nick Leverett",60,G,6-4,310,25,2,Rice,Bucs,,
+Shaq Mason,,G,6-1,310,28,8,Georgia Tech,Bucs,,
+"
+Codey McElroy",86,TE,6-6,258,29,1,Southeastern Oklahoma State,Bucs,,
+"
+Scotty Miller",10,WR,5-9,174,24,4,Bowling Green,Bucs,,
+"
+John Molchon",75,G,6-5,309,25,3,Boise State,Bucs,,
+"
+Sean Murphy-Bunting",23,CB,6-0,195,24,4,Central Michigan,Bucs,,
+Keanu Neal,,S,6-0,211,26,7,Florida,Bucs,,
+"
+Anthony Nelson",98,OLB,6-7,271,25,4,Iowa,Bucs,,
+"
+Rakeem Nunez-Roches",56,DL,6-2,307,28,8,Southern Mississippi,Bucs,,
+"
+Breshad Perriman",16,WR,6-2,215,28,8,Central Florida,Bucs,,
+"
+Bradley Pinion",8,P,6-5,229,27,8,Clemson,Bucs,,
+"
+Elijah Ponder",44,OLB,6-3,275,24,1,Cincinnati,Bucs,,
+"
+Benning Potoa'e",91,DL,6-3,290,25,1,Washington,Bucs,,
+Willington Previlon,94,DL,6-5,287,24,1,Rutgers,Bucs,,
+"
+Rashard Robinson",28,CB,6-1,177,26,6,LSU,Bucs,,
+Logan Ryan,,S,5-11,195,31,10,Rutgers,Bucs,,
+"
+Donovan Smith",76,T,6-6,338,28,8,Penn State,Bucs,,
+"
+Kobe Smith",71,DL,6-2,300,23,1,South Carolina,Bucs,,
+Vyncint Smith,,WR,6-3,195,25,4,Limestone,Bucs,,
+"
+Aaron Stinnie",64,G,6-3,312,28,5,James Madison,Bucs,,
+"
+Grant Stuard",48,ILB,5-11,230,23,2,Houston,Bucs,,
+"
+Ryan Succop",3,K,6-2,218,35,14,South Carolina,Bucs,,
+"
+Kyle Trask",2,QB,6-5,236,24,2,Florida,Bucs,,
+"
+Zach Triner",97,LS,6-3,245,31,4,Assumption,Bucs,,
+"
+Joe Tryon-Shoyinka",9,OLB,6-5,259,22,2,Washington,Bucs,,
+"
+Ke'Shawn Vaughn",21,RB,5-10,214,24,3,Vanderbilt,Bucs,,
+"
+Vita Vea",50,DL,6-4,347,27,5,Washington,Bucs,,
+"
+Brandon Walton",73,T,6-5,300,24,1,Florida Atlantic,Bucs,,
+"
+Troy Warner",22,S,6-1,200,23,1,BYU,Bucs,,
+Austin Watkins Jr.,,WR,6-3,210,24,1,UAB,Bucs,,
+"
+Josh Wells",72,T,6-6,306,31,8,James Madison,Bucs,,
+"
+Devin White",45,ILB,6-0,237,24,4,LSU,Bucs,,
+"
+Antoine Winfield Jr.",31,S,5-9,203,23,3,Minnesota,Bucs,,
+"
+Tristan Wirfs",78,T,6-5,320,23,3,Iowa,Bucs,,
+"
+Ali Marpet",74,G,6-4,307,N/A,R,Hobart,Bucs,,
+"
+Andrew Adams",26,S,5-11,205,29,7,Connecticut,Bucs,,
+"
+Pierre Desir",29,CB,6-2,206,31,9,Lindenwood,Bucs,,
+"
+Rob Gronkowski",87,TE,6-6,265,32,12,Arizona,Bucs,,
+"
+Steve McLendon",96,DL,6-3,310,36,13,Troy,Bucs,,
+"
+Kevin Minter",51,ILB,6-0,246,31,10,LSU,Bucs,,
+"
+Patrick O'Connor",79,DL,6-4,270,28,4,Eastern Michigan,Bucs,,
+"
+Jason Pierre-Paul",90,OLB,6-5,275,33,13,South Florida,Bucs,,
+Curtis Riley,39,S,6-0,189,29,8,Fresno State,Bucs,,
+"
+Richard Sherman",5,CB,6-3,195,34,12,Stanford,Bucs,,
+"
+Ndamukong Suh",93,DL,6-4,313,35,13,Nebraska,Bucs,,
